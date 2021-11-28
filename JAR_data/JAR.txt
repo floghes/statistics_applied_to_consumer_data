@@ -1,0 +1,1261 @@
+"Juge"	"Age"	"Sexe"	"CSP"	"Son"	"Rang"	"Innovation"	"Originalité"	"Sobriété"	"Proximité"	"Ludique"	"Haut.de.gamme"	"Simplicité"	"Liberté"	"Humanité"	"Technologie"	"Convivialité"	"Complexité"	"Populaire"	"Sérieux"	"International"	"Passion"	"Artisanal"	"Traditionnal"	"Performence"	"Joyeux"	"Surprenant"	"Excitant"	"Energique"	"Sensuel"	"Triste"	"Chaleureux"	"Sérieux1"	"Note"	"Pourquoi"
+"1"	1	25	"H"	"Etudiant"	1	1	0	1	0	0	0	1	0	0	0	0	0	1	0	1	1	0	0	0	1	3	2	3	3	3	2	3	3	9	"le violon apporte un air chaleureux et énergique"
+"2"	1	25	"H"	"Etudiant"	2	2	0	0	1	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	2	3	3	2	2	2	3	3	7	"piano pas assez haut de gamme, pas assez energique"
+"3"	1	25	"H"	"Etudiant"	3	3	0	1	1	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	4	4	3	4	2	1	3	2	4	"trop joyeux, trop energique"
+"4"	1	25	"H"	"Etudiant"	4	4	0	1	0	0	1	0	0	0	0	0	1	0	1	0	0	0	1	0	0	4	5	1	2	2	2	3	1	2	"pas assez classe"
+"5"	1	25	"H"	"Etudiant"	5	5	1	1	0	0	0	1	0	0	0	0	1	0	1	0	0	0	0	0	1	4	3	3	4	4	2	3	3	7	"tempo trop rapide, trop énergique"
+"6"	1	25	"H"	"Etudiant"	6	6	0	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	1	0	0	3	4	2	3	2	1	3	3	5	"trop surprenant"
+"7"	1	25	"H"	"Etudiant"	7	7	1	0	0	0	0	1	0	0	0	0	0	1	0	1	1	0	0	0	0	2	4	2	1	2	4	2	3	6	"surprenant par la lenteur du rythme, pas agréable"
+"8"	1	25	"H"	"Etudiant"	8	8	0	1	0	0	1	0	0	1	1	0	1	0	0	0	0	1	0	0	1	3	4	3	3	3	2	3	3	8	"effet écho agréable"
+"9"	1	25	"H"	"Etudiant"	9	9	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	2	4	2	2	1	3	2	3	2	"pas agréable, vraiment trop lent"
+"10"	1	25	"H"	"Etudiant"	10	10	0	0	1	0	1	0	0	0	0	0	0	0	1	0	0	0	1	0	0	4	4	2	4	2	2	4	2	4	"instrument et tempo ne font pas sérieux"
+"11"	1	25	"H"	"Etudiant"	11	11	1	0	1	0	0	1	0	1	0	0	0	0	1	0	0	0	0	0	1	3	2	3	3	3	2	3	3	7	"piano agréable"
+"12"	1	25	"H"	"Etudiant"	12	12	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	2	4	1	1	2	4	2	3	3	"tempo vraiment trop lent"
+"13"	2	23	"F"	"Etudiant"	1	1	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	1	0	2	2	2	3	1	4	2	5	2	"instrument ne fait pas assez technologique"
+"14"	2	23	"F"	"Etudiant"	2	2	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	3	3	2	3	2	3	2	4	7	"écho du piano fait innovant"
+"15"	2	23	"F"	"Etudiant"	3	3	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	2	4	1	3	1	4	1	4	1	"strident"
+"16"	2	23	"F"	"Etudiant"	4	4	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	1	0	0	0	2	3	3	2	3	3	2	4	5	"tempo trop lent, pas technologique, pas innovant"
+"17"	2	23	"F"	"Etudiant"	5	5	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	3	4	2	3	2	3	2	4	3	"un peu trop strident"
+"18"	2	23	"F"	"Etudiant"	6	6	1	0	1	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	3	3	3	4	2	3	3	3	8	"tempo légèrement trop rapide"
+"19"	2	23	"F"	"Etudiant"	7	7	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	3	2	2	4	2	3	4	4	4	"tempo un peu trop rapide, instrument inapproprié, trop claironnant"
+"20"	2	23	"F"	"Etudiant"	8	8	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	3	3	3	4	2	3	2	2	5	"trop aigu, pas assez sérieux"
+"21"	2	23	"F"	"Etudiant"	9	9	0	0	1	0	0	0	0	0	0	0	1	0	0	0	1	0	0	1	0	2	2	2	4	3	3	3	3	6	"tempo légèrement trop rapide, écho un peu pompeux et lourd"
+"22"	2	23	"F"	"Etudiant"	10	10	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	1	0	0	3	4	2	2	2	4	2	2	5	"instrument inapproprié, pas assez classe"
+"23"	2	23	"F"	"Etudiant"	11	11	0	0	0	0	0	1	0	0	1	0	0	0	0	0	1	0	1	0	0	2	2	2	2	3	3	3	3	5	"écho trop important, peu classe"
+"24"	2	23	"F"	"Etudiant"	12	12	0	0	0	0	1	0	1	0	0	1	0	0	0	0	0	0	0	0	0	3	2	3	4	2	3	2	3	4	"trop strident, un peu trop rapide"
+"25"	3	22	"H"	"Etudiant"	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	1	3	1	3	3	3	4	2	3	6	"trop traditionnel"
+"26"	3	22	"H"	"Etudiant"	2	2	0	0	0	0	0	1	0	1	1	0	0	0	0	1	0	0	0	1	0	1	2	1	4	2	4	2	3	7	"haut de gamme"
+"27"	3	22	"H"	"Etudiant"	3	3	0	0	1	1	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	3	3	2	2	4	5	1	4	2	"pas assez complexe"
+"28"	3	22	"H"	"Etudiant"	4	4	1	0	0	0	0	0	0	0	0	1	0	1	0	1	0	0	0	0	1	5	5	4	4	1	2	4	1	0	"trop populaire"
+"29"	3	22	"H"	"Etudiant"	5	5	0	0	1	0	1	0	1	0	0	1	0	0	1	0	0	0	0	0	1	4	2	2	5	2	3	3	3	4	"pas un son expert"
+"30"	3	22	"H"	"Etudiant"	6	6	0	0	0	0	0	1	0	0	1	0	0	0	0	1	1	0	0	1	0	1	2	2	1	4	4	2	4	6	"pas assez energique pour de l'innovation"
+"31"	3	22	"H"	"Etudiant"	7	7	0	1	0	0	1	0	0	0	0	0	1	0	1	0	0	0	1	1	0	5	5	1	4	1	2	3	2	3	"beaucoup trop populaire et traditionnel, pas assez haut de gamme"
+"32"	3	22	"H"	"Etudiant"	8	8	0	0	1	1	1	0	0	0	0	0	0	0	1	0	0	0	1	1	0	3	3	3	4	2	3	3	3	8	"assez simple, efficacité, innovation"
+"33"	3	22	"H"	"Etudiant"	9	9	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	1	1	0	2	5	1	2	1	3	1	2	2	"traditionnel, sans originalité"
+"34"	3	22	"H"	"Etudiant"	10	10	0	1	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	1	4	4	4	5	1	2	4	2	2	"trop bref"
+"35"	3	22	"H"	"Etudiant"	11	11	0	1	1	0	0	1	0	1	1	0	0	0	0	1	0	1	0	0	0	3	3	3	3	3	4	2	2	9	"son posé, manque de complexité en grave"
+"36"	3	22	"H"	"Etudiant"	12	12	1	1	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	4	5	1	2	5	2	3	1	1	"son de vieux portable, perçant, désagréable"
+"37"	4	22	"F"	"Etudiant"	1	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	1	0	1	4	1	1	1	4	1	5	0	"accordéon fait vieux-jeu, oldschool"
+"38"	4	22	"F"	"Etudiant"	2	2	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	3	3	2	3	1	3	3	4	2	NA
+"39"	4	22	"F"	"Etudiant"	3	3	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	3	3	2	2	3	3	3	4	6	NA
+"40"	4	22	"F"	"Etudiant"	4	4	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	1	4	1	1	1	4	1	4	0	NA
+"41"	4	22	"F"	"Etudiant"	5	5	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	3	3	2	2	3	4	3	3	4	NA
+"42"	4	22	"F"	"Etudiant"	6	6	0	0	0	0	0	0	0	1	0	0	1	0	1	0	0	0	0	0	1	3	3	3	3	2	3	3	2	6	NA
+"43"	4	22	"F"	"Etudiant"	7	7	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	3	3	3	3	3	3	3	3	7	NA
+"44"	4	22	"F"	"Etudiant"	8	8	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	2	5	2	4	2	3	2	1	3	NA
+"45"	4	22	"F"	"Etudiant"	9	9	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	1	0	4	4	3	5	2	2	4	1	2	NA
+"46"	4	22	"F"	"Etudiant"	10	10	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	4	1	1	2	1	1	2	0	NA
+"47"	4	22	"F"	"Etudiant"	11	11	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	3	4	2	3	2	3	2	3	4	NA
+"48"	4	22	"F"	"Etudiant"	12	12	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	4	4	3	3	2	3	3	2	4	NA
+"49"	5	23	"F"	"Etudiant"	1	1	0	0	0	0	0	1	0	1	0	1	0	0	0	0	0	0	0	0	1	3	3	2	3	3	3	2	2	2	"trop léger, pas assez serieux"
+"50"	5	23	"F"	"Etudiant"	2	2	0	0	1	0	0	0	0	0	1	0	0	0	0	1	0	1	1	0	0	3	3	3	3	3	3	3	3	9	"dynamique, avec des graves et de la profondeur"
+"51"	5	23	"F"	"Etudiant"	3	3	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	4	4	4	4	2	2	2	2	2	"trop rapide, pas assez serieux, pas assez haut de gamme"
+"52"	5	23	"F"	"Etudiant"	4	4	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	1	0	0	1	3	2	2	2	3	3	3	4	6	"pas assez dynamique, pas assez innovant"
+"53"	5	23	"F"	"Etudiant"	5	5	1	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	3	2	2	2	3	4	2	3	3	"logo triste, peu dynamique"
+"54"	5	23	"F"	"Etudiant"	6	6	0	1	0	1	0	0	1	0	0	1	1	0	0	0	1	0	0	0	0	3	3	2	2	1	3	1	3	4	"pas assez dynamique"
+"55"	5	23	"F"	"Etudiant"	7	7	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	1	1	0	3	3	4	4	3	3	3	2	7	"trop rapide, baclé sur la fin"
+"56"	5	23	"F"	"Etudiant"	8	8	0	0	0	0	0	0	1	0	1	0	1	0	0	0	0	1	0	0	1	3	2	2	2	3	3	3	2	6	"trop de mollesse, pas très expert"
+"57"	5	23	"F"	"Etudiant"	9	9	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	2	2	2	3	3	3	2	4	"trop mou, pas innovant"
+"58"	5	23	"F"	"Etudiant"	10	10	0	1	0	0	0	0	0	1	1	0	1	0	0	0	0	0	0	0	0	3	3	3	3	3	4	3	3	7	"pas assez dynamique"
+"59"	5	23	"F"	"Etudiant"	11	11	1	0	0	0	0	0	1	0	1	0	0	0	0	0	0	1	0	1	0	3	4	3	3	2	3	2	2	5	"les notes sont décalées, trop surprenant"
+"60"	5	23	"F"	"Etudiant"	12	12	0	0	0	0	0	1	0	0	1	0	0	1	0	1	0	0	0	1	1	3	3	2	2	2	3	2	2	3	"pas assez de profondeur, pas assez de serieux"
+"61"	6	56	"F"	"Employé"	1	1	1	1	1	0	0	1	0	0	0	0	0	0	0	1	1	0	0	1	0	2	1	1	2	1	3	3	3	4	"pas assez innovant"
+"62"	6	56	"F"	"Employé"	2	2	1	1	1	0	0	1	0	0	0	1	0	0	0	1	0	0	0	0	0	3	3	2	3	2	3	2	3	6	"assez innovant"
+"63"	6	56	"F"	"Employé"	3	3	1	1	1	0	0	1	0	0	0	0	0	0	0	1	0	0	0	1	0	3	3	2	2	2	3	2	4	5	"trop traditionnel"
+"64"	6	56	"F"	"Employé"	4	4	1	1	0	0	1	0	1	0	0	0	0	0	0	0	0	0	1	0	0	3	4	2	1	2	3	2	1	3	"pas assez énergique, pas assez sérieux"
+"65"	6	56	"F"	"Employé"	5	5	1	1	1	0	0	1	1	0	0	0	0	0	0	0	0	0	1	0	0	2	3	1	1	1	2	2	2	2	"pas assez énergique"
+"66"	6	56	"F"	"Employé"	6	6	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	2	2	1	1	1	1	1	1	1	"trop simpliste"
+"67"	6	56	"F"	"Employé"	7	7	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	0	0	1	0	3	2	2	2	2	3	3	3	4	"restitue le serieux de l'entreprise"
+"68"	6	56	"F"	"Employé"	8	8	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	0	0	1	0	4	3	2	2	2	3	2	2	3	"pas assez serieux"
+"69"	6	56	"F"	"Employé"	9	9	0	0	1	0	0	0	1	0	0	0	0	0	0	1	0	0	0	1	0	2	2	2	2	3	3	3	3	4	"trop grave"
+"70"	6	56	"F"	"Employé"	10	10	1	1	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	3	3	3	3	3	5	"serieux, chaleureux, pas assez innovant"
+"71"	6	56	"F"	"Employé"	11	11	0	1	0	0	0	1	1	0	0	0	0	0	0	1	1	0	0	0	0	3	4	2	2	2	2	2	2	3	"pas assez serieux, trop léger"
+"72"	6	56	"F"	"Employé"	12	12	0	0	1	0	0	1	1	0	0	0	0	0	0	1	0	0	0	1	0	2	3	2	2	1	4	2	4	3	"trop solennel, trop triste"
+"73"	7	19	"F"	"Etudiant"	1	1	0	1	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	2	3	2	1	2	4	2	3	3	"trop aigu"
+"74"	7	19	"F"	"Etudiant"	2	2	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	1	0	3	3	3	4	2	3	2	3	6	"assez sec, assez bref"
+"75"	7	19	"F"	"Etudiant"	3	3	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	2	3	2	2	1	3	2	3	2	"manque de proximité"
+"76"	7	19	"F"	"Etudiant"	4	4	1	0	0	1	0	0	0	1	1	0	1	0	0	0	0	1	0	0	0	3	2	2	3	3	3	2	3	7	"colle bien avec technologie et innovation"
+"77"	7	19	"F"	"Etudiant"	5	5	0	0	1	0	0	1	0	0	0	0	0	1	0	1	0	0	0	0	1	2	3	2	3	1	3	1	4	4	"sévère,bref"
+"78"	7	19	"F"	"Etudiant"	6	6	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	1	0	2	3	2	2	2	3	2	3	2	"pas assez dynamique"
+"79"	7	19	"F"	"Etudiant"	7	7	1	0	1	0	0	1	0	0	0	1	0	1	0	0	1	0	0	0	1	2	3	3	2	3	3	2	3	8	"sérieux, haut de gamme et technologie"
+"80"	7	19	"F"	"Etudiant"	8	8	1	1	0	1	0	0	0	1	1	0	0	0	0	0	0	1	0	0	0	2	3	3	4	3	3	3	2	7	NA
+"81"	7	19	"F"	"Etudiant"	9	9	1	1	0	0	1	0	0	1	0	0	1	0	1	0	0	0	0	0	1	3	3	3	4	3	3	2	3	8	"allie les valeurs de l'entreprise"
+"82"	7	19	"F"	"Etudiant"	10	10	0	0	1	0	0	1	0	0	0	1	0	1	0	1	0	0	0	1	1	2	3	1	3	2	3	2	4	4	"trop sec, hautain"
+"83"	7	19	"F"	"Etudiant"	11	11	0	0	1	0	0	0	0	0	0	1	0	1	0	0	0	0	1	0	0	1	3	2	1	2	3	2	5	2	"pas assez dynamique, ne reflète pas la marque"
+"84"	7	19	"F"	"Etudiant"	12	12	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	1	1	0	1	3	2	1	2	4	1	4	3	"trop populaire, trop triste"
+"85"	8	22	"F"	"Etudiant"	1	1	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	1	1	1	2	1	4	1	4	2	"trop vieillot, trop pompeux, pas du tout innovant, pas du tout récent"
+"86"	8	22	"F"	"Etudiant"	2	2	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	2	1	1	2	4	1	4	2	"beaucoup trop lent"
+"87"	8	22	"F"	"Etudiant"	3	3	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	1	2	1	1	1	5	1	5	0	"musique mortuaire"
+"88"	8	22	"F"	"Etudiant"	4	4	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	3	2	3	2	3	2	3	4	"manque originalité, manque un joli son, trop aigu"
+"89"	8	22	"F"	"Etudiant"	5	5	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	2	2	2	2	3	4	1	5	5	"un peu trop classique pour une marque d'innovation"
+"90"	8	22	"F"	"Etudiant"	6	6	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	2	2	2	3	2	4	2	4	4	"trop grave pour faire jeune ou independant"
+"91"	8	22	"F"	"Etudiant"	7	7	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	2	1	1	1	1	5	2	5	2	"très ceremonieux, ne fait pas du tout logo sonore"
+"92"	8	22	"F"	"Etudiant"	8	8	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	3	3	3	3	2	3	3	4	8	"pas complètement innovant mais rythme classe, reflete bien la technologie"
+"93"	8	22	"F"	"Etudiant"	9	9	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	3	1	3	1	4	6	"froid, pas chaleureux"
+"94"	8	22	"F"	"Etudiant"	10	10	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	5	2	3	1	3	2	4	3	"fait mal aux oreilles, mauvaise image de la technologie, surprenant dans le mauvais sens"
+"95"	8	22	"F"	"Etudiant"	11	11	0	0	1	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	1	1	1	1	1	4	1	4	1	"tres pompeux, classique, pas innovant, pas convivial"
+"96"	8	22	"F"	"Etudiant"	12	12	0	0	1	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	1	1	1	2	1	5	1	5	1	"pas innovant"
+"97"	9	22	"F"	"Etudiant"	1	1	0	0	0	1	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	2	2	2	2	4	3	3	3	5	NA
+"98"	9	22	"F"	"Etudiant"	2	2	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	2	2	2	2	3	3	3	3	5	NA
+"99"	9	22	"F"	"Etudiant"	3	3	0	0	0	0	1	0	1	1	0	0	0	0	0	0	1	0	0	0	1	3	3	2	3	3	3	4	3	6	NA
+"100"	9	22	"F"	"Etudiant"	4	4	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	3	3	3	3	3	4	3	4	6	NA
+"101"	9	22	"F"	"Etudiant"	5	5	0	0	1	0	0	1	0	1	0	0	0	0	0	0	0	1	0	0	0	3	3	2	2	3	4	3	3	5	NA
+"102"	9	22	"F"	"Etudiant"	6	6	0	1	0	0	1	0	0	0	0	0	1	0	1	0	0	0	1	1	0	2	5	2	2	3	4	3	2	2	NA
+"103"	9	22	"F"	"Etudiant"	7	7	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	1	0	3	3	3	3	3	3	3	4	7	NA
+"104"	9	22	"F"	"Etudiant"	8	8	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	4	2	2	3	3	3	3	4	NA
+"105"	9	22	"F"	"Etudiant"	9	9	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	1	3	3	3	3	3	3	3	3	8	NA
+"106"	9	22	"F"	"Etudiant"	10	10	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	4	5	2	3	3	3	4	2	3	NA
+"107"	9	22	"F"	"Etudiant"	11	11	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	1	0	4	5	2	3	3	3	4	2	2	NA
+"108"	9	22	"F"	"Etudiant"	12	12	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	3	4	3	3	3	3	3	2	4	"trop strident"
+"109"	10	22	"F"	"Etudiant"	1	1	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	2	3	3	2	3	2	1	3	8	NA
+"110"	10	22	"F"	"Etudiant"	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	2	3	2	2	4	2	1	5	NA
+"111"	10	22	"F"	"Etudiant"	3	3	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	5	4	2	4	1	3	2	3	3	NA
+"112"	10	22	"F"	"Etudiant"	4	4	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	3	2	2	1	5	3	3	3	8	NA
+"113"	10	22	"F"	"Etudiant"	5	5	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	3	3	3	3	2	3	2	3	9	NA
+"114"	10	22	"F"	"Etudiant"	6	6	0	1	1	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	3	3	2	2	2	3	3	3	7	NA
+"115"	10	22	"F"	"Etudiant"	7	7	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	3	2	3	2	1	4	2	4	3	NA
+"116"	10	22	"F"	"Etudiant"	8	8	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	1	2	1	3	3	2	3	7	NA
+"117"	10	22	"F"	"Etudiant"	9	9	0	0	1	0	0	1	0	0	1	0	1	0	0	0	0	1	0	0	0	3	3	3	3	3	3	3	4	10	NA
+"118"	10	22	"F"	"Etudiant"	10	10	0	1	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	3	1	1	2	1	4	3	3	2	NA
+"119"	10	22	"F"	"Etudiant"	11	11	0	0	0	0	0	1	0	0	0	0	0	1	0	1	0	0	0	0	0	3	3	3	2	3	3	3	4	9	NA
+"120"	10	22	"F"	"Etudiant"	12	12	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	1	3	3	3	3	2	3	3	3	9	NA
+"121"	11	22	"H"	"Etudiant"	1	1	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	1	2	3	1	2	2	4	1	3	7	"son très electrique, synonyme de technologie et innovation"
+"122"	11	22	"H"	"Etudiant"	2	2	0	0	0	0	0	1	1	0	0	1	0	0	0	0	0	0	0	0	0	3	2	2	2	2	4	3	3	5	"son classique, synonyme de précision mais pas vraiment innovant"
+"123"	11	22	"H"	"Etudiant"	3	3	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	1	0	1	4	2	3	1	4	1	3	3	"musique energique mais trop triste, on croirait dans une église"
+"124"	11	22	"H"	"Etudiant"	4	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	2	3	3	3	3	4	3	4	7	"son qui s'affirme, synonyme d'indépendance, précision"
+"125"	11	22	"H"	"Etudiant"	5	5	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	3	3	4	2	3	8	"classique et serieux, technologie et innovation"
+"126"	11	22	"H"	"Etudiant"	6	6	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	1	3	4	2	3	6	"son trop lent, pas suffisamment novateur"
+"127"	11	22	"H"	"Etudiant"	7	7	1	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	0	0	3	3	2	3	2	3	2	3	8	"classique et précis"
+"128"	11	22	"H"	"Etudiant"	8	8	0	0	1	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	2	1	1	3	5	3	4	3	"trop lent, pas assez excitant"
+"129"	11	22	"H"	"Etudiant"	9	9	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	2	2	2	1	2	3	2	2	4	"trop traditionnel, cornemuse, trop artisanal"
+"130"	11	22	"H"	"Etudiant"	10	10	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	2	2	3	2	3	4	3	3	6	"un peu trop lent, un peu trop classique"
+"131"	11	22	"H"	"Etudiant"	11	11	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	1	0	3	4	4	4	1	3	1	2	3	"musique de cirque, pas assez serieux"
+"132"	11	22	"H"	"Etudiant"	12	12	1	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	3	5	4	4	1	2	1	3	6	"beaucoup trop agressif"
+"133"	12	22	"F"	"Etudiant"	1	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	2	2	2	4	1	1	2	1	2	"trop agréssif"
+"134"	12	22	"F"	"Etudiant"	2	2	0	0	1	0	0	0	1	0	0	0	0	1	0	0	0	1	0	0	0	3	3	2	3	2	3	3	3	8	"musique classique, valeur de haut de gamme"
+"135"	12	22	"F"	"Etudiant"	3	3	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	2	2	2	3	2	3	2	3	5	NA
+"136"	12	22	"F"	"Etudiant"	4	4	0	0	0	0	0	1	0	0	0	0	0	1	0	1	0	0	0	1	0	2	3	2	2	2	4	2	4	3	"ton trop grave, trop sérieux, pas d'innovation"
+"137"	12	22	"F"	"Etudiant"	5	5	0	0	1	0	0	0	1	0	0	0	0	0	0	1	0	0	1	0	0	3	3	2	2	2	3	2	3	6	NA
+"138"	12	22	"F"	"Etudiant"	6	6	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	5	2	4	1	1	1	3	2	"trop aigüe, strident, pas convivial"
+"139"	12	22	"F"	"Etudiant"	7	7	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	2	2	2	4	2	3	1	3	3	"pas d'innovation, son synthétique, pas du tout haut de gamme"
+"140"	12	22	"F"	"Etudiant"	8	8	0	0	1	0	0	0	0	0	0	0	1	0	1	0	0	0	0	1	0	3	3	3	3	2	3	4	2	6	"trop convivial, pas son haut de gamme avec l'accordéon"
+"141"	12	22	"F"	"Etudiant"	9	9	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	2	2	2	2	2	4	2	3	6	"Pas assez énergique pour le côté innovation et technologie"
+"142"	12	22	"F"	"Etudiant"	10	10	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	4	5	4	5	2	2	1	1	5	"son trop strident, pas adapté haut de gamme mais technologie oui."
+"143"	12	22	"F"	"Etudiant"	11	11	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	3	3	3	3	2	3	2	3	9	"son innovant, reflète la technologie"
+"144"	12	22	"F"	"Etudiant"	12	12	0	0	1	0	0	0	1	0	0	0	1	0	0	0	0	0	0	1	0	4	3	3	3	1	3	4	2	3	"accordéon ni innovant, ni nouveauté technologique, pas adapté"
+"145"	13	23	"F"	"Etudiant"	1	1	0	1	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	4	3	3	4	2	3	2	1	5	NA
+"146"	13	23	"F"	"Etudiant"	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	1	1	3	1	4	2	5	1	NA
+"147"	13	23	"F"	"Etudiant"	3	3	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	1	0	0	3	2	2	3	3	3	3	3	8	NA
+"148"	13	23	"F"	"Etudiant"	4	4	1	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	2	3	2	1	3	3	2	3	4	NA
+"149"	13	23	"F"	"Etudiant"	5	5	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	2	3	2	3	1	4	2	4	3	NA
+"150"	13	23	"F"	"Etudiant"	6	6	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	3	2	2	3	2	4	2	3	4	NA
+"151"	13	23	"F"	"Etudiant"	7	7	1	1	0	1	0	1	1	0	0	1	0	0	0	0	0	0	0	0	0	2	3	2	2	3	4	2	3	4	NA
+"152"	13	23	"F"	"Etudiant"	8	8	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	2	1	2	2	4	2	5	2	NA
+"153"	13	23	"F"	"Etudiant"	9	9	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	1	1	3	2	4	2	5	2	NA
+"154"	13	23	"F"	"Etudiant"	10	10	0	0	0	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	2	3	3	2	3	4	3	3	7	NA
+"155"	13	23	"F"	"Etudiant"	11	11	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	3	3	3	3	4	2	3	6	NA
+"156"	13	23	"F"	"Etudiant"	12	12	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	1	3	2	3	3	3	4	2	3	7	NA
+"157"	14	19	"F"	"Etudiant"	1	1	0	0	1	1	0	0	1	0	0	0	1	0	1	0	0	0	0	1	0	4	2	3	2	3	3	2	2	4	NA
+"158"	14	19	"F"	"Etudiant"	2	2	0	0	1	0	1	1	0	0	1	0	0	1	0	1	0	0	0	0	1	2	2	2	2	3	4	2	3	2	NA
+"159"	14	19	"F"	"Etudiant"	3	3	0	0	1	1	1	0	1	1	0	0	0	0	0	1	0	1	0	0	0	3	3	3	3	3	3	3	3	10	NA
+"160"	14	19	"F"	"Etudiant"	4	4	1	0	0	0	1	0	1	1	1	0	1	1	0	0	1	0	1	0	1	3	3	2	3	3	3	3	3	9	NA
+"161"	14	19	"F"	"Etudiant"	5	5	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	1	5	2	4	2	3	1	3	5	NA
+"162"	14	19	"F"	"Etudiant"	6	6	1	0	1	1	0	0	1	0	1	1	1	0	1	1	0	0	0	0	0	3	3	2	1	3	3	2	3	4	"manque de dynamisme dans le rythme"
+"163"	14	19	"F"	"Etudiant"	7	7	1	1	0	0	0	1	0	0	0	1	0	1	0	0	1	0	0	0	1	2	5	4	5	3	3	1	3	2	NA
+"164"	14	19	"F"	"Etudiant"	8	8	0	0	1	0	0	0	0	0	1	0	0	0	0	1	0	0	1	0	0	3	2	1	1	3	4	3	3	1	NA
+"165"	14	19	"F"	"Etudiant"	9	9	1	1	0	0	1	0	0	1	0	1	0	0	0	0	1	1	0	0	1	3	5	4	5	3	3	3	3	3	NA
+"166"	14	19	"F"	"Etudiant"	10	10	0	0	0	1	1	0	1	0	1	0	1	0	1	0	0	1	0	1	0	4	1	1	2	1	3	4	2	0	NA
+"167"	14	19	"F"	"Etudiant"	11	11	1	1	0	0	0	0	0	1	0	1	1	0	0	1	1	1	0	0	1	3	3	2	3	2	3	3	3	7	NA
+"168"	14	19	"F"	"Etudiant"	12	12	0	1	1	1	1	0	0	0	1	0	0	0	0	1	1	0	1	1	0	3	3	2	2	3	3	2	3	3	NA
+"169"	15	20	"F"	"Etudiant"	1	1	0	0	1	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	3	2	2	2	2	4	3	3	6	"trop lent"
+"170"	15	20	"F"	"Etudiant"	2	2	0	0	0	0	0	0	1	0	0	0	1	0	1	0	0	0	1	1	0	4	4	3	3	2	3	3	2	5	"trop traditionnel"
+"171"	15	20	"F"	"Etudiant"	3	3	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	2	3	3	3	3	4	3	3	8	"un peu trop sérieux, trop son grave"
+"172"	15	20	"F"	"Etudiant"	4	4	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	5	5	3	2	3	3	2	4	"trop aigu"
+"173"	15	20	"F"	"Etudiant"	5	5	1	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	3	2	3	3	3	3	3	3	8	"le piano est peut-être un peu trop classique"
+"174"	15	20	"F"	"Etudiant"	6	6	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	1	2	2	2	1	2	4	2	3	4	"trop lent"
+"175"	15	20	"F"	"Etudiant"	7	7	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	2	3	2	2	3	3	3	3	6	"le rythme est un peu trop lent"
+"176"	15	20	"F"	"Etudiant"	8	8	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	1	1	0	4	4	3	3	2	3	4	2	4	"ca fait campagnard, ça ne colle pas à l'image classe"
+"177"	15	20	"F"	"Etudiant"	9	9	0	0	0	0	0	1	0	0	0	0	0	1	0	1	0	0	0	0	1	3	3	3	3	3	3	3	3	9	"classe"
+"178"	15	20	"F"	"Etudiant"	10	10	0	1	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	4	2	2	2	2	3	3	2	4	"trop aigue"
+"179"	15	20	"F"	"Etudiant"	11	11	0	0	1	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	3	2	3	3	3	3	3	3	8	"le piano ne fait pas assez surprenant, ça ne reflète pas la valeur innovation"
+"180"	15	20	"F"	"Etudiant"	12	12	0	0	0	1	0	0	1	0	0	0	1	0	1	0	0	0	1	1	0	2	2	2	2	2	3	3	3	5	"trop lent"
+"181"	16	20	"H"	"Etudiant"	1	1	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	2	1	2	2	1	4	3	3	4	NA
+"182"	16	20	"H"	"Etudiant"	2	2	0	0	1	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	2	2	3	2	4	3	3	6	NA
+"183"	16	20	"H"	"Etudiant"	3	3	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	2	4	3	3	2	3	1	2	5	NA
+"184"	16	20	"H"	"Etudiant"	4	4	0	0	0	0	1	0	0	0	0	0	1	0	1	0	0	0	1	1	0	4	2	2	3	2	2	4	2	3	NA
+"185"	16	20	"H"	"Etudiant"	5	5	1	0	0	0	0	1	0	0	1	0	0	0	0	1	1	0	0	1	0	2	3	3	3	3	3	2	3	8	NA
+"186"	16	20	"H"	"Etudiant"	6	6	0	0	1	0	0	0	0	1	1	0	1	0	0	0	0	1	0	0	0	2	1	2	1	2	5	2	3	3	NA
+"187"	16	20	"H"	"Etudiant"	7	7	1	0	0	0	0	1	0	0	0	1	0	0	0	0	1	0	0	0	0	3	3	3	3	2	3	1	3	7	NA
+"188"	16	20	"H"	"Etudiant"	8	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	2	1	5	1	NA
+"189"	16	20	"H"	"Etudiant"	9	9	0	0	1	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	2	2	1	1	2	3	2	3	4	NA
+"190"	16	20	"H"	"Etudiant"	10	10	1	1	0	0	0	1	0	0	0	1	0	1	0	0	1	1	0	0	1	3	3	3	3	3	3	2	3	8	NA
+"191"	16	20	"H"	"Etudiant"	11	11	1	0	1	0	0	0	1	1	1	0	1	0	0	0	1	1	0	0	0	3	2	2	2	3	3	2	3	7	NA
+"192"	16	20	"H"	"Etudiant"	12	12	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	3	2	3	3	3	3	3	3	9	NA
+"193"	17	18	"F"	"Etudiant"	1	1	1	0	0	0	0	0	1	1	1	1	0	0	1	1	0	0	0	0	1	2	4	3	4	2	3	2	3	6	"pas assez classe"
+"194"	17	18	"F"	"Etudiant"	2	2	1	1	0	1	0	1	0	0	0	1	0	0	1	1	0	0	0	0	1	3	3	3	3	3	3	3	3	9	"très en accord avec les valeurs recherchées"
+"195"	17	18	"F"	"Etudiant"	3	3	1	1	1	0	0	1	0	0	0	1	0	0	0	1	0	0	0	0	0	2	3	2	2	2	5	2	3	6	"trop triste"
+"196"	17	18	"F"	"Etudiant"	4	4	1	0	0	0	0	1	0	0	0	1	0	0	0	1	0	0	0	0	0	2	3	2	2	2	5	1	4	4	"trop lent, trop triste"
+"197"	17	18	"F"	"Etudiant"	5	5	1	1	0	0	0	1	0	0	0	1	1	0	0	1	0	0	0	0	1	2	4	3	2	3	3	3	3	6	"trop lent, un peu agressif"
+"198"	17	18	"F"	"Etudiant"	6	6	1	1	0	0	0	1	0	1	0	1	0	0	1	1	1	0	0	0	1	3	4	3	3	3	3	3	3	7	NA
+"199"	17	18	"F"	"Etudiant"	7	7	1	1	0	0	1	0	1	0	0	1	1	1	0	0	0	0	0	0	1	2	3	3	2	3	5	3	3	6	"trop lent"
+"200"	17	18	"F"	"Etudiant"	8	8	1	1	0	0	1	1	0	0	0	1	0	0	0	1	1	0	0	0	1	3	4	3	2	3	3	3	3	7	NA
+"201"	17	18	"F"	"Etudiant"	9	9	0	0	0	0	1	0	0	0	0	0	1	0	0	1	0	0	0	1	0	1	2	2	2	2	5	2	3	3	NA
+"202"	17	18	"F"	"Etudiant"	10	10	1	1	0	0	0	1	0	0	0	1	0	0	1	0	1	0	0	0	1	3	4	3	2	3	4	3	3	7	"un peu agressif, trop lent"
+"203"	17	18	"F"	"Etudiant"	11	11	0	0	0	0	1	0	0	0	0	0	1	0	0	1	0	0	0	1	0	2	2	1	1	2	1	2	4	2	NA
+"204"	17	18	"F"	"Etudiant"	12	12	1	0	1	0	0	1	0	0	0	1	0	0	1	1	1	0	0	0	1	3	3	3	3	3	3	3	3	10	"plus agréable à entendre, correspond tout a fait aux valeurs de l entreprise"
+"205"	18	19	"H"	"Etudiant"	1	1	0	0	1	0	0	1	1	0	1	0	0	1	0	1	0	1	1	1	1	1	3	1	1	3	3	2	4	7	"ne restitue pas assez le coté technologie, complexité"
+"206"	18	19	"H"	"Etudiant"	2	2	0	0	0	0	1	0	0	0	1	0	0	0	1	0	0	0	1	1	0	4	3	2	1	4	4	2	2	4	"rythme trop lent, son pas classe du tout"
+"207"	18	19	"H"	"Etudiant"	3	3	0	0	1	1	1	0	0	1	0	0	0	0	1	0	0	1	0	1	0	3	3	3	3	2	3	3	2	7	"ne reflète pas assez la technologie et l innovation"
+"208"	18	19	"H"	"Etudiant"	4	4	0	0	1	0	0	1	0	1	1	0	0	1	0	1	1	0	0	0	1	2	3	2	3	3	3	3	3	9	NA
+"209"	18	19	"H"	"Etudiant"	5	5	0	0	0	0	0	1	0	1	1	0	0	1	0	1	1	1	0	0	0	1	5	1	1	5	4	1	5	2	"trop classique"
+"210"	18	19	"H"	"Etudiant"	6	6	1	1	0	1	0	0	1	1	1	0	0	0	0	0	0	1	1	0	0	3	3	3	3	2	2	3	2	7	NA
+"211"	18	19	"H"	"Etudiant"	7	7	1	0	1	0	1	1	1	1	0	1	0	1	0	1	1	0	0	0	1	2	3	3	3	3	3	3	3	9	NA
+"212"	18	19	"H"	"Etudiant"	8	8	1	0	1	1	0	0	1	0	1	1	1	0	0	0	1	1	0	0	0	1	2	2	2	4	4	2	3	6	NA
+"213"	18	19	"H"	"Etudiant"	9	9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	2	5	1	1	1	2	1	2	1	"trop agressif, trop aigu pour une musique de casques"
+"214"	18	19	"H"	"Etudiant"	10	10	1	0	0	0	1	1	0	1	1	0	0	0	0	0	1	1	0	0	0	1	3	2	2	4	4	4	3	7	"trop lent"
+"215"	18	19	"H"	"Etudiant"	11	11	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	2	4	1	1	3	4	1	4	3	"beaucoup trop aigu"
+"216"	18	19	"H"	"Etudiant"	12	12	0	0	1	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	0	2	3	3	3	3	3	3	3	9	"reflète au mieux la performance"
+"217"	19	19	"F"	"Etudiant"	1	1	0	0	1	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	3	2	3	3	3	9	NA
+"218"	19	19	"F"	"Etudiant"	2	2	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	1	0	2	2	2	1	1	4	2	4	3	NA
+"219"	19	19	"F"	"Etudiant"	3	3	0	0	1	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	1	1	1	1	1	5	1	5	2	NA
+"220"	19	19	"F"	"Etudiant"	4	4	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	1	1	1	0	4	3	2	3	2	3	2	3	5	NA
+"221"	19	19	"F"	"Etudiant"	5	5	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	1	0	3	2	2	2	2	3	3	3	6	NA
+"222"	19	19	"F"	"Etudiant"	6	6	0	0	1	0	0	1	0	1	0	0	0	0	0	0	0	0	0	1	0	2	2	2	2	3	3	3	3	8	NA
+"223"	19	19	"F"	"Etudiant"	7	7	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	3	2	3	3	3	3	3	3	9	"ca fait penser à haut de gamme, expert, classe"
+"224"	19	19	"F"	"Etudiant"	8	8	0	0	1	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	2	2	1	1	2	5	2	3	3	"trop lourd"
+"225"	19	19	"F"	"Etudiant"	9	9	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	5	5	5	4	2	3	2	2	2	"trop aigu"
+"226"	19	19	"F"	"Etudiant"	10	10	0	1	1	1	0	1	0	0	1	0	1	0	0	1	0	1	0	0	0	3	2	2	2	3	3	3	3	8	"ca rappelle  le son classe"
+"227"	19	19	"F"	"Etudiant"	11	11	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	4	4	3	2	3	2	2	4	"trop aigu"
+"228"	19	19	"F"	"Etudiant"	12	12	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	2	2	2	2	2	3	3	3	5	NA
+"229"	20	20	"F"	"Etudiant"	1	1	0	0	1	0	1	0	1	0	0	0	0	0	0	1	0	0	1	0	0	1	2	2	3	2	4	2	4	6	NA
+"230"	20	20	"F"	"Etudiant"	2	2	0	1	0	0	1	0	0	0	0	1	0	1	0	0	0	0	0	0	0	5	5	2	3	4	2	3	2	4	NA
+"231"	20	20	"F"	"Etudiant"	3	3	1	1	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	1	5	5	1	2	2	2	4	3	3	NA
+"232"	20	20	"F"	"Etudiant"	4	4	1	1	0	0	0	1	0	0	0	1	0	1	0	1	0	0	0	0	1	3	5	3	3	2	4	2	3	8	NA
+"233"	20	20	"F"	"Etudiant"	5	5	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	2	5	1	1	1	4	1	3	3	NA
+"234"	20	20	"F"	"Etudiant"	6	6	0	0	1	0	1	1	1	0	0	1	0	0	0	0	0	0	0	1	1	1	3	2	3	2	5	1	4	2	NA
+"235"	20	20	"F"	"Etudiant"	7	7	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	1	0	4	5	2	1	2	2	4	5	2	NA
+"236"	20	20	"F"	"Etudiant"	8	8	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	0	0	1	0	1	5	1	1	1	5	1	4	1	NA
+"237"	20	20	"F"	"Etudiant"	9	9	0	1	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	0	0	1	3	3	3	2	4	2	4	6	NA
+"238"	20	20	"F"	"Etudiant"	10	10	1	1	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	4	4	4	4	2	3	3	2	5	NA
+"239"	20	20	"F"	"Etudiant"	11	11	1	1	0	0	0	1	1	0	0	0	1	0	0	1	1	0	0	0	1	3	3	2	3	3	3	3	3	10	NA
+"240"	20	20	"F"	"Etudiant"	12	12	0	0	1	0	0	0	1	1	0	0	0	0	0	0	0	0	0	1	0	2	3	2	2	3	3	2	3	8	NA
+"241"	21	19	"F"	"Etudiant"	1	1	1	0	0	0	0	0	0	0	1	1	0	1	0	1	0	0	1	0	1	3	3	2	3	3	4	2	3	8	NA
+"242"	21	19	"F"	"Etudiant"	2	2	0	1	0	1	0	0	1	0	0	0	1	1	0	0	0	0	1	0	0	2	4	1	3	1	4	2	2	5	NA
+"243"	21	19	"F"	"Etudiant"	3	3	0	0	1	1	0	1	0	1	1	0	1	0	0	1	0	0	0	1	0	2	1	2	2	3	4	3	3	6	"déjà entendu"
+"244"	21	19	"F"	"Etudiant"	4	4	1	0	0	0	0	1	0	1	0	1	0	0	0	1	0	0	0	0	1	3	3	2	1	3	4	2	3	7	NA
+"245"	21	19	"F"	"Etudiant"	5	5	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	4	1	1	1	5	2	2	3	NA
+"246"	21	19	"F"	"Etudiant"	6	6	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	3	3	2	4	2	3	2	3	6	"un peu trop aigu"
+"247"	21	19	"F"	"Etudiant"	7	7	1	1	0	0	0	0	0	1	0	1	0	1	0	1	0	0	0	0	0	2	2	2	2	2	4	2	3	6	"trop lent"
+"248"	21	19	"F"	"Etudiant"	8	8	0	0	1	0	0	1	0	0	1	0	1	0	1	0	0	1	0	0	1	3	2	3	3	3	4	2	3	8	NA
+"249"	21	19	"F"	"Etudiant"	9	9	1	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	2	2	3	3	3	4	4	4	2	"ca fait plus tradition qu'innovation"
+"250"	21	19	"F"	"Etudiant"	10	10	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	1	0	0	2	3	2	3	2	3	2	3	7	NA
+"251"	21	19	"F"	"Etudiant"	11	11	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	1	5	1	1	1	5	1	3	1	"ca fait église"
+"252"	21	19	"F"	"Etudiant"	12	12	0	1	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	1	4	4	1	3	1	2	1	3	4	"beaucoup trop aigu"
+"253"	22	25	"H"	"Etudiant"	1	1	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	0	1	1	0	3	2	2	3	3	4	3	3	6	"son correct mais un peu plat"
+"254"	22	25	"H"	"Etudiant"	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	1	0	2	2	2	2	1	4	2	4	3	"austère"
+"255"	22	25	"H"	"Etudiant"	3	3	0	0	0	1	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	4	5	4	3	3	2	3	2	2	"trop aigu, son pas professionnel"
+"256"	22	25	"H"	"Etudiant"	4	4	1	1	0	1	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	4	3	3	3	2	2	3	2	3	"trop aigu, mauvaise qualité"
+"257"	22	25	"H"	"Etudiant"	5	5	0	0	0	0	0	1	0	0	0	1	0	0	0	1	1	0	0	0	1	2	3	2	3	2	3	2	3	5	"un peu lent"
+"258"	22	25	"H"	"Etudiant"	6	6	0	0	1	0	0	0	1	0	0	0	0	0	1	0	0	0	1	0	0	3	3	2	3	2	3	2	3	7	NA
+"259"	22	25	"H"	"Etudiant"	7	7	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	1	0	0	4	4	3	3	4	2	4	1	3	"un peu criard"
+"260"	22	25	"H"	"Etudiant"	8	8	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	3	3	3	3	2	3	2	4	6	"trop simple"
+"261"	22	25	"H"	"Etudiant"	9	9	1	1	0	0	1	0	0	1	0	0	1	0	0	0	0	0	0	0	0	3	3	2	2	2	3	2	3	7	NA
+"262"	22	25	"H"	"Etudiant"	10	10	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	4	3	4	2	2	2	3	4	"son de mauvaise qualité"
+"263"	22	25	"H"	"Etudiant"	11	11	0	0	0	0	0	1	0	0	0	0	0	1	0	1	0	0	0	0	1	3	3	3	3	3	2	3	3	9	"sobre et de bonne qualité"
+"264"	22	25	"H"	"Etudiant"	12	12	0	0	0	0	0	1	0	0	0	0	0	0	0	1	1	0	0	1	0	2	2	2	1	3	3	2	3	4	NA
+"265"	23	20	"F"	"Etudiant"	1	1	0	0	1	0	0	0	1	0	0	1	0	0	0	0	1	0	0	1	1	3	2	1	2	2	4	2	3	5	"musique passe-partout"
+"266"	23	20	"F"	"Etudiant"	2	2	1	0	1	0	0	1	0	0	0	1	0	1	0	0	1	0	0	0	1	4	5	2	5	1	3	1	3	1	"trop criard"
+"267"	23	20	"F"	"Etudiant"	3	3	0	0	1	1	0	1	0	1	1	0	1	0	1	0	0	1	1	1	0	3	2	2	2	3	3	3	3	7	NA
+"268"	23	20	"F"	"Etudiant"	4	4	0	0	0	1	1	0	1	0	0	0	0	0	1	0	0	0	1	1	0	1	1	1	2	1	5	2	2	1	"ça fait guinguette"
+"269"	23	20	"F"	"Etudiant"	5	5	0	0	1	1	0	1	0	1	1	0	1	0	1	0	0	1	1	1	0	3	2	3	2	3	3	3	3	6	NA
+"270"	23	20	"F"	"Etudiant"	6	6	0	0	0	0	0	0	0	0	0	1	0	1	0	1	1	0	0	0	0	4	5	5	5	1	1	3	4	1	"trop criard"
+"271"	23	20	"F"	"Etudiant"	7	7	0	0	1	0	0	0	1	1	0	0	1	0	1	0	0	0	1	0	0	3	2	1	3	1	4	3	2	3	NA
+"272"	23	20	"F"	"Etudiant"	8	8	0	0	1	0	0	0	1	1	1	0	1	0	1	0	1	1	0	1	1	3	2	3	3	3	3	3	3	8	NA
+"273"	23	20	"F"	"Etudiant"	9	9	0	0	1	0	0	0	0	0	1	0	0	0	0	0	1	1	0	0	1	1	2	1	1	1	5	3	2	3	NA
+"274"	23	20	"F"	"Etudiant"	10	10	1	0	0	0	0	1	0	0	1	1	0	1	0	1	1	1	0	0	1	3	2	3	1	3	3	3	3	6	"dommage que cela soit trop mou"
+"275"	23	20	"F"	"Etudiant"	11	11	0	0	1	1	0	0	1	0	0	0	0	0	1	0	0	0	0	1	0	2	3	3	4	2	4	3	3	3	NA
+"276"	23	20	"F"	"Etudiant"	12	12	0	0	1	1	0	0	1	0	0	0	0	0	1	0	0	0	1	1	0	4	3	3	3	2	3	2	3	5	NA
+"277"	24	22	"H"	"Etudiant"	1	1	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	1	0	4	4	3	3	4	5	4	3	6	"pas technologique"
+"278"	24	22	"H"	"Etudiant"	2	2	0	0	1	0	0	0	0	0	0	0	0	1	0	1	0	0	1	0	0	2	5	1	1	2	5	2	5	1	"trop triste"
+"279"	24	22	"H"	"Etudiant"	3	3	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	0	2	4	1	2	2	5	2	4	2	NA
+"280"	24	22	"H"	"Etudiant"	4	4	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	3	5	1	2	3	4	2	4	2	NA
+"281"	24	22	"H"	"Etudiant"	5	5	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	2	2	2	2	3	4	1	3	4	NA
+"282"	24	22	"H"	"Etudiant"	6	6	0	0	0	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	3	3	3	3	2	4	2	3	4	"trop rapide"
+"283"	24	22	"H"	"Etudiant"	7	7	0	0	0	0	0	0	0	0	1	0	0	1	0	1	0	0	0	1	0	2	4	1	2	2	4	2	4	1	"accordéon ne va pas avec l'image de marque"
+"284"	24	22	"H"	"Etudiant"	8	8	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	2	2	2	3	3	4	2	4	2	NA
+"285"	24	22	"H"	"Etudiant"	9	9	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	1	1	0	0	2	2	1	2	3	4	2	4	1	"trop lent"
+"286"	24	22	"H"	"Etudiant"	10	10	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	3	4	1	2	2	3	2	3	0	"trop aigu"
+"287"	24	22	"H"	"Etudiant"	11	11	0	0	0	0	1	0	1	0	0	0	0	0	1	0	0	0	0	0	0	3	2	3	3	3	4	2	3	5	NA
+"288"	24	22	"H"	"Etudiant"	12	12	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	2	2	2	3	2	4	2	3	3	NA
+"289"	25	27	"F"	"Employé"	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	2	2	2	3	2	4	3	3	5	NA
+"290"	25	27	"F"	"Employé"	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	3	3	3	3	3	3	3	3	10	NA
+"291"	25	27	"F"	"Employé"	3	3	0	0	0	0	1	1	0	0	0	1	0	0	0	0	0	0	0	0	0	3	4	4	4	2	3	3	3	5	NA
+"292"	25	27	"F"	"Employé"	4	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	1	1	5	1	5	1	1	1	NA
+"293"	25	27	"F"	"Employé"	5	5	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	2	2	2	2	3	2	2	3	NA
+"294"	25	27	"F"	"Employé"	6	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	2	2	2	3	3	3	2	2	5	NA
+"295"	25	27	"F"	"Employé"	7	7	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	3	1	1	2	NA
+"296"	25	27	"F"	"Employé"	8	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	3	2	2	3	3	3	3	3	7	NA
+"297"	25	27	"F"	"Employé"	9	9	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	5	5	5	5	5	5	5	1	NA
+"298"	25	27	"F"	"Employé"	10	10	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	2	2	2	2	2	2	2	2	1	NA
+"299"	25	27	"F"	"Employé"	11	11	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	2	2	2	2	2	2	2	2	2	NA
+"300"	25	27	"F"	"Employé"	12	12	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	1	1	1	0	NA
+"301"	26	28	"H"	"Employé"	1	1	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	2	3	2	3	3	4	2	4	3	NA
+"302"	26	28	"H"	"Employé"	2	2	0	0	1	0	1	0	0	0	0	0	0	1	0	0	1	0	0	0	0	1	5	1	4	1	5	2	2	0	NA
+"303"	26	28	"H"	"Employé"	3	3	0	0	1	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	2	1	1	1	1	4	2	5	2	NA
+"304"	26	28	"H"	"Employé"	4	4	1	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	1	0	1	2	3	3	2	3	3	2	3	6	NA
+"305"	26	28	"H"	"Employé"	5	5	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	3	3	2	3	1	4	2	4	4	NA
+"306"	26	28	"H"	"Employé"	6	6	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	2	3	2	2	2	4	2	3	5	NA
+"307"	26	28	"H"	"Employé"	7	7	0	0	0	0	0	0	0	1	1	0	0	0	0	0	1	0	0	0	0	3	3	3	3	2	3	2	3	8	NA
+"308"	26	28	"H"	"Employé"	8	8	0	1	0	1	0	1	0	0	0	0	0	0	0	0	0	1	0	0	1	3	3	3	3	2	3	3	2	8	NA
+"309"	26	28	"H"	"Employé"	9	9	0	0	1	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	2	3	2	1	1	4	2	4	3	NA
+"310"	26	28	"H"	"Employé"	10	10	1	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	2	3	3	2	2	4	3	3	6	NA
+"311"	26	28	"H"	"Employé"	11	11	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	4	4	3	4	2	3	3	4	7	NA
+"312"	26	28	"H"	"Employé"	12	12	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	1	0	3	3	2	2	3	3	3	2	9	NA
+"313"	27	22	"F"	"Ouvrier"	1	1	1	0	1	0	0	1	1	1	1	0	0	0	0	1	0	0	0	1	1	3	4	4	3	3	4	3	3	7	NA
+"314"	27	22	"F"	"Ouvrier"	2	2	0	0	0	1	0	0	1	0	1	0	0	1	1	0	0	0	1	0	0	1	2	2	2	2	4	2	3	3	"trop grave"
+"315"	27	22	"F"	"Ouvrier"	3	3	0	0	1	0	0	0	0	1	0	1	0	0	1	0	1	0	1	0	0	2	2	3	3	2	3	2	3	5	NA
+"316"	27	22	"F"	"Ouvrier"	4	4	1	1	0	1	1	0	0	1	0	0	1	0	0	1	0	0	0	1	0	3	2	3	3	2	3	2	2	5	NA
+"317"	27	22	"F"	"Ouvrier"	5	5	0	1	0	0	1	1	0	0	1	1	0	1	0	0	0	1	0	0	1	4	4	3	2	3	2	3	2	6	NA
+"318"	27	22	"F"	"Ouvrier"	6	6	0	1	0	0	0	0	0	0	1	0	0	0	1	0	0	0	1	0	0	1	2	2	3	3	4	2	2	4	"un peu religieux"
+"319"	27	22	"F"	"Ouvrier"	7	7	0	0	1	0	0	0	1	0	0	0	0	1	0	1	1	0	0	1	0	2	2	3	2	3	4	3	2	4	NA
+"320"	27	22	"F"	"Ouvrier"	8	8	1	0	1	0	0	1	0	0	0	1	1	0	1	0	1	1	0	0	1	3	3	4	4	3	3	2	3	7	NA
+"321"	27	22	"F"	"Ouvrier"	9	9	0	1	1	0	0	1	0	1	1	0	0	0	0	1	0	1	0	0	0	2	3	3	3	2	3	3	2	8	NA
+"322"	27	22	"F"	"Ouvrier"	10	10	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	1	1	0	2	2	3	3	3	2	3	2	5	NA
+"323"	27	22	"F"	"Ouvrier"	11	11	1	0	0	1	0	0	0	0	1	0	0	1	0	1	0	1	0	0	0	3	2	3	3	2	3	3	3	8	NA
+"324"	27	22	"F"	"Ouvrier"	12	12	0	1	0	0	1	0	0	0	1	0	1	0	0	1	0	1	0	1	0	4	4	3	2	3	3	2	2	7	NA
+"325"	28	53	"F"	"Employé"	1	1	1	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	1	4	5	4	4	2	2	1	2	7	"trop excitant"
+"326"	28	53	"F"	"Employé"	2	2	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	3	2	2	3	3	4	2	3	8	NA
+"327"	28	53	"F"	"Employé"	3	3	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	1	0	0	2	2	1	1	3	4	3	3	8	"un peu trop triste"
+"328"	28	53	"F"	"Employé"	4	4	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	1	0	0	0	1	2	1	1	2	4	3	3	7	"un peu trop langoureux"
+"329"	28	53	"F"	"Employé"	5	5	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	4	3	2	4	3	3	2	3	6	NA
+"330"	28	53	"F"	"Employé"	6	6	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	2	2	1	2	4	3	4	5	"beaucoup trop lent"
+"331"	28	53	"F"	"Employé"	7	7	0	1	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	1	3	4	5	4	2	1	2	2	7	NA
+"332"	28	53	"F"	"Employé"	8	8	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	3	2	2	1	2	3	2	4	6	NA
+"333"	28	53	"F"	"Employé"	9	9	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	1	5	2	2	3	4	2	3	5	NA
+"334"	28	53	"F"	"Employé"	10	10	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	0	0	2	4	2	1	3	4	3	2	5	"trop lent"
+"335"	28	53	"F"	"Employé"	11	11	1	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	3	4	3	3	2	3	3	3	8	NA
+"336"	28	53	"F"	"Employé"	12	12	0	0	0	1	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	1	2	2	1	2	4	2	3	4	NA
+"337"	29	52	"H"	"Employé"	1	1	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	2	2	2	3	2	2	3	3	9	NA
+"338"	29	52	"H"	"Employé"	2	2	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	4	5	5	4	1	1	1	1	8	NA
+"339"	29	52	"H"	"Employé"	3	3	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	2	3	2	2	3	4	2	3	7	NA
+"340"	29	52	"H"	"Employé"	4	4	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	3	3	2	3	2	2	2	2	7	NA
+"341"	29	52	"H"	"Employé"	5	5	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	2	2	2	2	4	2	4	7	NA
+"342"	29	52	"H"	"Employé"	6	6	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	2	5	1	2	1	2	2	2	5	"trop aigu, pas clair"
+"343"	29	52	"H"	"Employé"	7	7	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	2	2	3	2	2	4	2	4	8	NA
+"344"	29	52	"H"	"Employé"	8	8	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	2	2	3	3	3	3	2	3	8	NA
+"345"	29	52	"H"	"Employé"	9	9	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	2	2	2	2	4	2	4	8	NA
+"346"	29	52	"H"	"Employé"	10	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	3	3	3	3	2	3	2	4	8	NA
+"347"	29	52	"H"	"Employé"	11	11	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	2	2	2	2	2	4	2	4	7	NA
+"348"	29	52	"H"	"Employé"	12	12	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	1	0	2	4	2	2	3	3	2	3	8	NA
+"349"	30	23	"H"	"Ouvrier"	1	1	0	0	0	1	0	1	0	0	1	0	1	0	1	0	0	0	0	1	0	3	2	2	4	2	3	4	1	5	NA
+"350"	30	23	"H"	"Ouvrier"	2	2	0	1	0	1	0	1	0	1	0	0	1	0	1	1	1	0	0	1	0	2	1	1	3	2	3	3	2	6	NA
+"351"	30	23	"H"	"Ouvrier"	3	3	1	0	0	0	1	0	0	1	0	1	0	1	0	0	0	0	0	0	1	3	3	3	3	2	2	3	2	8	NA
+"352"	30	23	"H"	"Ouvrier"	4	4	0	0	0	0	0	1	1	0	1	0	0	0	0	1	0	1	1	1	0	1	1	2	2	3	3	2	3	4	NA
+"353"	30	23	"H"	"Ouvrier"	5	5	0	1	1	0	0	0	0	1	0	1	1	0	1	0	1	0	0	0	0	2	2	3	2	2	3	2	3	4	NA
+"354"	30	23	"H"	"Ouvrier"	6	6	1	0	0	1	0	0	0	0	1	1	0	1	0	0	0	0	1	0	0	3	4	3	4	3	2	4	4	6	NA
+"355"	30	23	"H"	"Ouvrier"	7	7	1	1	0	0	1	0	0	0	0	0	1	0	0	0	0	1	0	0	1	3	3	4	4	2	4	4	3	6	NA
+"356"	30	23	"H"	"Ouvrier"	8	8	1	0	1	0	0	1	1	1	0	1	0	1	0	1	0	1	0	0	1	3	3	3	2	3	3	3	3	9	NA
+"357"	30	23	"H"	"Ouvrier"	9	9	0	1	0	0	0	0	0	0	1	0	0	0	1	0	1	0	1	0	0	2	3	2	2	3	3	2	4	6	NA
+"358"	30	23	"H"	"Ouvrier"	10	10	0	1	0	0	1	0	0	1	0	1	0	0	0	0	1	0	0	1	0	4	3	2	2	3	2	4	4	5	NA
+"359"	30	23	"H"	"Ouvrier"	11	11	0	0	1	0	0	0	0	1	0	0	0	1	0	0	0	1	0	0	1	4	4	3	3	4	2	4	2	5	NA
+"360"	30	23	"H"	"Ouvrier"	12	12	0	1	0	1	0	1	0	0	1	0	0	1	0	0	1	0	1	0	0	2	4	2	3	2	4	1	2	3	NA
+"361"	31	21	"F"	"Etudiant"	1	1	0	0	1	0	0	0	1	0	0	0	0	0	0	1	1	0	0	0	0	2	3	1	2	1	4	2	2	3	NA
+"362"	31	21	"F"	"Etudiant"	2	2	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	1	4	1	3	0	"ce son est monotone"
+"363"	31	21	"F"	"Etudiant"	3	3	1	0	0	0	0	0	0	1	0	0	1	0	1	0	0	0	0	0	0	3	3	2	3	1	4	3	3	5	NA
+"364"	31	21	"F"	"Etudiant"	4	4	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	1	3	4	3	3	1	3	2	3	3	NA
+"365"	31	21	"F"	"Etudiant"	5	5	0	0	1	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	2	2	2	3	1	3	1	3	2	"pas agreable a l'oreille"
+"366"	31	21	"F"	"Etudiant"	6	6	1	0	0	0	0	0	0	1	0	0	0	0	1	0	0	1	0	0	0	3	4	4	3	3	2	3	4	6	NA
+"367"	31	21	"F"	"Etudiant"	7	7	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	1	0	2	4	4	3	1	3	3	4	6	NA
+"368"	31	21	"F"	"Etudiant"	8	8	0	0	1	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	2	3	3	2	1	4	2	4	4	NA
+"369"	31	21	"F"	"Etudiant"	9	9	1	0	0	0	0	0	0	0	0	1	0	0	0	1	1	0	0	0	0	2	3	2	2	2	4	2	3	2	NA
+"370"	31	21	"F"	"Etudiant"	10	10	0	1	0	0	0	0	1	1	1	0	1	0	0	0	0	0	0	0	0	2	2	2	3	2	2	2	3	3	NA
+"371"	31	21	"F"	"Etudiant"	11	11	0	0	1	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	2	3	3	2	2	4	2	3	5	NA
+"372"	31	21	"F"	"Etudiant"	12	12	1	0	0	0	0	1	0	0	0	1	0	0	1	0	0	0	0	0	1	3	3	3	3	3	4	2	3	6	NA
+"373"	32	25	"H"	"Employé"	1	1	0	0	0	0	1	0	1	0	0	1	0	0	0	0	0	0	0	0	1	1	2	2	1	3	3	2	4	3	"trop sérieux, trop long, pas assez novateur"
+"374"	32	25	"H"	"Employé"	2	2	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	1	0	0	0	4	3	2	4	2	3	2	2	3	NA
+"375"	32	25	"H"	"Employé"	3	3	1	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	1	0	0	3	3	2	3	3	4	3	3	8	"son très clair, bon rythme"
+"376"	32	25	"H"	"Employé"	4	4	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	3	2	3	2	3	3	2	4	7	"bien mais un peu lent"
+"377"	32	25	"H"	"Employé"	5	5	0	0	0	0	1	0	0	0	0	0	1	0	0	1	1	0	0	0	0	4	3	3	5	2	4	2	3	4	"trop rapide"
+"378"	32	25	"H"	"Employé"	6	6	1	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	4	4	3	5	2	4	2	3	3	"trop rapide, trop strident"
+"379"	32	25	"H"	"Employé"	7	7	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	1	0	2	2	2	1	3	2	2	4	4	"lent, précis"
+"380"	32	25	"H"	"Employé"	8	8	0	0	1	0	0	1	0	0	0	0	0	1	0	1	0	0	0	0	0	3	2	2	2	2	4	3	3	5	"son grave, qualité, chaleur, serieux"
+"381"	32	25	"H"	"Employé"	9	9	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	3	4	3	4	3	2	3	3	7	"bon tempo, clair"
+"382"	32	25	"H"	"Employé"	10	10	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	3	3	2	3	2	3	2	4	6	NA
+"383"	32	25	"H"	"Employé"	11	11	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	1	0	0	0	4	3	3	4	2	1	2	2	3	"son sans personnalité, trop léger"
+"384"	32	25	"H"	"Employé"	12	12	0	0	0	0	0	1	1	0	0	0	1	0	0	0	0	0	0	0	1	2	3	3	2	3	3	3	3	8	"mystérieux, clair, avancement"
+"385"	33	21	"H"	"Ouvrier"	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	1	2	1	1	2	5	2	4	4	"assez déprimant"
+"386"	33	21	"H"	"Ouvrier"	2	2	1	1	0	0	0	0	1	1	0	0	1	0	0	0	0	0	0	0	0	3	4	4	3	2	1	3	1	6	"pas mal énergique"
+"387"	33	21	"H"	"Ouvrier"	3	3	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	2	1	1	1	1	4	2	4	3	NA
+"388"	33	21	"H"	"Ouvrier"	4	4	0	0	0	0	0	1	0	0	0	1	0	0	1	0	0	1	0	0	0	2	2	2	2	2	3	2	4	5	NA
+"389"	33	21	"H"	"Ouvrier"	5	5	0	0	0	0	0	1	0	0	0	1	0	0	0	0	1	0	0	0	1	3	2	2	3	2	1	3	1	7	NA
+"390"	33	21	"H"	"Ouvrier"	6	6	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	4	4	3	4	3	1	3	1	8	NA
+"391"	33	21	"H"	"Ouvrier"	7	7	0	0	1	0	0	0	0	0	1	0	0	1	0	0	1	0	0	0	0	1	1	1	1	1	5	2	5	3	NA
+"392"	33	21	"H"	"Ouvrier"	8	8	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	2	2	1	1	2	4	3	4	5	NA
+"393"	33	21	"H"	"Ouvrier"	9	9	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	1	1	0	0	2	2	4	2	4	3	3	2	7	NA
+"394"	33	21	"H"	"Ouvrier"	10	10	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	1	0	0	3	3	4	3	4	2	3	2	7	NA
+"395"	33	21	"H"	"Ouvrier"	11	11	1	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	1	2	3	2	2	2	3	2	3	6	NA
+"396"	33	21	"H"	"Ouvrier"	12	12	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	2	3	2	3	2	3	3	3	9	NA
+"397"	34	24	"F"	"Employé"	1	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	3	3	3	3	2	1	3	3	8	"moderne"
+"398"	34	24	"F"	"Employé"	2	2	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	1	2	1	1	5	1	4	2	"trop lent et trop triste"
+"399"	34	24	"F"	"Employé"	3	3	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	2	2	3	3	2	2	2	3	5	"notes trop appuyées"
+"400"	34	24	"F"	"Employé"	4	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	5	4	4	2	1	2	2	4	"trop rapide"
+"401"	34	24	"F"	"Employé"	5	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	1	1	1	2	4	1	5	3	"trop triste"
+"402"	34	24	"F"	"Employé"	6	6	1	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	3	3	2	3	2	2	3	4	7	"manque de modernité"
+"403"	34	24	"F"	"Employé"	7	7	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	1	2	1	2	4	2	5	3	"son trop vieux, n'évoque pas la technologie"
+"404"	34	24	"F"	"Employé"	8	8	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	2	2	3	2	4	5	"trop lent"
+"405"	34	24	"F"	"Employé"	9	9	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	2	3	3	2	2	3	2	3	6	"notes trop détachées"
+"406"	34	24	"F"	"Employé"	10	10	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	3	3	3	3	3	3	3	3	9	"son ni trop grave ni trop aigu, bon équilibre"
+"407"	34	24	"F"	"Employé"	11	11	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	2	3	3	2	2	3	2	3	6	"trop lent"
+"408"	34	24	"F"	"Employé"	12	12	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	3	3	3	3	3	2	3	3	8	"un peu trop aigu"
+"409"	35	22	"H"	"Ingénieur"	1	1	0	0	1	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	2	2	2	1	2	4	2	5	2	"trop lent, trop grave, pas innovant"
+"410"	35	22	"H"	"Ingénieur"	2	2	0	1	1	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	4	4	3	3	3	2	4	2	5	"adapté à une marque de sugelés, trop joyeux pour être expert"
+"411"	35	22	"H"	"Ingénieur"	3	3	1	0	0	0	0	1	0	1	0	0	0	0	0	1	0	0	0	0	1	2	2	3	3	3	2	3	3	7	"haut de gamme et passion"
+"412"	35	22	"H"	"Ingénieur"	4	4	1	0	0	0	0	1	0	1	0	0	0	0	0	1	0	0	0	0	1	2	2	2	2	3	2	3	4	6	"trop lent mais classe"
+"413"	35	22	"H"	"Ingénieur"	5	5	1	0	0	0	1	0	0	0	1	1	0	0	0	0	1	0	0	0	1	4	3	4	3	3	2	3	2	5	"aigu, trop lent mais innovant"
+"414"	35	22	"H"	"Ingénieur"	6	6	0	0	0	1	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	5	4	4	5	4	2	3	3	4	"trop énergique, trop joyeux"
+"415"	35	22	"H"	"Ingénieur"	7	7	1	1	0	0	0	1	0	0	0	0	0	0	0	1	1	0	0	1	0	3	3	2	2	3	4	3	3	7	"correspond bien à la marque mais il manque un peu d'énergie"
+"416"	35	22	"H"	"Ingénieur"	8	8	0	0	1	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	1	2	1	3	2	5	3	4	3	"ne donne pas envie"
+"417"	35	22	"H"	"Ingénieur"	9	9	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	5	5	4	4	3	1	3	2	4	"trop aigu, trop expressif, mais sa tonalité permet à l'auditeur d'enregistrer ce son et de le reconstituer"
+"418"	35	22	"H"	"Ingénieur"	10	10	1	1	0	0	0	1	0	0	1	1	0	0	0	1	0	0	0	0	1	3	3	3	3	3	2	3	4	9	"correspond bien à la marque"
+"419"	35	22	"H"	"Ingénieur"	11	11	0	0	0	1	1	0	0	0	0	0	1	0	0	0	0	0	0	1	0	4	4	2	1	2	4	3	3	4	"trop lent, manque de rythme"
+"420"	35	22	"H"	"Ingénieur"	12	12	1	0	1	0	0	1	1	0	0	1	0	0	0	1	0	1	0	0	1	2	3	2	2	2	4	3	3	5	"pas innovant"
+"421"	36	23	"H"	"Etudiant"	1	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	1	3	2	3	3	2	2	3	3	8	"technologie"
+"422"	36	23	"H"	"Etudiant"	2	2	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	1	1	1	0	1	2	1	1	2	4	2	4	2	"trop lent et triste"
+"423"	36	23	"H"	"Etudiant"	3	3	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	1	0	1	0	2	2	1	3	2	3	3	4	5	NA
+"424"	36	23	"H"	"Etudiant"	4	4	0	0	1	0	0	1	0	0	0	0	1	0	0	1	0	1	0	1	0	2	1	2	2	1	4	2	3	5	NA
+"425"	36	23	"H"	"Etudiant"	5	5	0	0	0	1	0	0	0	0	1	0	0	0	1	0	0	0	1	1	0	3	2	2	3	2	3	3	1	6	NA
+"426"	36	23	"H"	"Etudiant"	6	6	0	1	0	0	0	0	0	0	0	0	0	1	0	1	0	0	1	0	0	2	1	1	2	2	4	3	3	5	NA
+"427"	36	23	"H"	"Etudiant"	7	7	0	1	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	2	3	3	2	3	4	3	4	4	NA
+"428"	36	23	"H"	"Etudiant"	8	8	0	0	1	1	0	0	1	0	1	0	1	0	0	1	0	0	0	0	0	3	3	2	3	2	3	4	3	5	NA
+"429"	36	23	"H"	"Etudiant"	9	9	1	1	0	0	0	0	1	0	0	1	0	0	0	0	1	0	0	0	1	4	4	3	4	3	1	3	2	6	NA
+"430"	36	23	"H"	"Etudiant"	10	10	0	0	0	0	1	0	1	0	0	0	0	1	0	0	1	0	0	0	0	3	4	3	3	3	4	2	2	4	NA
+"431"	36	23	"H"	"Etudiant"	11	11	0	0	0	1	0	0	0	1	0	0	0	0	0	1	0	0	0	0	1	2	3	3	2	3	4	2	3	6	NA
+"432"	36	23	"H"	"Etudiant"	12	12	0	1	0	0	0	1	0	0	1	0	1	0	0	0	0	0	0	1	0	3	3	2	3	3	3	4	3	7	NA
+"433"	37	22	"F"	"Etudiant"	1	1	0	0	1	0	0	0	1	0	0	0	0	0	1	0	0	0	1	1	0	1	1	1	1	1	5	2	3	2	"pas innovant, pas independant"
+"434"	37	22	"F"	"Etudiant"	2	2	1	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	3	3	2	2	1	3	3	3	6	"bien pour indépendance, technologique, manque de classe et d'originalité"
+"435"	37	22	"F"	"Etudiant"	3	3	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	1	1	1	1	5	1	5	0	"sinistre"
+"436"	37	22	"F"	"Etudiant"	4	4	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	1	0	3	2	2	3	3	3	3	3	7	"violoncelle apporte un côté classe"
+"437"	37	22	"F"	"Etudiant"	5	5	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	5	5	5	1	1	1	1	0	"strident, enfantin, pas professionnel"
+"438"	37	22	"F"	"Etudiant"	6	6	1	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	2	2	1	3	4	2	4	2	"manque d'energie, manque d'initiative, manque d'innovation"
+"439"	37	22	"F"	"Etudiant"	7	7	0	0	0	1	0	0	0	0	0	0	0	0	1	1	0	0	0	1	0	2	4	2	2	2	4	2	2	0	"foire du trone, même pas energique, pas de rapport avec l'entreprise"
+"440"	37	22	"F"	"Etudiant"	8	8	0	0	0	1	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	3	2	1	2	2	4	2	4	2	"accordéon ne colle pas à l'innovation"
+"441"	37	22	"F"	"Etudiant"	9	9	1	0	1	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	3	3	3	3	3	3	3	3	6	"simple, un peu trop sobre"
+"442"	37	22	"F"	"Etudiant"	10	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	2	4	2	2	2	3	2	4	2	"accordéon"
+"443"	37	22	"F"	"Etudiant"	11	11	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	1	1	1	1	2	4	2	4	2	"trop solennel, pas assez dynamique"
+"444"	37	22	"F"	"Etudiant"	12	12	1	0	0	0	0	0	0	1	1	0	0	0	0	0	0	1	0	0	0	3	4	4	3	3	3	3	3	7	"colle avec les valeurs sauf expert"
+"445"	38	20	"F"	"Etudiant"	1	1	0	0	1	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	2	3	1	1	3	4	2	3	4	NA
+"446"	38	20	"F"	"Etudiant"	2	2	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	2	1	3	3	3	3	2	3	NA
+"447"	38	20	"F"	"Etudiant"	3	3	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	1	1	0	5	5	4	3	2	3	3	2	3	NA
+"448"	38	20	"F"	"Etudiant"	4	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	4	4	2	2	4	3	3	4	3	NA
+"449"	38	20	"F"	"Etudiant"	5	5	1	0	0	0	0	1	0	0	0	1	0	0	0	1	1	0	0	0	1	2	2	2	2	4	5	2	2	2	NA
+"450"	38	20	"F"	"Etudiant"	6	6	1	0	0	0	0	0	1	1	0	0	1	0	1	0	0	0	1	0	0	3	3	2	2	3	4	3	3	5	NA
+"451"	38	20	"F"	"Etudiant"	7	7	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	1	1	5	1	1	4	4	2	1	2	NA
+"452"	38	20	"F"	"Etudiant"	8	8	0	0	1	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	5	4	1	3	2	4	2	4	4	NA
+"453"	38	20	"F"	"Etudiant"	9	9	1	0	0	1	0	1	0	0	1	0	0	0	1	0	1	0	0	0	0	3	3	4	4	3	3	3	3	6	NA
+"454"	38	20	"F"	"Etudiant"	10	10	0	1	0	0	1	0	0	1	0	0	0	0	0	0	1	0	0	0	1	4	4	4	2	3	2	3	2	4	NA
+"455"	38	20	"F"	"Etudiant"	11	11	0	0	1	0	0	0	0	0	0	1	0	1	0	1	0	0	0	0	0	1	4	1	1	5	4	4	2	3	NA
+"456"	38	20	"F"	"Etudiant"	12	12	0	0	0	0	1	0	1	1	0	0	0	0	0	0	1	0	0	1	0	5	5	4	3	2	2	2	3	4	NA
+"457"	39	21	"F"	"Etudiant"	1	1	0	0	0	0	1	0	1	0	0	1	0	0	0	0	1	0	0	0	0	3	3	3	2	3	4	2	3	7	"un peu mou"
+"458"	39	21	"F"	"Etudiant"	2	2	0	0	1	1	0	1	0	0	0	0	0	1	0	1	0	0	0	0	1	2	3	4	4	2	3	3	3	7	NA
+"459"	39	21	"F"	"Etudiant"	3	3	0	0	0	0	0	0	0	0	1	0	0	1	0	1	0	1	0	1	0	2	3	3	2	3	4	2	4	5	"trop grave"
+"460"	39	21	"F"	"Etudiant"	4	4	0	0	1	0	1	0	1	0	0	0	0	0	1	0	0	0	0	0	0	2	2	2	2	2	4	2	2	3	"trop simple"
+"461"	39	21	"F"	"Etudiant"	5	5	0	0	0	0	1	0	1	1	0	1	0	0	0	0	1	0	0	0	0	3	3	3	3	3	3	3	3	10	"variation dans le son, à l'arrière"
+"462"	39	21	"F"	"Etudiant"	6	6	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	4	4	4	3	2	3	2	2	5	"pas agréable"
+"463"	39	21	"F"	"Etudiant"	7	7	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	1	0	3	4	3	3	2	3	3	2	6	"trop accordéon, trop populaire"
+"464"	39	21	"F"	"Etudiant"	8	8	0	0	1	1	0	1	0	0	0	1	0	1	0	1	0	0	0	0	1	2	3	3	3	2	4	2	4	5	"ca fait peur, froid"
+"465"	39	21	"F"	"Etudiant"	9	9	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	1	0	0	4	5	3	3	2	2	2	2	3	"agressif pour l'oreille, mauvais"
+"466"	39	21	"F"	"Etudiant"	10	10	1	0	0	0	1	0	1	0	0	1	0	0	0	0	1	0	0	0	0	3	2	3	3	2	3	2	3	7	"un peu simple"
+"467"	39	21	"F"	"Etudiant"	11	11	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	1	0	0	0	3	4	4	2	2	3	2	3	5	"pas agréable"
+"468"	39	21	"F"	"Etudiant"	12	12	0	0	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	3	4	3	4	2	3	4	1	4	"trop accordéon"
+"469"	40	22	"F"	"Etudiant"	1	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	2	2	1	2	2	5	1	3	2	"trop féminin, trop mou"
+"470"	40	22	"F"	"Etudiant"	2	2	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	1	2	3	3	4	2	3	2	2	4	"classe, energique, mais piano fait vieillot"
+"471"	40	22	"F"	"Etudiant"	3	3	0	0	0	0	0	1	0	0	0	1	0	1	0	1	0	0	0	0	0	1	1	2	2	2	4	2	5	1	"triste, mou, paraît fébrile"
+"472"	40	22	"F"	"Etudiant"	4	4	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	1	2	1	2	2	5	2	2	1	"son orgue rappelle la messe"
+"473"	40	22	"F"	"Etudiant"	5	5	1	0	0	0	0	0	0	0	0	1	0	1	0	0	0	1	0	0	0	1	3	2	2	3	4	1	4	3	"serieux mais manque d'energie"
+"474"	40	22	"F"	"Etudiant"	6	6	0	0	0	1	1	0	1	0	1	0	1	0	1	0	0	0	1	0	0	2	3	3	3	1	3	2	3	4	"assez neutre"
+"475"	40	22	"F"	"Etudiant"	7	7	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	1	1	2	3	2	1	2	2	1	3	3	"rappelle mon grand père"
+"476"	40	22	"F"	"Etudiant"	8	8	0	0	0	0	0	0	0	0	0	0	1	0	1	1	0	0	1	0	0	2	4	1	2	1	2	2	2	1	"trop populaire, trop mou"
+"477"	40	22	"F"	"Etudiant"	9	9	1	1	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	1	3	4	4	4	1	3	1	1	2	"manque de lien entre notes"
+"478"	40	22	"F"	"Etudiant"	10	10	0	0	0	0	0	1	0	0	0	1	0	1	0	1	0	0	0	0	0	1	2	1	2	3	4	1	2	2	"haut de gamme mais froid, pas familial"
+"479"	40	22	"F"	"Etudiant"	11	11	1	1	1	0	0	0	1	0	0	1	0	0	0	0	0	1	0	0	1	2	4	3	4	1	3	2	3	6	"pas assez chaleureux"
+"480"	40	22	"F"	"Etudiant"	12	12	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	1	2	1	1	1	5	2	2	2	"vieillot et rigide"
+"481"	41	19	"F"	"Etudiant"	1	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	1	1	1	1	3	3	3	3	3	"trop lent, pas innovant"
+"482"	41	19	"F"	"Etudiant"	2	2	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	1	1	1	2	3	3	3	3	4	NA
+"483"	41	19	"F"	"Etudiant"	3	3	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	2	5	2	2	3	"mou, on s'endort"
+"484"	41	19	"F"	"Etudiant"	4	4	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	2	3	2	2	3	2	3	3	6	"piano et cordes expriment la haute technologie, haut de gamme"
+"485"	41	19	"F"	"Etudiant"	5	5	0	0	1	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	3	3	2	3	3	1	2	3	7	"cordes = passion, haut de gamme"
+"486"	41	19	"F"	"Etudiant"	6	6	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	1	1	1	2	4	1	4	2	NA
+"487"	41	19	"F"	"Etudiant"	7	7	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	1	1	1	2	5	1	4	2	"lent, tu meurs"
+"488"	41	19	"F"	"Etudiant"	8	8	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	3	3	3	3	3	2	2	3	7	"rapide = indépendance, efficacité"
+"489"	41	19	"F"	"Etudiant"	9	9	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	1	0	2	1	1	1	3	3	3	3	5	"restitue le coté familial"
+"490"	41	19	"F"	"Etudiant"	10	10	1	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	3	3	2	3	3	2	3	3	6	"trop aigu, international"
+"491"	41	19	"F"	"Etudiant"	11	11	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	2	1	1	1	2	3	2	2	4	"trop traditionnel un peu lent, ou est l'exigence"
+"492"	41	19	"F"	"Etudiant"	12	12	1	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	2	3	3	2	3	2	3	3	7	NA
+"493"	42	20	"H"	"Etudiant"	1	1	0	0	1	0	0	0	0	1	1	0	0	1	0	1	0	0	0	0	0	2	3	2	1	2	4	2	3	5	NA
+"494"	42	20	"H"	"Etudiant"	2	2	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	1	0	0	0	2	3	3	2	2	3	2	3	7	NA
+"495"	42	20	"H"	"Etudiant"	3	3	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	2	2	1	1	2	5	2	3	3	NA
+"496"	42	20	"H"	"Etudiant"	4	4	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	4	3	2	2	4	1	2	5	NA
+"497"	42	20	"H"	"Etudiant"	5	5	0	1	0	0	0	0	0	0	0	0	1	0	1	0	0	0	1	1	0	3	3	2	2	2	2	2	3	5	NA
+"498"	42	20	"H"	"Etudiant"	6	6	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	2	3	2	2	2	4	2	4	5	NA
+"499"	42	20	"H"	"Etudiant"	7	7	0	0	0	0	0	1	0	0	0	0	0	1	0	1	0	0	0	0	0	3	3	3	2	3	3	2	3	8	NA
+"500"	42	20	"H"	"Etudiant"	8	8	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	2	3	2	1	1	5	2	4	4	NA
+"501"	42	20	"H"	"Etudiant"	9	9	1	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	3	4	2	2	3	3	2	3	7	NA
+"502"	42	20	"H"	"Etudiant"	10	10	0	1	0	0	0	0	0	0	1	0	0	1	0	1	0	0	0	0	0	3	3	3	2	3	3	2	3	8	NA
+"503"	42	20	"H"	"Etudiant"	11	11	0	1	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	1	2	2	2	3	3	3	2	3	6	NA
+"504"	42	20	"H"	"Etudiant"	12	12	1	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	2	3	2	2	2	4	2	4	5	NA
+"505"	43	22	"F"	"Etudiant"	1	1	0	0	1	0	0	0	1	0	0	0	1	0	0	1	0	0	0	0	0	3	1	1	2	1	3	3	3	5	"son classique, ne met pas la marque en valeur"
+"506"	43	22	"F"	"Etudiant"	2	2	0	1	0	0	0	1	0	0	0	1	0	0	0	0	1	0	0	0	1	4	2	2	4	2	3	4	2	3	"trop rapide"
+"507"	43	22	"F"	"Etudiant"	3	3	0	0	1	1	0	1	0	0	0	0	1	0	1	1	1	1	0	1	1	3	3	3	3	3	3	2	3	8	NA
+"508"	43	22	"F"	"Etudiant"	4	4	1	0	0	0	1	0	1	0	0	0	1	0	1	0	0	0	1	0	0	5	4	2	4	2	2	5	1	2	"bal musette, pas crédible pour une entreprise"
+"509"	43	22	"F"	"Etudiant"	5	5	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	4	4	1	4	1	3	2	2	3	"trop aigu, pas agréable à entendre"
+"510"	43	22	"F"	"Etudiant"	6	6	1	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	1	4	2	2	5	1	3	2	2	3	"trop aigu, pas agréable à entendre"
+"511"	43	22	"F"	"Etudiant"	7	7	1	1	1	1	0	1	1	1	0	1	1	0	1	1	1	1	0	0	1	3	3	3	3	2	3	3	3	8	"reflète bien le haut de gamme"
+"512"	43	22	"F"	"Etudiant"	8	8	0	0	0	0	0	1	1	0	0	1	0	1	0	1	0	0	0	0	0	2	1	1	1	1	3	2	4	4	"trop lent, pas assez innovant"
+"513"	43	22	"F"	"Etudiant"	9	9	0	1	1	0	0	1	0	0	0	0	0	1	0	1	1	1	0	0	1	2	2	1	2	2	3	3	4	6	NA
+"514"	43	22	"F"	"Etudiant"	10	10	0	0	1	0	0	1	0	1	0	1	0	1	0	1	1	1	0	0	1	2	2	2	4	2	3	2	3	6	NA
+"515"	43	22	"F"	"Etudiant"	11	11	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	1	1	2	1	3	1	2	2	NA
+"516"	43	22	"F"	"Etudiant"	12	12	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	2	2	1	2	1	3	2	3	5	"technologie et innovant peuvent être trouvés mais pas familial"
+"517"	44	22	"F"	"Etudiant"	1	1	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	2	3	4	5	3	3	2	2	5	NA
+"518"	44	22	"F"	"Etudiant"	2	2	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	1	5	2	2	1	3	2	2	2	NA
+"519"	44	22	"F"	"Etudiant"	3	3	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	3	2	2	1	3	4	3	3	4	NA
+"520"	44	22	"F"	"Etudiant"	4	4	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	1	2	3	2	3	3	2	3	3	7	NA
+"521"	44	22	"F"	"Etudiant"	5	5	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	2	3	2	2	3	4	3	3	5	"trop de graves, fait traditionnel"
+"522"	44	22	"F"	"Etudiant"	6	6	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	2	3	2	1	4	4	3	3	6	"tempo trop lent"
+"523"	44	22	"F"	"Etudiant"	7	7	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	3	3	2	3	2	3	3	2	4	NA
+"524"	44	22	"F"	"Etudiant"	8	8	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	3	2	3	3	3	4	2	3	6	NA
+"525"	44	22	"F"	"Etudiant"	9	9	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	1	0	3	3	3	3	3	4	3	3	9	NA
+"526"	44	22	"F"	"Etudiant"	10	10	1	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	2	3	2	1	3	4	2	3	6	NA
+"527"	44	22	"F"	"Etudiant"	11	11	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	3	3	3	2	3	2	3	8	NA
+"528"	44	22	"F"	"Etudiant"	12	12	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	2	1	2	1	4	4	2	3	4	NA
+"529"	45	22	"F"	"Etudiant"	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	1	1	2	2	1	1	1	4	2	5	0	"trop sombre alors que c'est censé etre dynamique et innovant"
+"530"	45	22	"F"	"Etudiant"	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	5	4	4	3	1	3	3	2	3	"trop strident, pointu"
+"531"	45	22	"F"	"Etudiant"	3	3	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	2	4	2	1	1	4	4	4	4	"trop serieux, manque de fun"
+"532"	45	22	"F"	"Etudiant"	4	4	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	3	3	3	2	3	4	3	4	7	"assez intime, proche mais trop classique, trop doux"
+"533"	45	22	"F"	"Etudiant"	5	5	0	0	1	0	0	0	0	0	1	0	0	0	1	1	0	0	0	0	0	1	4	1	1	1	5	2	4	0	"trop sombre, trop strict"
+"534"	45	22	"F"	"Etudiant"	6	6	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	2	4	1	1	1	4	2	3	1	"trop lente, manque de dynamisme"
+"535"	45	22	"F"	"Etudiant"	7	7	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	2	3	2	1	3	3	2	4	3	"tres proche, trop gentil"
+"536"	45	22	"F"	"Etudiant"	8	8	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	2	2	1	1	1	3	3	3	5	"assez classique et serieux comme l'entreprise"
+"537"	45	22	"F"	"Etudiant"	9	9	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	1	2	1	2	1	4	2	4	1	"trop sombre, trop serieux"
+"538"	45	22	"F"	"Etudiant"	10	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	4	1	1	2	4	3	4	0	"trop strident"
+"539"	45	22	"F"	"Etudiant"	11	11	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	4	4	2	2	2	3	3	2	3	"trop strident, trop piquant, pas assez professionnel"
+"540"	45	22	"F"	"Etudiant"	12	12	0	0	0	0	0	0	0	0	1	0	0	0	1	1	0	0	0	1	0	2	2	2	2	2	4	2	3	5	"assez serieux, de haut niveau"
+"541"	46	23	"H"	"Etudiant"	1	1	0	0	1	0	0	1	0	0	0	1	0	0	0	1	0	0	0	0	0	2	3	1	1	3	4	2	4	6	"son de qualité, technologique, légèrement innovant"
+"542"	46	23	"H"	"Etudiant"	2	2	0	0	0	0	1	0	0	0	0	0	1	0	1	0	0	0	0	1	0	4	3	2	4	1	1	4	2	4	"trop joyeux, pas assez sérieux, ne reflete pas la haute technologie"
+"543"	46	23	"H"	"Etudiant"	3	3	1	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	2	4	2	2	3	3	2	3	5	"entre le serieux classe et le joyeux, pas assez professionnel"
+"544"	46	23	"H"	"Etudiant"	4	4	0	0	0	0	1	0	0	0	0	0	1	1	1	0	0	0	0	1	0	4	4	3	3	1	1	3	2	5	"son neutre"
+"545"	46	23	"H"	"Etudiant"	5	5	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	4	4	3	4	3	2	2	2	6	"haut de gamme, pas innovant"
+"546"	46	23	"H"	"Etudiant"	6	6	0	0	0	0	0	1	1	0	0	0	0	0	0	1	0	0	0	1	0	4	4	3	5	2	3	4	2	7	"innovant, haute technologie"
+"547"	46	23	"H"	"Etudiant"	7	7	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	5	5	4	3	1	2	3	2	4	"trop strident, pas assez sérieux"
+"548"	46	23	"H"	"Etudiant"	8	8	0	1	1	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	3	2	2	2	3	3	2	4	7	"son à haute technologie, notes professionnelles"
+"549"	46	23	"H"	"Etudiant"	9	9	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	4	3	4	4	2	2	4	2	4	"trop festif, pas classe"
+"550"	46	23	"H"	"Etudiant"	10	10	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	1	0	0	1	5	5	4	5	2	3	3	2	3	"trop moche"
+"551"	46	23	"H"	"Etudiant"	11	11	0	0	0	1	1	0	0	0	0	0	1	1	0	0	0	1	0	0	0	3	3	3	3	3	4	2	3	7	"son propre, classe"
+"552"	46	23	"H"	"Etudiant"	12	12	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	0	4	4	4	4	2	1	3	2	5	"trop festif, un peu classe"
+"553"	47	23	"H"	"Etudiant"	1	1	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	1	1	1	1	1	4	1	5	0	NA
+"554"	47	23	"H"	"Etudiant"	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	2	2	1	1	1	4	3	5	0	NA
+"555"	47	23	"H"	"Etudiant"	3	3	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	2	2	2	2	3	3	3	4	3	NA
+"556"	47	23	"H"	"Etudiant"	4	4	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	1	1	1	1	5	1	5	0	NA
+"557"	47	23	"H"	"Etudiant"	5	5	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	5	2	2	1	3	2	3	4	NA
+"558"	47	23	"H"	"Etudiant"	6	6	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	5	2	3	2	3	3	3	5	NA
+"559"	47	23	"H"	"Etudiant"	7	7	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	0	0	0	0	3	2	1	2	3	3	3	4	5	NA
+"560"	47	23	"H"	"Etudiant"	8	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	5	5	5	1	3	1	1	1	NA
+"561"	47	23	"H"	"Etudiant"	9	9	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	3	5	5	3	1	3	2	2	3	NA
+"562"	47	23	"H"	"Etudiant"	10	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	1	1	1	1	5	1	5	1	NA
+"563"	47	23	"H"	"Etudiant"	11	11	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	5	4	2	1	3	3	3	4	NA
+"564"	47	23	"H"	"Etudiant"	12	12	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	3	2	2	3	3	2	3	8	NA
+"565"	48	48	"F"	"Etudiant"	1	1	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	1	1	1	1	4	2	3	3	NA
+"566"	48	48	"F"	"Etudiant"	2	2	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	2	2	2	3	3	2	3	4	NA
+"567"	48	48	"F"	"Etudiant"	3	3	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	3	2	2	3	2	4	3	3	5	NA
+"568"	48	48	"F"	"Etudiant"	4	4	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	2	3	2	2	2	3	1	3	4	NA
+"569"	48	48	"F"	"Etudiant"	5	5	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	2	3	2	2	1	4	1	3	3	NA
+"570"	48	48	"F"	"Etudiant"	6	6	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	5	3	2	1	3	2	2	5	NA
+"571"	48	48	"F"	"Etudiant"	7	7	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	2	3	2	2	1	4	1	3	5	NA
+"572"	48	48	"F"	"Etudiant"	8	8	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	2	3	2	2	3	3	3	3	7	NA
+"573"	48	48	"F"	"Etudiant"	9	9	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	1	3	1	1	2	3	1	3	5	NA
+"574"	48	48	"F"	"Etudiant"	10	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	4	5	2	4	1	3	2	2	4	NA
+"575"	48	48	"F"	"Etudiant"	11	11	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	3	3	2	2	3	3	3	3	9	NA
+"576"	48	48	"F"	"Etudiant"	12	12	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	4	1	1	1	5	1	5	1	NA
+"577"	49	48	"F"	"Employé"	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	3	1	3	1	5	1	3	1	NA
+"578"	49	48	"F"	"Employé"	2	2	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	3	1	3	1	3	2	3	4	NA
+"579"	49	48	"F"	"Employé"	3	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	1	1	1	1	5	1	1	1	NA
+"580"	49	48	"F"	"Employé"	4	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	2	3	3	3	1	2	2	3	3	NA
+"581"	49	48	"F"	"Employé"	5	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	4	1	1	1	5	1	3	1	NA
+"582"	49	48	"F"	"Employé"	6	6	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	3	3	2	2	2	3	3	3	5	NA
+"583"	49	48	"F"	"Employé"	7	7	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	4	1	1	1	4	1	3	3	NA
+"584"	49	48	"F"	"Employé"	8	8	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	2	1	1	1	4	1	3	3	NA
+"585"	49	48	"F"	"Employé"	9	9	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	2	1	1	1	1	1	3	2	NA
+"586"	49	48	"F"	"Employé"	10	10	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	2	2	1	1	1	4	2	3	3	NA
+"587"	49	48	"F"	"Employé"	11	11	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	2	3	2	3	2	3	3	3	5	NA
+"588"	49	48	"F"	"Employé"	12	12	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	2	3	2	3	1	4	2	3	4	NA
+"589"	50	20	"H"	"Etudiant"	1	1	0	1	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	1	0	4	4	3	3	1	2	3	2	4	"trop aigu"
+"590"	50	20	"H"	"Etudiant"	2	2	0	0	1	0	1	0	0	0	1	0	0	0	0	1	0	0	1	0	0	1	3	1	1	3	4	2	4	2	"trop triste pas assez rythmé"
+"591"	50	20	"H"	"Etudiant"	3	3	1	1	0	0	0	0	0	0	0	1	0	1	0	0	0	1	0	1	0	4	3	3	2	2	3	2	2	3	"ne représente pas une marque haut de gamme"
+"592"	50	20	"H"	"Etudiant"	4	4	0	0	1	0	0	1	1	1	1	0	0	0	0	1	1	0	0	0	0	2	4	2	2	4	4	2	3	5	"pas assez dynamique"
+"593"	50	20	"H"	"Etudiant"	5	5	1	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	3	4	4	2	1	4	2	2	4	"pas assez rapide, trop aigu"
+"594"	50	20	"H"	"Etudiant"	6	6	0	0	0	1	0	0	0	1	1	0	1	0	0	1	0	0	1	1	0	2	4	2	3	3	4	2	2	7	"peut-être un peu trop grave"
+"595"	50	20	"H"	"Etudiant"	7	7	0	0	1	0	0	1	1	1	1	0	0	0	0	1	1	0	0	0	1	3	3	2	1	3	4	2	2	5	"manque d'énergie = entreprise, pas active"
+"596"	50	20	"H"	"Etudiant"	8	8	1	0	0	0	0	0	0	0	0	1	0	1	0	0	0	1	0	0	0	4	4	3	3	1	3	4	2	4	"son pas agréable"
+"597"	50	20	"H"	"Etudiant"	9	9	0	0	1	1	0	0	0	0	0	0	1	1	1	0	0	0	1	1	0	1	4	1	3	4	1	3	2	4	"trop grave on a l'impression qu'on va nous forcer à acheter le produit"
+"598"	50	20	"H"	"Etudiant"	10	10	0	0	1	0	0	1	0	1	0	0	1	1	0	1	1	0	0	0	1	2	4	1	1	2	4	2	5	2	"rien n'est bien ajusté, trop triste"
+"599"	50	20	"H"	"Etudiant"	11	11	1	1	0	0	1	1	0	0	1	1	1	0	1	0	0	1	0	0	0	3	3	3	4	3	3	3	3	8	"bref et clair, dynamique"
+"600"	50	20	"H"	"Etudiant"	12	12	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	1	0	0	0	4	4	4	4	1	2	3	2	4	"trop  aigu"
+"601"	51	19	"H"	"Etudiant"	1	1	0	0	1	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	2	2	2	3	2	4	2	3	3	"trop triste"
+"602"	51	19	"H"	"Etudiant"	2	2	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	1	0	1	3	2	1	3	4	2	5	4	"pas assez innovateur, trop lent"
+"603"	51	19	"H"	"Etudiant"	3	3	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	1	0	3	3	2	2	2	3	3	2	3	"un peu trop vieillot "
+"604"	51	19	"H"	"Etudiant"	4	4	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	3	3	3	4	2	3	2	4	5	"trop strident"
+"605"	51	19	"H"	"Etudiant"	5	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	0	3	3	3	3	3	3	3	3	8	"bon tempo"
+"606"	51	19	"H"	"Etudiant"	6	6	0	0	0	0	0	0	0	0	0	0	0	1	0	1	1	0	0	0	1	3	3	3	3	2	3	3	2	8	NA
+"607"	51	19	"H"	"Etudiant"	7	7	0	0	0	0	0	0	0	0	0	1	0	1	0	0	1	0	0	0	0	3	3	4	4	2	3	2	3	6	"trop strident"
+"608"	51	19	"H"	"Etudiant"	8	8	0	0	0	0	0	1	0	0	0	0	0	1	0	1	1	0	0	1	1	2	2	2	2	3	4	3	3	5	NA
+"609"	51	19	"H"	"Etudiant"	9	9	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	2	3	2	2	3	3	3	3	5	"trop lent"
+"610"	51	19	"H"	"Etudiant"	10	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	3	3	3	3	3	3	3	3	8	NA
+"611"	51	19	"H"	"Etudiant"	11	11	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	2	3	2	2	3	4	2	3	5	NA
+"612"	51	19	"H"	"Etudiant"	12	12	1	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	1	3	3	3	3	2	3	3	3	7	NA
+"613"	52	20	"F"	"Etudiant"	1	1	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	3	2	1	2	3	2	1	4	8	"chic"
+"614"	52	20	"F"	"Etudiant"	2	2	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	1	2	3	1	2	2	4	2	3	5	"trop triste"
+"615"	52	20	"F"	"Etudiant"	3	3	0	0	0	0	1	1	0	0	0	0	0	1	0	0	0	0	0	0	0	1	1	1	1	2	4	2	4	0	"trop mélancolique"
+"616"	52	20	"F"	"Etudiant"	4	4	1	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	1	0	3	3	3	3	2	1	3	3	9	"gai"
+"617"	52	20	"F"	"Etudiant"	5	5	1	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	2	2	1	2	2	4	1	3	3	"trop lugubre"
+"618"	52	20	"F"	"Etudiant"	6	6	0	0	0	0	0	1	0	1	0	0	0	0	0	1	0	1	0	0	0	3	3	2	3	1	3	3	3	8	NA
+"619"	52	20	"F"	"Etudiant"	7	7	0	1	0	0	0	0	0	1	0	0	0	0	1	1	0	1	0	0	0	1	1	1	1	3	4	1	5	3	"beaucoup trop serieux et lent"
+"620"	52	20	"F"	"Etudiant"	8	8	0	0	1	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	1	3	2	1	2	3	3	3	3	6	NA
+"621"	52	20	"F"	"Etudiant"	9	9	0	0	0	0	0	1	1	0	0	1	0	0	0	0	0	0	0	1	0	3	3	3	3	3	2	3	3	9	"ni trop aigu, ni trop grave"
+"622"	52	20	"F"	"Etudiant"	10	10	1	0	0	0	1	0	0	0	0	1	0	1	0	0	0	0	0	0	0	3	4	4	4	1	2	1	1	1	NA
+"623"	52	20	"F"	"Etudiant"	11	11	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	4	4	3	3	2	3	4	2	5	NA
+"624"	52	20	"F"	"Etudiant"	12	12	0	0	0	0	1	0	1	0	1	0	0	0	0	0	0	1	0	0	0	2	1	1	1	4	4	3	3	4	NA
+"625"	53	18	"H"	"Etudiant"	1	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	3	3	2	2	3	4	2	4	4	"lente, transmet peu d'enthousiasme, mais reste sérieux"
+"626"	53	18	"H"	"Etudiant"	2	2	0	0	1	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	3	2	2	2	3	3	2	3	4	"trop lent, les différentes sons sont trop liés"
+"627"	53	18	"H"	"Etudiant"	3	3	0	0	0	0	0	0	0	1	1	0	1	0	0	0	0	0	0	0	0	3	3	3	3	3	3	3	2	9	"rythme joyeux, notes bien séparées et claires"
+"628"	53	18	"H"	"Etudiant"	4	4	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	2	1	2	2	3	4	2	4	3	"trop lent, ne transmet pas d'enthousiasme ni de joie"
+"629"	53	18	"H"	"Etudiant"	5	5	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	3	2	3	3	3	2	4	7	"pas mal, mais trop lent"
+"630"	53	18	"H"	"Etudiant"	6	6	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	4	4	4	4	3	2	3	2	5	"trop rapide, ne convient pas au haut de gamme"
+"631"	53	18	"H"	"Etudiant"	7	7	0	0	0	0	0	0	0	0	0	1	0	1	0	0	1	0	0	0	0	3	4	2	3	3	4	2	3	5	"son trop strident"
+"632"	53	18	"H"	"Etudiant"	8	8	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	3	3	2	3	3	3	3	3	8	"assez grave, connote bien le haut de gamme, le serieux de l'entreprise"
+"633"	53	18	"H"	"Etudiant"	9	9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	2	2	1	1	2	4	2	4	3	"trop lent, tonalité mal adaptée"
+"634"	53	18	"H"	"Etudiant"	10	10	0	0	0	1	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	3	2	2	3	3	4	2	3	7	"pas mal, mais pas assez joyeux, ne véhicule pas l'envie d'acheter"
+"635"	53	18	"H"	"Etudiant"	11	11	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	5	4	4	4	2	2	4	1	3	"son trop aigu, trop rapide"
+"636"	53	18	"H"	"Etudiant"	12	12	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	3	3	2	2	3	3	3	3	8	"classique mais efficace"
+"637"	54	47	"H"	"Employé"	1	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	2	3	1	1	1	1	1	1	2	NA
+"638"	54	47	"H"	"Employé"	2	2	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	1	1	1	1	1	4	1	2	2	NA
+"639"	54	47	"H"	"Employé"	3	3	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	2	2	1	1	1	3	1	2	3	NA
+"640"	54	47	"H"	"Employé"	4	4	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	1	2	1	2	1	3	1	2	3	NA
+"641"	54	47	"H"	"Employé"	5	5	0	0	0	0	1	0	1	0	0	0	1	0	1	0	0	0	0	0	0	2	2	2	2	1	1	2	3	4	NA
+"642"	54	47	"H"	"Employé"	6	6	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	1	2	1	1	1	2	2	2	3	NA
+"643"	54	47	"H"	"Employé"	7	7	0	0	1	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	2	2	2	1	1	3	2	3	4	NA
+"644"	54	47	"H"	"Employé"	8	8	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	2	3	3	3	2	2	3	3	5	NA
+"645"	54	47	"H"	"Employé"	9	9	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	2	3	3	2	2	3	2	3	5	NA
+"646"	54	47	"H"	"Employé"	10	10	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	3	3	2	2	2	2	3	3	4	NA
+"647"	54	47	"H"	"Employé"	11	11	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	1	1	2	1	1	1	3	2	3	5	NA
+"648"	54	47	"H"	"Employé"	12	12	1	0	0	0	1	1	0	0	0	1	0	0	0	0	0	0	0	0	1	3	2	3	2	3	2	3	2	5	NA
+"649"	55	19	"F"	"Etudiant"	1	1	0	0	1	0	0	1	0	0	0	1	0	0	0	1	0	0	0	0	0	3	3	2	2	3	3	3	3	9	"serieux et accueillant"
+"650"	55	19	"F"	"Etudiant"	2	2	0	0	0	0	0	0	0	0	0	1	0	1	0	1	1	0	0	0	0	3	2	1	2	3	4	2	3	7	"trop loin des gens"
+"651"	55	19	"F"	"Etudiant"	3	3	0	1	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	3	4	2	2	3	3	1	3	3	"trop aigu"
+"652"	55	19	"F"	"Etudiant"	4	4	0	0	1	0	0	1	0	0	0	0	0	1	0	1	0	0	0	1	0	1	2	1	1	4	5	2	3	1	"enterrement"
+"653"	55	19	"F"	"Etudiant"	5	5	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	4	3	3	1	2	2	2	2	"vraiment trop aigu"
+"654"	55	19	"F"	"Etudiant"	6	6	1	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	1	4	4	2	3	2	2	3	2	4	"pas beau a entendre"
+"655"	55	19	"F"	"Etudiant"	7	7	0	0	0	0	0	1	0	0	1	0	0	0	1	1	0	1	0	0	0	3	2	3	3	3	3	3	3	10	"droit comme entreprise"
+"656"	55	19	"F"	"Etudiant"	8	8	0	0	1	0	0	0	0	0	0	1	0	0	0	0	1	0	0	1	0	1	3	1	1	2	4	3	3	3	"trop mou"
+"657"	55	19	"F"	"Etudiant"	9	9	0	1	0	0	1	0	0	1	1	0	1	0	1	0	0	0	0	0	0	4	5	2	3	1	1	3	1	3	"trop accordéon, trop guingette, trop populaire"
+"658"	55	19	"F"	"Etudiant"	10	10	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	3	4	1	1	2	3	3	3	4	"trop lent"
+"659"	55	19	"F"	"Etudiant"	11	11	0	1	0	0	0	0	0	0	0	1	0	1	0	1	0	1	0	0	0	5	4	3	3	1	2	3	3	6	"trop joyeux"
+"660"	55	19	"F"	"Etudiant"	12	12	0	1	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	1	0	1	3	1	2	2	5	1	4	2	"trop lugubre"
+"661"	56	18	"F"	"Etudiant"	1	1	0	0	1	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	3	2	2	2	2	4	2	3	5	NA
+"662"	56	18	"F"	"Etudiant"	2	2	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	1	0	4	3	4	3	2	3	3	2	4	"pas assez classe"
+"663"	56	18	"F"	"Etudiant"	3	3	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	3	3	3	3	3	3	3	3	8	NA
+"664"	56	18	"F"	"Etudiant"	4	4	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	2	3	3	2	3	4	2	3	6	"un peu trop lent"
+"665"	56	18	"F"	"Etudiant"	5	5	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	4	4	4	4	2	2	4	2	3	"ne correspond pas à l'image haut de gamme"
+"666"	56	18	"F"	"Etudiant"	6	6	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	3	3	3	3	2	3	4	3	7	NA
+"667"	56	18	"F"	"Etudiant"	7	7	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	4	4	2	4	2	2	3	2	5	NA
+"668"	56	18	"F"	"Etudiant"	8	8	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	3	3	3	3	3	3	3	3	8	NA
+"669"	56	18	"F"	"Etudiant"	9	9	1	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	3	3	3	3	2	4	3	3	7	NA
+"670"	56	18	"F"	"Etudiant"	10	10	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	3	3	3	3	2	2	3	2	7	NA
+"671"	56	18	"F"	"Etudiant"	11	11	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	4	4	3	4	2	2	3	2	5	NA
+"672"	56	18	"F"	"Etudiant"	12	12	0	0	1	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	1	3	3	3	3	3	3	3	3	9	"le rythme lent fait serieux et aigu fait classe"
+"673"	57	21	"H"	"Etudiant"	1	1	0	0	1	0	0	0	1	1	0	0	0	0	0	1	0	0	1	1	0	3	3	2	2	3	3	3	3	7	NA
+"674"	57	21	"H"	"Etudiant"	2	2	0	0	1	0	0	0	0	0	0	0	0	1	0	1	0	0	1	0	0	1	4	2	1	1	4	1	3	2	NA
+"675"	57	21	"H"	"Etudiant"	3	3	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	1	0	0	3	3	2	2	3	3	2	3	7	NA
+"676"	57	21	"H"	"Etudiant"	4	4	1	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	2	3	2	1	1	4	2	4	5	NA
+"677"	57	21	"H"	"Etudiant"	5	5	0	0	0	0	1	0	0	1	0	1	0	0	1	0	0	0	0	0	1	4	3	2	3	3	3	2	3	6	NA
+"678"	57	21	"H"	"Etudiant"	6	6	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	3	3	2	2	2	4	2	3	6	NA
+"679"	57	21	"H"	"Etudiant"	7	7	0	0	1	0	0	0	1	0	0	0	1	0	0	0	0	0	1	1	0	5	5	1	1	2	4	2	4	3	NA
+"680"	57	21	"H"	"Etudiant"	8	8	1	1	0	1	0	0	1	1	0	0	0	0	1	0	0	0	0	0	1	3	2	2	1	2	3	3	3	5	NA
+"681"	57	21	"H"	"Etudiant"	9	9	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	3	4	2	2	2	4	3	2	6	NA
+"682"	57	21	"H"	"Etudiant"	10	10	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	2	2	2	1	2	3	2	3	6	NA
+"683"	57	21	"H"	"Etudiant"	11	11	0	0	1	0	0	0	1	0	0	0	1	1	0	0	0	1	0	0	0	2	2	2	2	2	4	2	2	4	NA
+"684"	57	21	"H"	"Etudiant"	12	12	1	1	0	0	0	1	0	1	1	1	0	0	0	0	0	1	1	0	1	2	3	3	3	3	4	3	4	6	NA
+"685"	58	20	"F"	"Etudiant"	1	1	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	2	2	1	2	3	2	3	3	NA
+"686"	58	20	"F"	"Etudiant"	2	2	1	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	4	3	4	2	3	2	2	4	"son strident"
+"687"	58	20	"F"	"Etudiant"	3	3	0	0	1	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	1	3	3	2	2	2	3	3	3	6	NA
+"688"	58	20	"F"	"Etudiant"	4	4	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	2	3	2	2	3	4	2	3	4	NA
+"689"	58	20	"F"	"Etudiant"	5	5	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	1	3	2	1	2	4	2	3	3	NA
+"690"	58	20	"F"	"Etudiant"	6	6	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	2	2	1	2	4	2	4	2	NA
+"691"	58	20	"F"	"Etudiant"	7	7	0	1	0	0	0	0	0	1	0	0	1	0	1	0	0	1	0	0	0	4	3	4	3	2	3	3	2	5	NA
+"692"	58	20	"F"	"Etudiant"	8	8	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	4	2	1	2	4	2	3	3	"trop strident"
+"693"	58	20	"F"	"Etudiant"	9	9	0	0	1	0	0	0	0	0	0	0	0	0	1	0	1	0	1	1	0	3	3	3	2	3	3	3	3	8	"manque un peu plus d'energie, un peu plus de rapidité"
+"694"	58	20	"F"	"Etudiant"	10	10	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	2	2	2	3	3	4	3	3	6	NA
+"695"	58	20	"F"	"Etudiant"	11	11	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	2	2	1	2	4	2	4	3	NA
+"696"	58	20	"F"	"Etudiant"	12	12	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	2	3	2	2	3	4	2	3	4	NA
+"697"	59	53	"F"	"Employé"	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	2	3	1	3	3	4	1	3	7	NA
+"698"	59	53	"F"	"Employé"	2	2	0	0	0	1	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	1	5	1	1	1	4	1	1	3	"on se croirait dans une église"
+"699"	59	53	"F"	"Employé"	3	3	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	5	2	2	2	4	2	5	2	NA
+"700"	59	53	"F"	"Employé"	4	4	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	2	4	1	2	2	4	2	4	2	NA
+"701"	59	53	"F"	"Employé"	5	5	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	3	3	2	2	2	3	2	3	4	NA
+"702"	59	53	"F"	"Employé"	6	6	1	1	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	3	3	3	3	3	3	3	3	8	NA
+"703"	59	53	"F"	"Employé"	7	7	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	1	5	1	1	1	5	1	5	1	NA
+"704"	59	53	"F"	"Employé"	8	8	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	5	1	1	1	4	2	5	2	NA
+"705"	59	53	"F"	"Employé"	9	9	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	3	3	3	3	3	3	3	3	8	NA
+"706"	59	53	"F"	"Employé"	10	10	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	5	1	1	1	5	1	5	1	NA
+"707"	59	53	"F"	"Employé"	11	11	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	3	2	2	3	2	3	2	3	4	NA
+"708"	59	53	"F"	"Employé"	12	12	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	1	3	2	1	2	5	2	4	4	NA
+"709"	60	62	"H"	"Retraité"	1	1	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	2	3	1	2	2	4	3	4	6	NA
+"710"	60	62	"H"	"Retraité"	2	2	1	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	3	2	2	4	2	4	3	4	7	NA
+"711"	60	62	"H"	"Retraité"	3	3	0	0	0	0	0	1	0	0	0	1	0	0	0	1	0	0	0	0	0	2	3	1	2	2	3	2	4	5	NA
+"712"	60	62	"H"	"Retraité"	4	4	1	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	1	0	1	2	2	3	2	4	3	3	6	NA
+"713"	60	62	"H"	"Retraité"	5	5	0	1	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	2	3	2	1	2	4	2	3	4	NA
+"714"	60	62	"H"	"Retraité"	6	6	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	2	3	2	2	1	4	3	3	6	NA
+"715"	60	62	"H"	"Retraité"	7	7	0	0	1	0	0	0	1	0	0	0	0	1	0	0	0	0	1	0	0	3	3	2	2	2	4	3	3	6	NA
+"716"	60	62	"H"	"Retraité"	8	8	0	1	0	0	0	0	1	0	0	0	0	1	0	0	0	1	0	1	0	4	3	3	4	3	2	4	3	6	NA
+"717"	60	62	"H"	"Retraité"	9	9	1	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	1	0	0	1	2	2	2	1	4	2	3	4	NA
+"718"	60	62	"H"	"Retraité"	10	10	0	0	0	0	0	1	0	0	0	1	0	0	0	1	0	0	0	0	0	3	3	2	3	2	4	2	3	6	NA
+"719"	60	62	"H"	"Retraité"	11	11	1	0	0	0	0	0	0	0	1	0	1	0	0	0	0	1	0	0	0	3	2	2	3	3	4	3	4	6	NA
+"720"	60	62	"H"	"Retraité"	12	12	0	0	0	1	0	0	0	1	0	0	1	0	0	0	1	0	0	0	0	1	2	2	1	2	4	2	3	4	NA
+"721"	61	23	"F"	"Employé"	1	1	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	2	2	2	1	3	3	2	4	4	NA
+"722"	61	23	"F"	"Employé"	2	2	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	3	2	3	1	2	2	4	5	NA
+"723"	61	23	"F"	"Employé"	3	3	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	2	2	2	3	3	2	3	5	NA
+"724"	61	23	"F"	"Employé"	4	4	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	3	1	2	2	2	3	4	4	NA
+"725"	61	23	"F"	"Employé"	5	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	3	2	2	1	2	2	5	3	NA
+"726"	61	23	"F"	"Employé"	6	6	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	2	3	3	2	3	3	2	4	6	NA
+"727"	61	23	"F"	"Employé"	7	7	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	3	2	2	1	2	3	5	3	NA
+"728"	61	23	"F"	"Employé"	8	8	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	2	3	3	2	1	2	3	4	4	NA
+"729"	61	23	"F"	"Employé"	9	9	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	3	3	3	4	2	2	2	4	5	NA
+"730"	61	23	"F"	"Employé"	10	10	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	3	2	2	3	3	2	3	6	NA
+"731"	61	23	"F"	"Employé"	11	11	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	3	2	2	1	3	2	5	3	NA
+"732"	61	23	"F"	"Employé"	12	12	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	2	3	3	2	3	3	2	3	7	NA
+"733"	62	48	"F"	"Employé"	1	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	2	3	2	1	1	4	2	4	6	NA
+"734"	62	48	"F"	"Employé"	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	4	1	1	1	4	1	4	5	NA
+"735"	62	48	"F"	"Employé"	3	3	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	4	4	2	2	1	4	2	2	4	NA
+"736"	62	48	"F"	"Employé"	4	4	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	3	2	1	2	3	3	3	6	NA
+"737"	62	48	"F"	"Employé"	5	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	4	4	4	4	3	4	3	3	6	NA
+"738"	62	48	"F"	"Employé"	6	6	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	4	4	5	5	2	2	2	1	4	NA
+"739"	62	48	"F"	"Employé"	7	7	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	3	2	2	2	4	2	3	6	NA
+"740"	62	48	"F"	"Employé"	8	8	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	4	5	5	2	4	2	2	4	NA
+"741"	62	48	"F"	"Employé"	9	9	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	2	3	3	2	3	3	3	3	7	NA
+"742"	62	48	"F"	"Employé"	10	10	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	4	4	4	4	2	3	2	2	4	NA
+"743"	62	48	"F"	"Employé"	11	11	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	3	2	2	2	3	3	3	6	NA
+"744"	62	48	"F"	"Employé"	12	12	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	3	3	3	2	3	2	3	6	NA
+"745"	63	19	"F"	"Employé"	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	1	1	2	1	4	1	4	3	NA
+"746"	63	19	"F"	"Employé"	2	2	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	1	2	1	3	2	4	5	NA
+"747"	63	19	"F"	"Employé"	3	3	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	2	2	1	2	1	4	2	3	4	NA
+"748"	63	19	"F"	"Employé"	4	4	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	3	3	2	3	3	3	3	3	9	NA
+"749"	63	19	"F"	"Employé"	5	5	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	2	4	3	3	2	3	2	4	6	NA
+"750"	63	19	"F"	"Employé"	6	6	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	3	2	2	3	3	3	3	7	NA
+"751"	63	19	"F"	"Employé"	7	7	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	2	3	2	4	2	3	2	4	5	NA
+"752"	63	19	"F"	"Employé"	8	8	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	2	2	2	3	3	3	3	7	NA
+"753"	63	19	"F"	"Employé"	9	9	1	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	2	1	1	2	1	2	2	4	4	NA
+"754"	63	19	"F"	"Employé"	10	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	2	2	2	2	3	4	3	3	6	NA
+"755"	63	19	"F"	"Employé"	11	11	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	3	3	2	3	3	3	3	3	8	NA
+"756"	63	19	"F"	"Employé"	12	12	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	2	4	1	4	1	4	2	4	4	NA
+"757"	64	22	"F"	"Etudiant"	1	1	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	1	2	1	1	1	5	1	5	1	"traduit le haut de gamme mais pas du tout l'innovation"
+"758"	64	22	"F"	"Etudiant"	2	2	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	4	3	2	3	2	3	2	2	4	"ne démontre pas le coté expert, passionnel"
+"759"	64	22	"F"	"Etudiant"	3	3	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	4	4	4	4	2	2	2	2	4	"trop dans les aigus"
+"760"	64	22	"F"	"Etudiant"	4	4	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	2	3	2	2	2	4	2	3	5	NA
+"761"	64	22	"F"	"Etudiant"	5	5	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	3	1	1	2	5	1	4	5	NA
+"762"	64	22	"F"	"Etudiant"	6	6	0	0	0	0	1	1	0	1	0	0	0	0	0	0	0	1	0	0	0	3	3	2	3	2	3	2	3	7	NA
+"763"	64	22	"F"	"Etudiant"	7	7	0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	0	0	1	0	4	4	3	3	2	3	3	2	6	NA
+"764"	64	22	"F"	"Etudiant"	8	8	0	0	1	0	0	1	0	1	0	1	1	0	0	0	0	0	0	0	1	3	3	2	3	3	4	3	3	8	"le thème fait plus posé"
+"765"	64	22	"F"	"Etudiant"	9	9	0	0	1	0	0	1	0	1	0	0	0	1	0	0	0	0	1	0	0	2	3	3	3	3	4	2	3	8	"manque un peu de gaieté"
+"766"	64	22	"F"	"Etudiant"	10	10	0	1	0	0	0	1	0	1	0	0	0	0	1	0	0	0	0	0	0	3	3	2	2	3	4	2	3	7	"thème un peu triste, pas assez vivant"
+"767"	64	22	"F"	"Etudiant"	11	11	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	2	3	3	3	3	4	3	3	8	"proche d'une musique de film"
+"768"	64	22	"F"	"Etudiant"	12	12	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	4	3	3	3	2	3	3	2	6	NA
+"769"	65	22	"H"	"Etudiant"	1	1	0	0	1	1	1	0	1	0	0	0	1	0	0	0	0	0	0	0	0	4	1	5	5	4	1	5	2	2	"beaucoup trop joyeux"
+"770"	65	22	"H"	"Etudiant"	2	2	1	1	0	0	0	1	0	0	0	1	0	1	0	1	0	0	0	0	1	2	3	2	2	3	4	3	3	7	"suffisamment sobre"
+"771"	65	22	"H"	"Etudiant"	3	3	1	0	0	0	1	0	0	1	0	0	0	0	1	0	0	0	0	0	0	4	3	5	5	5	1	5	2	4	"un peu trop sportif"
+"772"	65	22	"H"	"Etudiant"	4	4	1	0	0	0	1	0	0	0	0	0	0	0	1	0	0	1	0	0	0	4	3	3	3	5	1	5	1	1	"représente une entreprise bas de gamme"
+"773"	65	22	"H"	"Etudiant"	5	5	1	1	1	0	0	0	1	0	1	1	0	0	0	0	0	0	0	0	0	4	1	3	3	4	3	3	3	5	"ressemble à windows, pas original"
+"774"	65	22	"H"	"Etudiant"	6	6	0	0	0	1	1	0	0	0	0	0	0	0	0	1	1	0	0	1	0	3	3	4	3	4	5	4	2	4	"musique triste"
+"775"	65	22	"H"	"Etudiant"	7	7	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0	4	2	2	2	2	4	4	2	2	"son trop burlesque"
+"776"	65	22	"H"	"Etudiant"	8	8	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	1	1	0	3	3	3	3	3	3	3	3	9	"lenteur du son démontre la minutie"
+"777"	65	22	"H"	"Etudiant"	9	9	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	1	0	0	4	3	3	4	3	3	3	3	6	"fait penser a des efforts vains pour avoir de la qualité"
+"778"	65	22	"H"	"Etudiant"	10	10	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	1	0	0	3	2	2	2	2	2	4	2	4	"irait à une entreprise jeune"
+"779"	65	22	"H"	"Etudiant"	11	11	1	0	1	1	0	0	1	0	0	1	0	0	0	1	0	0	0	0	1	3	3	3	3	3	3	3	3	6	"ressemble à windows, pas original"
+"780"	65	22	"H"	"Etudiant"	12	12	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	3	3	4	4	3	3	3	2	7	"son agressif"
+"781"	66	23	"F"	"Etudiant"	1	1	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	1	1	2	3	1	3	1	4	3	NA
+"782"	66	23	"F"	"Etudiant"	2	2	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	2	2	2	2	1	3	1	4	3	NA
+"783"	66	23	"F"	"Etudiant"	3	3	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	2	3	3	3	3	4	3	5	5	NA
+"784"	66	23	"F"	"Etudiant"	4	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	3	5	3	3	2	3	3	1	0	"pas assez technologique"
+"785"	66	23	"F"	"Etudiant"	5	5	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	3	4	3	3	3	3	3	3	7	NA
+"786"	66	23	"F"	"Etudiant"	6	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	2	2	1	2	1	4	3	5	4	"trop solennel"
+"787"	66	23	"F"	"Etudiant"	7	7	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	2	2	1	1	2	4	2	3	3	NA
+"788"	66	23	"F"	"Etudiant"	8	8	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	3	2	4	2	3	2	3	4	"aigu"
+"789"	66	23	"F"	"Etudiant"	9	9	0	0	0	0	1	0	1	0	0	0	1	0	1	0	0	0	0	0	0	3	2	3	3	3	3	3	3	7	"reflète trop la simplicité, évoque une autre marque"
+"790"	66	23	"F"	"Etudiant"	10	10	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	3	4	2	2	3	3	2	5	6	NA
+"791"	66	23	"F"	"Etudiant"	11	11	0	0	0	1	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	4	3	3	4	3	3	2	3	8	NA
+"792"	66	23	"F"	"Etudiant"	12	12	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	5	2	1	2	4	3	1	1	"pas assez technologique"
+"793"	67	22	"H"	"Etudiant"	1	1	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	1	1	0	1	1	1	1	2	5	1	4	0	"trop terroir, trop traditionnel"
+"794"	67	22	"H"	"Etudiant"	2	2	0	0	0	0	0	0	0	1	0	1	0	1	0	0	1	0	0	0	0	2	3	2	2	3	3	2	4	3	NA
+"795"	67	22	"H"	"Etudiant"	3	3	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	1	0	0	0	2	1	1	1	2	4	3	3	2	NA
+"796"	67	22	"H"	"Etudiant"	4	4	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	1	0	1	1	1	1	1	5	2	5	0	NA
+"797"	67	22	"H"	"Etudiant"	5	5	0	0	0	0	0	1	0	0	0	0	0	1	0	1	0	1	0	0	0	2	3	2	3	3	4	2	4	5	"manque de peps, un peu plus energique"
+"798"	67	22	"H"	"Etudiant"	6	6	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	1	1	0	1	1	1	1	1	5	3	1	0	"rappelle la fete de la bière, en desaccord total avec les valeurs de la marque"
+"799"	67	22	"H"	"Etudiant"	7	7	0	0	1	0	0	0	0	0	0	0	1	0	1	0	0	1	0	0	0	2	2	2	2	3	3	2	3	6	"véhicule la classe, l'expertise mais manque de folie"
+"800"	67	22	"H"	"Etudiant"	8	8	0	0	0	0	0	1	0	0	0	1	0	0	0	1	0	0	0	0	0	1	2	1	2	3	4	2	4	2	"trop mou pour une entreprise aussi dynamique"
+"801"	67	22	"H"	"Etudiant"	9	9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	1	1	1	2	4	4	2	4	1	"tempo beaucoup trop lent"
+"802"	67	22	"H"	"Etudiant"	10	10	0	1	0	1	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	3	3	2	2	3	3	3	4	6	"se démarque un peu mais rien de transcendant"
+"803"	67	22	"H"	"Etudiant"	11	11	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	0	1	1	1	1	4	5	2	4	0	"trop lent pour véhiculer de l'innovation"
+"804"	67	22	"H"	"Etudiant"	12	12	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	4	3	3	2	3	2	2	2	"ne fait pas penser a un matériel de qualité, plutôt a des babioles de faible qualité"
+"805"	68	23	"H"	"Etudiant"	1	1	0	0	1	0	0	0	1	0	0	1	0	0	0	1	0	0	0	0	0	1	2	1	2	1	4	1	5	2	"trop grave"
+"806"	68	23	"H"	"Etudiant"	2	2	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	4	3	3	5	2	3	2	3	4	"trop agressif, trop aigu"
+"807"	68	23	"H"	"Etudiant"	3	3	0	0	0	0	1	0	0	1	0	1	0	0	1	0	0	0	1	1	1	3	2	2	3	3	3	3	4	8	NA
+"808"	68	23	"H"	"Etudiant"	4	4	0	0	0	0	0	0	1	0	1	0	0	0	0	1	0	0	0	0	0	1	3	1	2	2	4	2	4	4	NA
+"809"	68	23	"H"	"Etudiant"	5	5	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	1	2	1	1	1	5	2	5	1	"trop grave"
+"810"	68	23	"H"	"Etudiant"	6	6	1	1	0	0	1	1	0	0	1	0	1	0	0	0	0	1	0	0	1	4	3	3	3	2	3	2	3	5	"un peu trop aigu"
+"811"	68	23	"H"	"Etudiant"	7	7	0	0	1	1	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	3	3	2	2	4	4	3	3	6	"un peu trop lent"
+"812"	68	23	"H"	"Etudiant"	8	8	0	0	1	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	1	2	1	1	2	5	1	5	3	NA
+"813"	68	23	"H"	"Etudiant"	9	9	1	1	0	0	0	1	0	1	1	1	0	0	0	0	0	0	0	0	1	4	3	2	2	3	2	3	3	5	NA
+"814"	68	23	"H"	"Etudiant"	10	10	0	0	1	0	0	0	1	0	0	0	0	0	0	1	0	0	0	1	0	2	3	3	3	2	4	3	4	6	"un peu trop grave, un peu trop sérieux"
+"815"	68	23	"H"	"Etudiant"	11	11	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	3	3	3	2	3	4	3	3	7	"manque d'energie"
+"816"	68	23	"H"	"Etudiant"	12	12	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	1	0	3	4	2	3	1	4	1	4	4	NA
+"817"	69	23	"F"	"Etudiant"	1	1	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	0	1	1	0	1	5	1	2	1	4	1	4	3	NA
+"818"	69	23	"F"	"Etudiant"	2	2	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	0	1	1	0	2	5	2	2	2	4	2	4	4	NA
+"819"	69	23	"F"	"Etudiant"	3	3	0	0	1	0	0	1	0	1	1	0	0	0	0	1	0	0	1	1	0	1	5	1	1	1	5	1	4	2	NA
+"820"	69	23	"F"	"Etudiant"	4	4	0	0	1	1	0	1	0	1	1	0	0	0	0	1	0	1	1	1	0	3	3	3	3	3	3	3	3	9	NA
+"821"	69	23	"F"	"Etudiant"	5	5	0	0	1	0	0	1	0	1	1	0	0	0	0	1	0	1	1	1	0	3	3	3	3	3	3	3	3	10	NA
+"822"	69	23	"F"	"Etudiant"	6	6	1	1	1	0	0	1	0	0	0	1	0	1	0	1	1	0	1	1	0	2	5	4	4	1	3	2	4	4	NA
+"823"	69	23	"F"	"Etudiant"	7	7	0	1	1	0	0	1	0	0	0	0	0	1	0	1	0	0	0	0	0	1	4	1	1	1	4	1	4	4	NA
+"824"	69	23	"F"	"Etudiant"	8	8	0	0	1	1	1	1	1	0	0	0	0	0	0	1	0	1	0	0	0	3	3	3	3	3	3	2	3	9	NA
+"825"	69	23	"F"	"Etudiant"	9	9	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	0	1	1	0	1	4	2	2	3	3	3	3	7	NA
+"826"	69	23	"F"	"Etudiant"	10	10	0	0	1	0	0	1	0	0	1	0	0	0	0	1	0	0	0	0	0	1	5	1	1	2	1	1	5	3	NA
+"827"	69	23	"F"	"Etudiant"	11	11	1	0	1	0	1	1	0	0	1	0	0	0	0	1	1	1	0	0	1	2	3	2	3	2	3	2	4	5	NA
+"828"	69	23	"F"	"Etudiant"	12	12	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	1	4	1	1	2	2	2	3	5	NA
+"829"	70	23	"F"	"Etudiant"	1	1	1	0	0	0	0	1	0	1	0	1	0	0	0	1	0	0	0	0	1	2	3	2	2	3	4	2	4	4	"trop cérémonial"
+"830"	70	23	"F"	"Etudiant"	2	2	1	0	0	0	0	0	1	0	0	1	0	0	0	1	0	0	0	0	0	3	3	3	4	2	3	2	3	6	"un peu trop energique, pas de mystère qui pourrait évoquer l'innovation et la technologie"
+"831"	70	23	"F"	"Etudiant"	3	3	0	0	1	0	0	1	0	1	0	0	0	0	0	1	0	0	1	1	1	3	2	3	3	3	4	2	3	5	"trop froid, impersonnel"
+"832"	70	23	"F"	"Etudiant"	4	4	0	0	0	1	0	0	0	0	1	0	1	0	1	0	0	1	1	1	0	2	4	2	3	1	4	4	1	4	"accordéon ne va pas avec la technologie, l'innovation, sonne trop terroir"
+"833"	70	23	"F"	"Etudiant"	5	5	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	2	4	2	4	2	4	2	3	4	NA
+"834"	70	23	"F"	"Etudiant"	6	6	0	0	0	0	0	1	0	1	0	0	0	0	0	1	0	0	0	0	1	3	3	2	2	3	3	3	3	8	"chaleureux mais aussi sobre, classieux, technologie"
+"835"	70	23	"F"	"Etudiant"	7	7	0	1	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	0	4	4	4	4	1	2	2	4	4	"tonalité trop agressive"
+"836"	70	23	"F"	"Etudiant"	8	8	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0	1	0	0	0	3	3	3	3	3	2	2	3	7	"coté froid du violon, pas assez chaleureux"
+"837"	70	23	"F"	"Etudiant"	9	9	0	0	0	1	0	0	1	0	1	0	1	0	0	0	0	0	1	1	0	3	2	2	2	1	4	3	2	5	"accordéon trop rural"
+"838"	70	23	"F"	"Etudiant"	10	10	0	0	1	0	0	1	0	1	0	0	0	1	0	1	0	0	0	0	0	3	2	3	3	4	4	2	4	6	"trop chic, trop opéra, élite"
+"839"	70	23	"F"	"Etudiant"	11	11	0	0	1	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	4	4	4	4	2	3	2	3	6	NA
+"840"	70	23	"F"	"Etudiant"	12	12	0	0	1	0	0	1	1	0	0	0	0	0	0	1	0	0	0	0	0	3	2	3	3	3	3	3	3	7	"piano, un son aigu de type violon pollue un peu, sorte d'écho"
+"841"	71	22	"F"	"Etudiant"	1	1	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	1	0	2	2	3	1	3	4	3	3	3	"manque de dynamisme"
+"842"	71	22	"F"	"Etudiant"	2	2	0	0	1	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	3	3	3	3	2	3	3	3	8	"il représente assez bien l'entreprise, je trouve que ça colle, petit bémol  pour le violon en arrière plan "
+"843"	71	22	"F"	"Etudiant"	3	3	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	2	5	1	3	1	5	1	2	3	"trop aigu"
+"844"	71	22	"F"	"Etudiant"	4	4	1	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	3	3	3	3	2	3	2	2	7	"pas mal trop haut pas assez chaleureux, fait moins sérieux surtout pour la technologie"
+"845"	71	22	"F"	"Etudiant"	5	5	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	1	5	2	1	2	5	2	2	3	"trop haut, pas assez rapide pas du tout technologique"
+"846"	71	22	"F"	"Etudiant"	6	6	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	1	2	4	2	3	2	4	2	3	5	"pas haute technologie, trop traditionelle"
+"847"	71	22	"F"	"Etudiant"	7	7	0	1	1	1	1	0	1	0	0	0	1	0	1	0	0	0	1	0	0	5	5	3	3	1	1	5	1	0	"pas du tout adapté, fait bonne franquette, bal musette"
+"848"	71	22	"F"	"Etudiant"	8	8	0	0	0	0	0	1	0	0	0	0	0	0	0	1	1	0	0	0	0	2	2	2	2	3	4	2	2	7	"manque d'entrain"
+"849"	71	22	"F"	"Etudiant"	9	9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	5	5	4	3	1	2	2	2	3	"trop aigu"
+"850"	71	22	"F"	"Etudiant"	10	10	0	1	0	1	0	0	0	0	0	0	1	0	1	0	0	0	1	0	0	4	4	3	3	2	2	5	1	1	"bal musette un peu"
+"851"	71	22	"F"	"Etudiant"	11	11	0	0	0	0	0	1	0	0	0	1	0	0	0	1	0	0	0	1	1	2	2	1	1	3	3	3	3	7	"dynamique, haute technologie plus innovant"
+"852"	71	22	"F"	"Etudiant"	12	12	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	1	5	5	4	5	2	2	3	2	2	"trop rapide, trop aigu, mauvais pour haute technologie, trop jeune, inmature"
+"853"	72	20	"F"	"Etudiant"	1	1	0	1	0	0	0	1	0	1	0	0	0	1	0	1	0	0	0	0	1	4	2	3	4	1	1	3	2	6	"un peu trop vif pas assez serieux"
+"854"	72	20	"F"	"Etudiant"	2	2	0	0	1	0	0	0	1	0	1	0	1	0	0	0	0	0	1	0	0	2	3	3	2	3	3	2	4	8	"pas assez joyeux mais plutôt surprenant"
+"855"	72	20	"F"	"Etudiant"	3	3	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	2	2	5	4	1	2	1	1	3	"trop aigu"
+"856"	72	20	"F"	"Etudiant"	4	4	0	0	1	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	1	4	2	1	1	1	2	2	"trop lent, manque de dynamisme"
+"857"	72	20	"F"	"Etudiant"	5	5	1	0	0	1	0	1	0	0	1	0	1	0	0	0	0	0	1	0	1	2	3	2	3	3	3	2	3	7	"encore un peu trop aigu, pas assez joyeux"
+"858"	72	20	"F"	"Etudiant"	6	6	0	0	1	0	0	0	1	1	0	0	0	0	0	0	0	0	0	1	0	1	2	1	1	4	5	2	4	5	"trop lent donc aucun dynamisme"
+"859"	72	20	"F"	"Etudiant"	7	7	0	0	0	0	0	1	0	0	0	0	0	1	0	1	1	0	0	0	1	1	1	1	3	3	4	3	5	5	"trop classique, donc pas assez innovant"
+"860"	72	20	"F"	"Etudiant"	8	8	1	1	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	2	3	2	2	3	3	3	3	8	"son agréable mais un peu trop lent"
+"861"	72	20	"F"	"Etudiant"	9	9	0	0	0	1	1	0	0	0	0	1	0	0	0	0	1	0	0	1	0	2	3	2	3	3	3	3	3	9	"bonne dynamique, manque un peu de joie"
+"862"	72	20	"F"	"Etudiant"	10	10	1	0	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	1	4	3	5	2	2	2	3	1	3	"trop aigue et trop lent"
+"863"	72	20	"F"	"Etudiant"	11	11	0	0	0	0	0	1	0	0	1	1	1	0	0	1	1	0	0	1	0	2	3	3	3	3	3	2	3	9	"son agréable, manque de de joie, trop grave"
+"864"	72	20	"F"	"Etudiant"	12	12	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	2	3	3	2	3	3	3	3	9	"bonne tonalité, agréable, manque d'un peu de dynamisme"
+"865"	73	22	"F"	"Etudiant"	1	1	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	1	1	1	1	3	4	2	4	2	"trop classique, trop lent"
+"866"	73	22	"F"	"Etudiant"	2	2	0	0	0	0	0	1	0	1	1	0	0	0	0	1	0	1	0	1	1	3	3	1	1	3	3	3	3	7	"un peu trop lent, très classe, pas assez technologique"
+"867"	73	22	"F"	"Etudiant"	3	3	0	1	0	1	1	0	1	1	0	0	1	0	1	0	0	0	1	1	0	3	4	2	3	1	3	4	1	0	"pas du tout sérieux, accordéon pas du tout haut de gamme"
+"868"	73	22	"F"	"Etudiant"	4	4	1	1	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	3	4	3	3	1	3	2	3	8	"trop aigu, fait mal aux oreilles, manque de raffinement, trop froid"
+"869"	73	22	"F"	"Etudiant"	5	5	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	1	4	1	1	2	4	1	4	4	"trop lent, orgue trop classique et trop ellitiste"
+"870"	73	22	"F"	"Etudiant"	6	6	0	0	1	1	0	0	1	0	0	0	0	0	1	0	1	0	0	0	0	2	2	2	3	3	3	3	3	4	"trop classique"
+"871"	73	22	"F"	"Etudiant"	7	7	1	1	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	2	4	3	2	2	3	2	3	6	"trop lent, trop aigu"
+"872"	73	22	"F"	"Etudiant"	8	8	0	0	0	1	1	0	1	0	0	0	0	0	1	0	0	0	1	1	0	3	2	2	2	1	3	3	2	3	"trop traditionnel"
+"873"	73	22	"F"	"Etudiant"	9	9	0	0	0	1	1	0	1	1	0	0	1	0	1	0	0	0	1	1	0	3	3	3	3	1	3	3	1	4	"pas haut de gamme, pas novateur"
+"874"	73	22	"F"	"Etudiant"	10	10	1	1	0	1	1	0	1	0	0	1	0	0	0	0	0	0	0	0	1	3	3	3	3	2	3	2	3	8	"un peu trop froid et aigu"
+"875"	73	22	"F"	"Etudiant"	11	11	0	0	0	1	1	0	0	1	0	0	1	0	1	0	0	0	1	1	0	3	3	3	4	1	3	3	2	3	"accordéon ne fait pas haut de gamme ni innovant, pas assez serieux"
+"876"	73	22	"F"	"Etudiant"	12	12	1	0	0	0	0	1	0	1	0	1	0	0	0	0	0	1	0	0	1	3	3	2	3	3	3	3	3	9	"un peu trop lent, le plus adapté"
+"877"	74	24	"H"	"Etudiant"	1	1	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	1	0	0	2	2	3	3	3	3	2	4	7	"simple, efficace"
+"878"	74	24	"H"	"Etudiant"	2	2	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	4	4	4	3	2	1	1	3	2	"trop aigu, pas d'aplomb"
+"879"	74	24	"H"	"Etudiant"	3	3	1	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	3	3	4	2	1	3	2	2	5	"violon plus classe que le piano"
+"880"	74	24	"H"	"Etudiant"	4	4	1	0	0	0	0	1	0	0	0	0	0	1	0	1	0	0	0	0	0	2	3	2	2	3	4	3	4	4	"violoncelle plus agréable à l'écoute"
+"881"	74	24	"H"	"Etudiant"	5	5	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	1	1	0	4	5	2	2	1	1	2	1	0	"accordéon pas trop classe"
+"882"	74	24	"H"	"Etudiant"	6	6	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	5	5	4	5	1	1	2	1	0	"beaucoup trop aigu, trop technologique"
+"883"	74	24	"H"	"Etudiant"	7	7	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	3	4	3	3	1	2	3	1	2	"pas classe"
+"884"	74	24	"H"	"Etudiant"	8	8	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	3	3	3	3	4	3	3	4	8	"classe, entrainant"
+"885"	74	24	"H"	"Etudiant"	9	9	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	1	3	4	2	3	1	1	2	1	0	"fanfare"
+"886"	74	24	"H"	"Etudiant"	10	10	0	0	1	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	3	2	2	2	3	3	3	4	8	NA
+"887"	74	24	"H"	"Etudiant"	11	11	0	0	1	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	4	2	3	4	2	2	4	2	6	"trop rapide"
+"888"	74	24	"H"	"Etudiant"	12	12	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	4	5	1	1	1	1	1	1	0	"horrible, trop aigu, lent"
+"889"	75	20	"F"	"Etudiant"	1	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	3	3	2	3	2	3	2	3	7	NA
+"890"	75	20	"F"	"Etudiant"	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	5	1	4	1	5	1	2	2	NA
+"891"	75	20	"F"	"Etudiant"	3	3	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	2	3	2	1	1	5	3	3	4	NA
+"892"	75	20	"F"	"Etudiant"	4	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	3	4	2	1	1	4	3	2	4	NA
+"893"	75	20	"F"	"Etudiant"	5	5	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	3	3	3	3	1	2	2	2	6	NA
+"894"	75	20	"F"	"Etudiant"	6	6	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	2	2	1	1	3	4	3	3	5	NA
+"895"	75	20	"F"	"Etudiant"	7	7	1	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	3	3	3	3	2	1	2	3	6	NA
+"896"	75	20	"F"	"Etudiant"	8	8	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	2	2	1	1	2	5	2	3	5	NA
+"897"	75	20	"F"	"Etudiant"	9	9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	4	1	2	1	5	1	4	2	NA
+"898"	75	20	"F"	"Etudiant"	10	10	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	1	0	3	2	3	2	3	3	3	3	7	NA
+"899"	75	20	"F"	"Etudiant"	11	11	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	1	0	3	3	3	3	2	3	3	3	9	NA
+"900"	75	20	"F"	"Etudiant"	12	12	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	2	4	2	2	1	4	3	2	5	NA
+"901"	76	20	"F"	"Etudiant"	1	1	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	2	2	3	1	3	3	2	3	7	NA
+"902"	76	20	"F"	"Etudiant"	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	2	3	2	3	3	4	3	3	7	NA
+"903"	76	20	"F"	"Etudiant"	3	3	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	2	2	2	3	3	3	4	4	NA
+"904"	76	20	"F"	"Etudiant"	4	4	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	2	4	2	2	1	3	4	1	4	NA
+"905"	76	20	"F"	"Etudiant"	5	5	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	4	5	2	4	2	3	2	3	6	NA
+"906"	76	20	"F"	"Etudiant"	6	6	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	1	2	2	1	3	4	2	4	5	NA
+"907"	76	20	"F"	"Etudiant"	7	7	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	3	2	2	3	3	1	3	5	NA
+"908"	76	20	"F"	"Etudiant"	8	8	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	3	3	2	3	3	3	2	4	7	NA
+"909"	76	20	"F"	"Etudiant"	9	9	0	0	0	0	0	0	1	0	0	1	0	1	0	0	0	0	0	0	0	1	4	2	1	2	4	1	4	2	NA
+"910"	76	20	"F"	"Etudiant"	10	10	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	2	2	2	3	3	3	3	3	8	NA
+"911"	76	20	"F"	"Etudiant"	11	11	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	1	1	1	1	4	1	4	1	NA
+"912"	76	20	"F"	"Etudiant"	12	12	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	2	2	2	1	3	5	1	4	5	NA
+"913"	77	22	"F"	"Etudiant"	1	1	0	0	0	1	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	3	3	2	2	3	3	3	2	7	"trop moyen age"
+"914"	77	22	"F"	"Etudiant"	2	2	0	1	0	0	0	0	1	0	0	0	1	0	0	0	1	0	0	0	0	4	4	5	5	4	3	4	2	1	"énervant"
+"915"	77	22	"F"	"Etudiant"	3	3	0	0	1	0	0	1	0	0	1	0	0	0	0	1	0	0	0	0	1	2	3	3	3	3	3	2	4	6	NA
+"916"	77	22	"F"	"Etudiant"	4	4	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	3	3	3	3	3	3	3	3	8	NA
+"917"	77	22	"F"	"Etudiant"	5	5	0	0	0	1	0	0	0	0	0	0	1	0	1	0	0	0	1	0	0	4	5	4	3	2	3	4	2	3	"pas assez serieux, trop populaire, donne l'impression d'etre expert"
+"918"	77	22	"F"	"Etudiant"	6	6	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	1	1	0	4	5	4	3	3	3	3	2	4	NA
+"919"	77	22	"F"	"Etudiant"	7	7	1	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	0	0	4	4	4	3	3	3	3	3	5	"trop troubadour"
+"920"	77	22	"F"	"Etudiant"	8	8	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	5	5	5	5	4	0	4	2	0	"enervant, trop aigu"
+"921"	77	22	"F"	"Etudiant"	9	9	0	0	1	0	0	1	0	0	1	0	0	1	0	1	0	1	0	0	1	2	3	3	2	3	4	3	3	7	NA
+"922"	77	22	"F"	"Etudiant"	10	10	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	3	3	3	3	3	3	3	3	9	NA
+"923"	77	22	"F"	"Etudiant"	11	11	0	0	0	0	0	1	0	0	1	0	0	0	0	1	0	1	0	0	0	3	4	3	2	3	3	2	3	4	NA
+"924"	77	22	"F"	"Etudiant"	12	12	1	0	0	0	1	0	0	1	1	0	0	0	0	0	0	1	0	0	0	5	5	5	5	3	3	4	2	2	"énervant"
+"925"	78	22	"H"	"Etudiant"	1	1	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	4	4	1	3	1	1	1	1	0	"trop électronique, trop rapide, pas classe"
+"926"	78	22	"H"	"Etudiant"	2	2	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	0	0	1	0	4	3	2	4	2	3	3	3	4	"piano, apporte un côté haut de gamme"
+"927"	78	22	"H"	"Etudiant"	3	3	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	2	4	4	1	1	4	1	1	1	"glauque et sinistre"
+"928"	78	22	"H"	"Etudiant"	4	4	0	0	1	0	0	1	0	1	0	0	0	0	0	1	0	0	0	0	0	3	3	2	2	3	3	3	3	8	"classe, mystérieux, sensuel, son ressenti agréable"
+"929"	78	22	"H"	"Etudiant"	5	5	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	5	5	3	1	2	1	1	0	"désagréable à l'oreille, problématique pour un vendeur de casque"
+"930"	78	22	"H"	"Etudiant"	6	6	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	4	3	3	3	2	3	3	3	7	"piano + echo agréable dans casque et classe"
+"931"	78	22	"H"	"Etudiant"	7	7	0	0	0	1	0	0	1	0	0	0	0	0	1	0	0	0	1	1	0	4	5	4	3	1	2	4	2	4	"trop franchouillard , ça fait guinguette"
+"932"	78	22	"H"	"Etudiant"	8	8	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	4	4	3	1	2	1	1	1	"désagréable"
+"933"	78	22	"H"	"Etudiant"	9	9	0	0	0	0	0	1	0	1	1	0	0	0	0	0	1	1	0	0	0	3	3	3	3	3	3	3	3	10	"parfait , sobre, classe, echo bien mesuré, simple, sans chichis et appréciable"
+"934"	78	22	"H"	"Etudiant"	10	10	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	4	3	3	4	2	3	3	3	7	"rythme est trop rapide, on a pas le temps d'apprécier le son, c'est mieux quand on a le temps d'attendre comme la sncf"
+"935"	78	22	"H"	"Etudiant"	11	11	1	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	3	3	4	3	3	3	3	8	"bien"
+"936"	78	22	"H"	"Etudiant"	12	12	0	0	0	1	0	0	1	0	0	0	0	0	0	1	0	0	1	1	0	5	5	1	1	1	3	3	1	1	"Ca fait film d'horreur, on dirait porte qui grince"
+"937"	79	23	"H"	"Etudiant"	1	1	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	1	3	2	1	1	5	1	3	6	NA
+"938"	79	23	"H"	"Etudiant"	2	2	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	2	3	2	2	3	5	3	4	3	NA
+"939"	79	23	"H"	"Etudiant"	3	3	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	5	3	3	1	1	3	2	0	"bon son pour le cirque"
+"940"	79	23	"H"	"Etudiant"	4	4	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	1	0	2	4	1	2	1	3	3	1	1	"bonne intro de bal de campagne"
+"941"	79	23	"H"	"Etudiant"	5	5	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	2	3	3	3	3	4	3	3	9	NA
+"942"	79	23	"H"	"Etudiant"	6	6	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	1	2	2	3	3	1	3	2	5	5	NA
+"943"	79	23	"H"	"Etudiant"	7	7	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	4	4	3	3	1	2	4	1	3	NA
+"944"	79	23	"H"	"Etudiant"	8	8	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	3	2	3	2	3	4	2	3	6	NA
+"945"	79	23	"H"	"Etudiant"	9	9	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	3	2	3	2	2	3	2	3	7	NA
+"946"	79	23	"H"	"Etudiant"	10	10	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	1	4	1	1	2	5	2	4	3	NA
+"947"	79	23	"H"	"Etudiant"	11	11	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	2	3	3	2	2	3	2	3	6	NA
+"948"	79	23	"H"	"Etudiant"	12	12	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	4	3	3	3	2	3	3	1	6	NA
+"949"	80	22	"H"	"Etudiant"	1	1	0	0	1	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	1	2	1	1	3	4	2	4	3	"glauque, trop traditionnl"
+"950"	80	22	"H"	"Etudiant"	2	2	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	3	3	2	3	3	3	1	3	7	NA
+"951"	80	22	"H"	"Etudiant"	3	3	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	2	2	3	2	3	4	1	4	5	"perd en dynamisme, ou est l'independance"
+"952"	80	22	"H"	"Etudiant"	4	4	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	1	0	2	3	2	3	2	4	2	3	4	"manque de haute technologie"
+"953"	80	22	"H"	"Etudiant"	5	5	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	2	2	2	3	2	4	1	2	2	"son strident et agressif"
+"954"	80	22	"H"	"Etudiant"	6	6	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	2	3	3	2	3	3	2	3	5	NA
+"955"	80	22	"H"	"Etudiant"	7	7	1	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	3	3	2	3	3	3	3	3	8	NA
+"956"	80	22	"H"	"Etudiant"	8	8	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	1	2	2	2	3	4	1	4	3	"bienvenue a la morgue"
+"957"	80	22	"H"	"Etudiant"	9	9	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	1	1	1	0	5	5	4	4	4	1	4	1	2	"fait baraque a frites, pas haute technologie"
+"958"	80	22	"H"	"Etudiant"	10	10	0	0	1	0	0	0	1	1	0	0	0	0	1	0	0	0	0	0	0	3	3	3	3	4	3	3	3	9	"restitue bien le coté haut de gamme et innovant"
+"959"	80	22	"H"	"Etudiant"	11	11	0	1	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	1	4	2	1	2	4	2	3	3	"son grave, fait orgue, messe ou enterrement"
+"960"	80	22	"H"	"Etudiant"	12	12	1	0	0	1	0	0	0	0	1	0	0	0	0	0	0	1	0	0	1	2	3	3	2	3	3	3	3	8	NA
+"961"	81	23	"F"	"Etudiant"	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	2	2	2	2	1	3	3	2	3	NA
+"962"	81	23	"F"	"Etudiant"	2	2	1	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	1	3	3	3	3	3	3	3	3	10	NA
+"963"	81	23	"F"	"Etudiant"	3	3	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	1	1	1	1	1	4	2	2	3	NA
+"964"	81	23	"F"	"Etudiant"	4	4	1	0	0	0	1	0	1	1	0	0	0	0	1	0	1	0	1	0	0	4	4	2	3	2	3	3	2	6	NA
+"965"	81	23	"F"	"Etudiant"	5	5	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	2	2	2	2	3	3	2	3	6	NA
+"966"	81	23	"F"	"Etudiant"	6	6	0	1	0	0	0	0	1	0	0	0	0	0	1	0	1	0	0	1	0	2	4	1	2	1	1	4	1	2	NA
+"967"	81	23	"F"	"Etudiant"	7	7	1	0	0	1	0	0	0	0	1	0	0	0	0	1	0	0	0	0	1	2	2	2	2	3	3	2	3	3	NA
+"968"	81	23	"F"	"Etudiant"	8	8	0	0	1	0	0	0	0	0	1	0	0	0	1	0	0	0	1	0	0	2	4	2	2	2	3	4	2	4	NA
+"969"	81	23	"F"	"Etudiant"	9	9	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	2	2	1	1	2	3	4	2	1	NA
+"970"	81	23	"F"	"Etudiant"	10	10	0	1	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	1	3	4	4	4	3	3	3	3	7	NA
+"971"	81	23	"F"	"Etudiant"	11	11	1	0	0	0	0	1	0	1	0	0	0	1	0	0	1	0	0	0	1	2	4	4	2	3	3	2	2	4	NA
+"972"	81	23	"F"	"Etudiant"	12	12	0	0	0	1	0	0	0	1	0	0	1	0	0	0	1	0	0	1	0	3	3	3	3	3	3	3	3	10	NA
+"973"	82	22	"F"	"Etudiant"	1	1	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	1	0	4	2	2	4	2	2	3	1	3	"trop joyeux, trop aigu"
+"974"	82	22	"F"	"Etudiant"	2	2	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	3	3	2	2	3	3	3	3	9	NA
+"975"	82	22	"F"	"Etudiant"	3	3	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	2	3	3	3	2	4	2	3	6	"un peu trop triste"
+"976"	82	22	"F"	"Etudiant"	4	4	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	3	3	3	3	2	2	3	2	7	"surprenant, donne une idée de haute technologie"
+"977"	82	22	"F"	"Etudiant"	5	5	0	0	0	0	0	1	0	0	1	0	0	0	0	1	0	0	0	0	1	2	2	2	2	3	3	2	3	4	"un peu mou"
+"978"	82	22	"F"	"Etudiant"	6	6	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	4	4	3	4	2	1	3	2	3	"trop aigu"
+"979"	82	22	"F"	"Etudiant"	7	7	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	0	0	1	0	2	2	2	2	3	4	3	3	5	NA
+"980"	82	22	"F"	"Etudiant"	8	8	0	1	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	2	3	3	3	2	3	2	3	6	NA
+"981"	82	22	"F"	"Etudiant"	9	9	0	0	1	0	0	0	0	0	1	0	0	1	0	0	0	0	1	0	0	2	3	2	2	2	4	2	4	3	"pas assez energique et innovant"
+"982"	82	22	"F"	"Etudiant"	10	10	0	0	1	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	3	3	3	3	2	3	2	3	8	NA
+"983"	82	22	"F"	"Etudiant"	11	11	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	3	3	4	2	2	3	2	4	"pas assez expert"
+"984"	82	22	"F"	"Etudiant"	12	12	0	0	1	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	2	3	2	3	2	3	3	3	7	NA
+"985"	83	19	"H"	"Etudiant"	1	1	0	0	0	1	0	0	1	0	0	0	0	0	1	0	0	0	1	1	0	2	4	1	1	1	3	1	3	4	NA
+"986"	83	19	"H"	"Etudiant"	2	2	0	0	0	0	0	0	0	1	0	1	0	1	0	0	0	0	0	0	0	4	3	3	3	2	3	3	3	8	"proche du sifflement d'un oiseau"
+"987"	83	19	"H"	"Etudiant"	3	3	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	1	3	1	1	1	2	3	2	3	5	NA
+"988"	83	19	"H"	"Etudiant"	4	4	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	3	3	2	2	2	3	3	2	4	NA
+"989"	83	19	"H"	"Etudiant"	5	5	0	0	1	0	0	1	0	0	0	0	0	1	0	0	0	1	0	0	0	1	2	1	1	1	3	1	5	2	"piano pas adapté, trop dramatique"
+"990"	83	19	"H"	"Etudiant"	6	6	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	3	1	1	3	3	3	3	3	"trop lent, pas adapté à l'innovation"
+"991"	83	19	"H"	"Etudiant"	7	7	0	0	0	0	1	0	0	0	0	0	0	1	0	0	1	0	0	0	0	2	3	3	3	3	4	2	5	5	NA
+"992"	83	19	"H"	"Etudiant"	8	8	1	1	1	0	0	0	1	0	0	1	0	0	0	1	0	0	0	0	1	3	3	3	2	3	3	3	3	9	NA
+"993"	83	19	"H"	"Etudiant"	9	9	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	2	2	1	2	3	3	2	3	4	NA
+"994"	83	19	"H"	"Etudiant"	10	10	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	3	2	2	1	3	3	3	4	4	NA
+"995"	83	19	"H"	"Etudiant"	11	11	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	1	0	1	0	3	2	2	2	4	3	3	3	5	"trop lent"
+"996"	83	19	"H"	"Etudiant"	12	12	0	0	0	0	0	1	0	0	0	0	0	1	0	1	0	0	0	0	1	3	2	2	2	3	3	2	3	3	"bruit trop sourd et trop lent"
+"997"	84	22	"F"	"Etudiant"	1	1	0	1	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	2	2	3	1	3	4	2	4	3	"trop église"
+"998"	84	22	"F"	"Etudiant"	2	2	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	3	3	3	2	3	3	2	2	7	NA
+"999"	84	22	"F"	"Etudiant"	3	3	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	2	2	1	2	3	3	2	3	5	NA
+"1000"	84	22	"F"	"Etudiant"	4	4	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	1	1	1	3	5	1	5	0	"trop mou, glacial"
+"1001"	84	22	"F"	"Etudiant"	5	5	0	1	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	5	4	4	3	3	3	4	2	5	"trop carnaval"
+"1002"	84	22	"F"	"Etudiant"	6	6	0	1	0	0	0	0	0	0	0	0	0	1	0	1	0	0	1	0	0	3	3	2	2	3	3	2	3	6	NA
+"1003"	84	22	"F"	"Etudiant"	7	7	0	0	0	1	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	3	4	2	3	3	3	3	2	6	NA
+"1004"	84	22	"F"	"Etudiant"	8	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	5	4	5	4	4	2	4	2	4	NA
+"1005"	84	22	"F"	"Etudiant"	9	9	1	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	2	2	1	4	3	2	2	3	NA
+"1006"	84	22	"F"	"Etudiant"	10	10	0	0	1	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	3	3	2	3	3	3	3	3	9	"sobre, élégant, moderne"
+"1007"	84	22	"F"	"Etudiant"	11	11	0	1	0	0	0	0	0	1	1	0	0	0	0	0	0	1	0	0	0	4	4	5	5	2	2	4	1	3	NA
+"1008"	84	22	"F"	"Etudiant"	12	12	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	1	1	0	1	1	1	1	1	5	1	5	1	NA
+"1009"	85	25	"F"	"Etudiant"	1	1	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	1	3	4	3	3	2	3	2	3	6	"ce son véhicule une image de serieux et d'efficacité"
+"1010"	85	25	"F"	"Etudiant"	2	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	2	5	1	1	1	4	3	4	2	"fait vieillot, fait penser a un orgue dans une eglise"
+"1011"	85	25	"F"	"Etudiant"	3	3	0	0	1	0	0	1	1	0	0	0	0	0	0	1	0	0	0	1	1	3	2	2	3	2	3	2	3	8	"fait serieux et exigeant"
+"1012"	85	25	"F"	"Etudiant"	4	4	0	1	0	1	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	3	2	2	1	3	4	3	3	6	"un peu mou"
+"1013"	85	25	"F"	"Etudiant"	5	5	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	2	5	1	1	3	4	2	2	4	"trop criard, desagreable"
+"1014"	85	25	"F"	"Etudiant"	6	6	1	0	0	0	0	0	1	0	0	0	1	0	0	0	0	1	0	0	1	3	2	3	3	2	3	2	3	8	"serieux et efficace, tres classique"
+"1015"	85	25	"F"	"Etudiant"	7	7	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	1	0	2	4	3	3	3	2	3	2	1	"vieillot"
+"1016"	85	25	"F"	"Etudiant"	8	8	1	0	0	1	0	1	0	1	1	0	0	0	0	1	0	1	0	0	1	3	3	3	3	3	3	3	3	10	"elegant"
+"1017"	85	25	"F"	"Etudiant"	9	9	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	1	0	5	4	2	3	3	2	3	2	2	"vieillot"
+"1018"	85	25	"F"	"Etudiant"	10	10	0	0	0	0	0	0	1	1	0	0	0	0	0	1	0	0	0	0	0	3	3	3	3	4	4	2	3	8	"serieux et elegant, un peu mou"
+"1019"	85	25	"F"	"Etudiant"	11	11	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	3	3	3	3	2	3	3	3	9	"original, efficace et different"
+"1020"	85	25	"F"	"Etudiant"	12	12	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	2	3	3	3	2	3	2	3	8	"tres classique"
+"1021"	86	38	"F"	"Employé"	1	1	0	0	0	1	0	0	1	0	0	0	1	0	0	1	0	0	0	1	1	3	4	2	3	2	3	2	4	5	NA
+"1022"	86	38	"F"	"Employé"	2	2	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	1	2	1	2	2	4	2	4	3	NA
+"1023"	86	38	"F"	"Employé"	3	3	0	0	1	0	0	1	1	1	0	1	0	0	0	1	1	0	0	0	1	3	2	3	3	2	3	2	3	7	NA
+"1024"	86	38	"F"	"Employé"	4	4	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	1	2	1	2	2	4	2	4	3	NA
+"1025"	86	38	"F"	"Employé"	5	5	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	2	4	2	5	2	4	2	4	2	NA
+"1026"	86	38	"F"	"Employé"	6	6	1	0	1	0	0	1	1	0	0	0	1	1	0	1	0	0	0	1	1	3	3	3	3	2	3	3	3	8	NA
+"1027"	86	38	"F"	"Employé"	7	7	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	4	4	3	5	2	3	2	4	3	NA
+"1028"	86	38	"F"	"Employé"	8	8	0	0	1	0	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	3	4	3	4	2	3	2	4	4	NA
+"1029"	86	38	"F"	"Employé"	9	9	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	4	5	4	5	1	4	1	4	2	NA
+"1030"	86	38	"F"	"Employé"	10	10	0	0	1	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	1	2	3	3	3	2	3	2	4	7	NA
+"1031"	86	38	"F"	"Employé"	11	11	0	0	1	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	1	3	4	3	3	2	3	2	3	8	NA
+"1032"	86	38	"F"	"Employé"	12	12	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	2	2	2	2	2	3	2	3	4	NA
+"1033"	87	21	"F"	"Etudiant"	1	1	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	1	0	3	1	2	2	1	4	2	4	2	"trop populiste"
+"1034"	87	21	"F"	"Etudiant"	2	2	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	3	3	2	3	2	3	3	3	8	"il semble novateur tout en étant sérieux mais un peu trop aigüe"
+"1035"	87	21	"F"	"Etudiant"	3	3	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	2	3	1	2	3	4	3	4	5	"trop lourd"
+"1036"	87	21	"F"	"Etudiant"	4	4	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	2	2	4	4	2	2	2	2	0	"trop aigüe, agréssif"
+"1037"	87	21	"F"	"Etudiant"	5	5	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	3	3	3	4	2	3	4	3	6	"ne marque pas assez le fait que ce soit un des plus grands fabricants"
+"1038"	87	21	"F"	"Etudiant"	6	6	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	1	0	2	1	1	2	2	4	4	3	3	"pas novateur"
+"1039"	87	21	"F"	"Etudiant"	7	7	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	4	3	4	4	1	3	1	3	1	"trop aigüe, agressif"
+"1040"	87	21	"F"	"Etudiant"	8	8	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	3	2	3	2	1	4	4	2	2	"pas assez entrainant et en relation avec la technologie"
+"1041"	87	21	"F"	"Etudiant"	9	9	1	1	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	3	2	3	3	3	3	3	3	9	"son semblant plus construit, haute qualité"
+"1042"	87	21	"F"	"Etudiant"	10	10	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	4	4	4	4	3	2	2	3	3	"trop aigüe"
+"1043"	87	21	"F"	"Etudiant"	11	11	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	1	0	3	2	2	4	2	4	4	2	4	"trop traditionnel"
+"1044"	87	21	"F"	"Etudiant"	12	12	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	2	2	2	4	1	4	2	2	0	"lourd"
+"1045"	88	20	"H"	"Etudiant"	1	1	0	0	1	1	0	0	0	0	1	0	0	0	1	0	0	0	1	0	0	3	2	2	3	1	2	3	2	7	"pas assez surprenant, la dimension technologie n'apparait que peu "
+"1046"	88	20	"H"	"Etudiant"	2	2	0	0	0	1	0	0	0	0	0	0	1	0	1	0	0	0	1	1	0	4	5	2	1	1	1	2	1	1	"trop chauvin"
+"1047"	88	20	"H"	"Etudiant"	3	3	1	0	1	0	0	1	1	0	0	1	0	0	0	0	0	0	0	0	1	2	3	2	3	3	3	3	3	10	"le piano traduit bien l'innovation à l'aide de l'effet aigu"
+"1048"	88	20	"H"	"Etudiant"	4	4	0	0	0	0	0	0	0	1	1	0	0	1	0	0	0	1	0	0	0	2	2	2	2	2	3	3	3	8	"tempo trop lent"
+"1049"	88	20	"H"	"Etudiant"	5	5	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	2	1	1	2	2	3	3	3	6	"tempo trop lent et son trop grave pour suggerer l'innovation"
+"1050"	88	20	"H"	"Etudiant"	6	6	1	1	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	1	3	3	3	3	2	2	3	2	8	NA
+"1051"	88	20	"H"	"Etudiant"	7	7	0	0	0	1	0	0	0	0	1	0	0	0	0	1	0	0	0	1	0	2	2	1	1	1	3	2	2	2	"trop grave déprimant"
+"1052"	88	20	"H"	"Etudiant"	8	8	1	1	0	0	0	1	1	0	0	0	0	0	0	1	0	0	0	0	0	3	3	3	3	2	3	3	3	9	NA
+"1053"	88	20	"H"	"Etudiant"	9	9	1	1	1	0	0	0	0	1	0	1	0	0	0	1	0	1	0	0	0	3	3	3	3	3	3	2	3	8	"trop aigu"
+"1054"	88	20	"H"	"Etudiant"	10	10	0	0	0	1	0	0	0	0	1	0	0	0	1	0	0	0	1	1	0	2	2	1	1	1	1	2	2	2	NA
+"1055"	88	20	"H"	"Etudiant"	11	11	0	0	0	0	0	1	1	1	1	0	0	1	0	1	0	0	0	0	1	2	3	2	2	3	3	2	3	7	NA
+"1056"	88	20	"H"	"Etudiant"	12	12	1	1	0	0	0	1	1	0	0	1	0	0	0	1	0	1	0	0	1	2	3	2	3	3	3	3	3	9	NA
+"1057"	89	19	"F"	"Etudiant"	1	1	0	0	1	0	0	1	0	0	0	0	0	1	0	1	1	0	0	1	0	2	2	1	1	2	4	3	3	6	"pas dynamique, pas d'innovation mais classe et haut de gamme"
+"1058"	89	19	"F"	"Etudiant"	2	2	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	2	3	1	3	2	2	3	3	5	"manque aspect technologique"
+"1059"	89	19	"F"	"Etudiant"	3	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	3	5	1	5	1	1	3	2	4	"pas classe du tout ni haut de gamme mais technologie et désagréable"
+"1060"	89	19	"F"	"Etudiant"	4	4	0	0	1	0	0	1	0	0	0	0	0	1	0	0	0	0	0	1	0	3	3	3	3	2	3	4	3	7	"propre, classe, technologique, innovation"
+"1061"	89	19	"F"	"Etudiant"	5	5	0	0	1	0	0	1	0	1	1	0	0	0	0	0	0	0	1	0	0	2	3	2	2	3	3	2	3	7	"classe, haut de gamme, manque côté innovation et indépendant"
+"1062"	89	19	"F"	"Etudiant"	6	6	0	1	0	0	1	0	0	0	1	0	0	0	1	0	0	0	0	0	0	4	5	1	4	1	2	3	2	4	"fait trop populaire, ni classe, ni technologique"
+"1063"	89	19	"F"	"Etudiant"	7	7	0	1	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	1	3	3	2	2	2	3	3	2	6	"technologie bien ressentie mais pas assez haut de gamme"
+"1064"	89	19	"F"	"Etudiant"	8	8	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	1	5	2	1	2	5	2	4	5	"trop rigide et perçant pour innovation et technologie"
+"1065"	89	19	"F"	"Etudiant"	9	9	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	3	4	2	4	1	2	3	2	4	"pas du tout technologie/ innovation /classe"
+"1066"	89	19	"F"	"Etudiant"	10	10	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	3	2	2	2	3	3	3	3	6	"manque aspect innovation"
+"1067"	89	19	"F"	"Etudiant"	11	11	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	1	0	0	0	2	2	1	1	1	3	3	2	4	"pas assez dynamique"
+"1068"	89	19	"F"	"Etudiant"	12	12	1	0	1	1	0	1	0	0	0	1	0	0	0	1	0	0	0	0	0	3	2	2	2	3	4	2	2	6	"manque un peu technologie et innovation"
+"1069"	90	19	"F"	"Etudiant"	1	1	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	1	3	2	1	3	1	3	3	2	4	"pas assez serieux"
+"1070"	90	19	"F"	"Etudiant"	2	2	0	0	0	0	0	1	0	0	0	1	0	0	0	1	0	0	0	0	0	2	3	3	3	1	4	2	3	7	"assez serieux tout en etant classe"
+"1071"	90	19	"F"	"Etudiant"	3	3	0	0	0	0	1	0	0	0	0	0	1	1	0	0	0	0	0	0	0	4	3	4	4	4	2	3	2	4	"trop rapide"
+"1072"	90	19	"F"	"Etudiant"	4	4	0	1	0	0	0	1	0	0	0	1	0	1	0	1	0	0	0	0	0	3	3	3	3	3	3	3	3	9	"correspond bien au critère de la marque"
+"1073"	90	19	"F"	"Etudiant"	5	5	0	1	0	0	0	1	0	0	0	1	0	1	0	1	0	0	0	0	0	3	3	3	3	3	4	3	3	8	"bien mais un peu trop lent"
+"1074"	90	19	"F"	"Etudiant"	6	6	0	0	0	0	1	0	0	0	0	1	0	1	0	0	0	0	0	0	0	4	5	5	5	4	2	4	1	3	"beaucoup trop rapide et trop aigu"
+"1075"	90	19	"F"	"Etudiant"	7	7	0	0	1	0	0	1	1	0	0	0	0	0	1	0	1	1	0	0	0	3	3	3	3	4	4	3	3	6	"un peu trop triste"
+"1076"	90	19	"F"	"Etudiant"	8	8	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	1	3	3	4	4	4	2	4	3	5	"trop rapide"
+"1077"	90	19	"F"	"Etudiant"	9	9	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	1	3	3	3	3	3	3	3	3	9	"un peu trop lent mais reste dans le ton de la marque, expert, classe, haut de gamme"
+"1078"	90	19	"F"	"Etudiant"	10	10	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	4	3	3	4	3	2	4	2	4	"trop gai"
+"1079"	90	19	"F"	"Etudiant"	11	11	0	0	0	1	0	0	1	0	1	0	0	0	1	0	0	1	0	1	0	2	3	2	2	4	5	2	2	4	"trop triste, ne convient pas"
+"1080"	90	19	"F"	"Etudiant"	12	12	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	1	5	4	4	5	2	2	3	1	3	"trop rapide"
+"1081"	91	19	"F"	"Etudiant"	1	1	0	0	1	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	1	5	1	1	1	5	1	4	0	"son trop lourd et trop populaire"
+"1082"	91	19	"F"	"Etudiant"	2	2	1	0	0	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	2	3	2	2	3	5	1	4	3	"trop dans les basses mais la résonance restitue assez bien le haut de gamme"
+"1083"	91	19	"F"	"Etudiant"	3	3	1	0	0	0	1	0	1	0	1	0	0	0	0	0	0	0	0	0	0	1	3	1	1	3	5	2	3	5	"son aigu + résonance, gage de qualité mais trop triste"
+"1084"	91	19	"F"	"Etudiant"	4	4	1	0	0	0	1	0	1	1	1	0	0	0	0	0	0	0	0	0	0	2	3	3	3	3	5	1	4	7	"cadence assez rapide montre le dynamisme mais trop peu joyeux"
+"1085"	91	19	"F"	"Etudiant"	5	5	0	0	1	0	0	1	0	0	0	1	0	0	0	1	0	0	0	0	1	1	3	2	2	3	4	1	3	6	"trop lent"
+"1086"	91	19	"F"	"Etudiant"	6	6	1	0	0	0	0	1	0	1	1	1	0	1	0	1	0	0	0	0	1	2	3	2	3	3	4	2	3	7	"piano et résonance montrent la qualité"
+"1087"	91	19	"F"	"Etudiant"	7	7	0	1	0	1	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	3	4	3	3	3	4	3	3	9	"son aérien et dynamique qui reflète ma qualité et l innovation"
+"1088"	91	19	"F"	"Etudiant"	8	8	0	0	1	0	0	1	0	1	1	1	0	0	0	1	0	0	0	0	0	3	3	1	2	3	4	2	4	6	"triste mais les violons reflètent bien le haut de gamme"
+"1089"	91	19	"F"	"Etudiant"	9	9	0	0	1	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	1	4	1	1	2	5	1	4	4	"pas assez rapide"
+"1090"	91	19	"F"	"Etudiant"	10	10	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	1	0	0	0	2	4	2	2	3	4	2	4	6	"instrument noble qui reflète bien la qualité mais trop lent et trop grave"
+"1091"	91	19	"F"	"Etudiant"	11	11	0	0	1	1	0	0	1	0	0	0	1	0	1	0	0	0	0	1	0	4	4	3	3	2	3	3	2	6	"un peu trop populaire"
+"1092"	91	19	"F"	"Etudiant"	12	12	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	2	4	3	3	3	4	2	3	6	"trop grave pour de la nouvelle technologie, il faut jouer dans les aigus, les cristallins"
+"1093"	92	20	"F"	"Etudiant"	1	1	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	2	3	2	3	1	3	2	4	2	NA
+"1094"	92	20	"F"	"Etudiant"	2	2	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	1	0	0	3	3	3	3	2	1	3	3	9	NA
+"1095"	92	20	"F"	"Etudiant"	3	3	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	2	3	2	2	2	3	3	3	6	NA
+"1096"	92	20	"F"	"Etudiant"	4	4	0	0	0	0	0	0	0	0	0	0	1	0	1	1	0	0	0	0	0	4	3	2	3	2	3	3	3	7	NA
+"1097"	92	20	"F"	"Etudiant"	5	5	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	1	0	4	4	2	2	2	1	1	5	4	NA
+"1098"	92	20	"F"	"Etudiant"	6	6	0	0	0	0	0	1	0	0	1	0	0	0	0	1	0	1	0	0	0	1	1	2	1	3	4	2	5	4	NA
+"1099"	92	20	"F"	"Etudiant"	7	7	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	2	3	3	3	3	3	2	3	8	NA
+"1100"	92	20	"F"	"Etudiant"	8	8	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	3	3	3	3	3	2	3	3	10	NA
+"1101"	92	20	"F"	"Etudiant"	9	9	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	4	5	2	4	1	3	4	2	6	NA
+"1102"	92	20	"F"	"Etudiant"	10	10	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	1	3	4	3	3	3	2	2	2	7	NA
+"1103"	92	20	"F"	"Etudiant"	11	11	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	4	1	1	3	4	2	4	4	NA
+"1104"	92	20	"F"	"Etudiant"	12	12	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	2	3	2	2	3	4	3	3	7	NA
+"1105"	93	46	"F"	"Profession intermédiaire"	1	1	1	0	0	0	0	1	0	0	0	1	0	0	0	1	1	0	0	1	0	3	3	3	3	2	4	2	3	7	NA
+"1106"	93	46	"F"	"Profession intermédiaire"	2	2	0	0	0	1	0	0	0	0	1	0	0	0	1	0	0	0	1	0	0	2	2	2	2	1	4	2	2	3	NA
+"1107"	93	46	"F"	"Profession intermédiaire"	3	3	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	3	2	2	3	2	4	3	2	3	NA
+"1108"	93	46	"F"	"Profession intermédiaire"	4	4	1	0	0	0	0	1	1	1	0	1	0	0	0	1	1	0	0	1	0	2	2	3	3	3	4	2	3	4	NA
+"1109"	93	46	"F"	"Profession intermédiaire"	5	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	4	5	4	4	2	2	2	2	0	NA
+"1110"	93	46	"F"	"Profession intermédiaire"	6	6	0	0	0	0	0	0	0	0	0	1	0	1	0	1	0	0	1	1	0	2	3	1	1	1	4	2	3	2	NA
+"1111"	93	46	"F"	"Profession intermédiaire"	7	7	0	0	0	1	0	0	1	0	1	0	0	0	1	1	0	0	0	0	0	2	3	2	2	1	4	2	3	2	NA
+"1112"	93	46	"F"	"Profession intermédiaire"	8	8	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	1	0	3	2	2	3	3	3	3	3	5	NA
+"1113"	93	46	"F"	"Profession intermédiaire"	9	9	0	1	0	0	1	1	1	0	0	1	0	0	1	1	0	0	0	1	1	3	3	3	3	3	3	3	2	6	NA
+"1114"	93	46	"F"	"Profession intermédiaire"	10	10	1	0	0	1	0	1	1	1	1	0	0	0	0	1	1	0	0	0	1	3	3	3	3	3	3	3	3	8	NA
+"1115"	93	46	"F"	"Profession intermédiaire"	11	11	1	0	1	1	0	1	1	1	1	1	0	0	0	1	1	1	0	0	1	3	3	2	2	2	3	3	3	8	NA
+"1116"	93	46	"F"	"Profession intermédiaire"	12	12	1	0	1	0	0	1	1	1	0	1	0	1	1	1	0	0	0	0	1	3	2	3	3	2	3	3	3	7	NA
+"1117"	94	19	"H"	"Etudiant"	1	1	1	0	1	0	0	1	1	0	0	1	0	0	0	1	1	0	0	0	1	2	2	2	2	1	4	3	3	4	NA
+"1118"	94	19	"H"	"Etudiant"	2	2	1	1	1	0	1	0	0	1	1	0	1	0	0	1	1	1	0	0	1	2	3	3	2	2	4	2	3	5	NA
+"1119"	94	19	"H"	"Etudiant"	3	3	1	0	1	0	0	1	1	1	0	1	0	1	0	1	1	1	0	0	1	3	2	2	3	2	3	3	3	6	NA
+"1120"	94	19	"H"	"Etudiant"	4	4	1	0	1	0	0	1	1	0	0	1	0	0	1	1	1	0	1	0	0	2	2	2	3	2	4	2	3	4	NA
+"1121"	94	19	"H"	"Etudiant"	5	5	1	1	1	1	0	0	1	1	1	0	1	0	0	0	0	1	0	1	1	2	2	3	3	2	4	2	3	4	NA
+"1122"	94	19	"H"	"Etudiant"	6	6	0	0	1	0	0	1	1	0	0	0	0	0	0	1	1	0	0	0	1	1	2	1	1	1	5	1	4	2	NA
+"1123"	94	19	"H"	"Etudiant"	7	7	1	0	1	1	0	1	1	0	0	0	0	1	0	1	1	0	0	0	1	1	2	1	1	1	5	1	3	3	NA
+"1124"	94	19	"H"	"Etudiant"	8	8	1	1	0	0	1	0	0	1	1	0	1	0	0	1	0	0	1	0	0	3	2	3	3	2	3	3	3	7	NA
+"1125"	94	19	"H"	"Etudiant"	9	9	1	0	1	0	0	1	1	0	0	1	0	0	0	1	1	0	0	0	1	2	2	2	1	1	4	2	3	4	NA
+"1126"	94	19	"H"	"Etudiant"	10	10	0	0	1	0	1	0	0	1	1	0	1	0	1	1	0	0	1	1	0	2	2	1	1	2	4	2	3	4	NA
+"1127"	94	19	"H"	"Etudiant"	11	11	1	0	0	0	1	0	1	1	1	1	0	0	0	1	1	0	0	0	0	3	3	2	3	2	4	2	3	6	NA
+"1128"	94	19	"H"	"Etudiant"	12	12	0	0	1	1	0	1	1	0	0	1	0	0	0	1	1	0	0	0	1	2	2	3	3	2	3	3	3	7	NA
+"1129"	95	58	"F"	"Employé"	1	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	3	2	2	3	2	4	2	3	4	NA
+"1130"	95	58	"F"	"Employé"	2	2	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	2	1	1	2	4	3	3	3	NA
+"1131"	95	58	"F"	"Employé"	3	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	2	2	2	2	3	4	3	3	5	NA
+"1132"	95	58	"F"	"Employé"	4	4	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	3	3	2	3	3	4	2	2	6	NA
+"1133"	95	58	"F"	"Employé"	5	5	0	1	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	1	4	2	1	3	4	3	3	5	NA
+"1134"	95	58	"F"	"Employé"	6	6	0	0	1	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	3	2	3	1	3	4	3	3	7	NA
+"1135"	95	58	"F"	"Employé"	7	7	0	0	0	0	0	0	1	0	0	0	1	0	1	0	0	0	0	0	0	3	2	2	2	3	4	1	3	5	NA
+"1136"	95	58	"F"	"Employé"	8	8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	2	2	2	2	1	4	2	3	6	NA
+"1137"	95	58	"F"	"Employé"	9	9	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	1	0	0	0	3	2	2	3	3	4	2	3	5	NA
+"1138"	95	58	"F"	"Employé"	10	10	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	1	0	0	1	2	2	1	3	4	2	3	3	NA
+"1139"	95	58	"F"	"Employé"	11	11	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	2	1	2	1	2	4	2	4	2	NA
+"1140"	95	58	"F"	"Employé"	12	12	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	3	3	2	3	2	4	2	3	5	NA
+"1141"	96	12	"F"	"Etudiant"	1	1	0	1	0	1	1	0	0	1	1	0	0	1	1	0	1	0	0	1	1	4	3	2	3	2	3	1	3	7	NA
+"1142"	96	12	"F"	"Etudiant"	2	2	1	1	1	0	0	1	0	1	0	0	1	0	0	1	0	0	1	1	1	3	3	1	4	3	2	2	2	8	NA
+"1143"	96	12	"F"	"Etudiant"	3	3	0	0	1	0	0	1	1	0	0	1	0	1	0	1	0	0	1	0	1	2	1	3	2	3	3	1	3	7	NA
+"1144"	96	12	"F"	"Etudiant"	4	4	1	0	1	1	1	0	0	1	1	1	0	1	0	1	0	1	0	1	0	1	3	2	2	3	4	2	5	6	NA
+"1145"	96	12	"F"	"Etudiant"	5	5	0	1	1	0	1	0	0	1	1	0	1	0	1	0	1	0	1	0	0	4	3	2	3	2	3	4	1	7	NA
+"1146"	96	12	"F"	"Etudiant"	6	6	1	0	0	0	1	0	0	0	0	1	0	1	0	0	1	0	0	1	1	5	5	5	5	3	1	3	2	5	NA
+"1147"	96	12	"F"	"Etudiant"	7	7	1	0	1	1	0	1	1	0	0	0	0	0	0	1	1	0	1	0	1	2	2	3	3	3	3	2	4	7	NA
+"1148"	96	12	"F"	"Etudiant"	8	8	0	1	0	1	1	0	0	1	1	0	1	0	1	0	0	1	1	1	0	4	3	2	3	2	3	3	2	7	NA
+"1149"	96	12	"F"	"Etudiant"	9	9	0	0	1	0	0	1	1	0	0	1	0	0	0	1	1	0	0	0	1	2	3	3	2	2	5	2	3	6	NA
+"1150"	96	12	"F"	"Etudiant"	10	10	0	1	0	0	1	0	0	1	1	0	1	0	1	0	0	0	1	1	0	2	2	3	3	3	4	2	3	7	NA
+"1151"	96	12	"F"	"Etudiant"	11	11	1	0	0	1	0	1	0	1	0	0	0	1	0	0	1	0	1	0	1	2	3	2	3	1	4	2	3	6	NA
+"1152"	96	12	"F"	"Etudiant"	12	12	0	1	1	0	0	0	0	0	0	1	0	0	1	1	0	1	0	0	1	4	4	4	3	3	3	3	2	7	NA
+"1153"	97	51	"H"	"Profession intermédiaire"	1	1	0	0	0	0	0	1	0	0	0	1	0	0	0	1	0	0	0	0	1	3	3	2	3	3	3	2	3	8	"son agréable"
+"1154"	97	51	"H"	"Profession intermédiaire"	2	2	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	1	0	4	4	2	2	1	4	2	1	4	NA
+"1155"	97	51	"H"	"Profession intermédiaire"	3	3	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	3	2	2	2	2	4	2	2	4	NA
+"1156"	97	51	"H"	"Profession intermédiaire"	4	4	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	3	3	2	3	3	3	3	3	8	NA
+"1157"	97	51	"H"	"Profession intermédiaire"	5	5	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	1	1	2	1	4	2	1	2	NA
+"1158"	97	51	"H"	"Profession intermédiaire"	6	6	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	2	3	2	3	2	4	2	2	6	NA
+"1159"	97	51	"H"	"Profession intermédiaire"	7	7	0	1	0	0	0	1	0	0	0	1	0	0	0	1	0	0	0	0	1	2	2	2	1	2	4	2	2	5	NA
+"1160"	97	51	"H"	"Profession intermédiaire"	8	8	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	1	1	1	1	4	2	1	3	NA
+"1161"	97	51	"H"	"Profession intermédiaire"	9	9	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	1	2	1	1	2	4	2	1	3	NA
+"1162"	97	51	"H"	"Profession intermédiaire"	10	10	0	1	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	1	3	2	2	3	3	3	2	2	6	NA
+"1163"	97	51	"H"	"Profession intermédiaire"	11	11	0	0	1	1	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	3	2	2	2	2	4	2	1	4	NA
+"1164"	97	51	"H"	"Profession intermédiaire"	12	12	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	3	2	3	3	2	2	3	3	7	NA
+"1165"	98	44	"H"	"Ingénieur"	1	1	0	0	1	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	2	3	3	2	3	4	2	3	4	"trop lent"
+"1166"	98	44	"H"	"Ingénieur"	2	2	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	3	3	3	3	3	4	3	3	6	"trop lent"
+"1167"	98	44	"H"	"Ingénieur"	3	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	3	4	3	3	2	3	2	3	3	"trop strident et trop lent"
+"1168"	98	44	"H"	"Ingénieur"	4	4	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	3	3	3	4	3	3	3	3	6	NA
+"1169"	98	44	"H"	"Ingénieur"	5	5	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	2	3	3	3	3	3	3	4	6	"plus allemand, pas assez technologique"
+"1170"	98	44	"H"	"Ingénieur"	6	6	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	3	3	3	3	3	3	3	3	7	"pas mal"
+"1171"	98	44	"H"	"Ingénieur"	7	7	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	3	4	2	2	2	3	2	2	2	"l'accordéon c'est pas ca "
+"1172"	98	44	"H"	"Ingénieur"	8	8	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	2	3	2	2	3	3	3	3	4	"trop lent"
+"1173"	98	44	"H"	"Ingénieur"	9	9	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	3	3	3	3	3	3	3	3	5	"côté technologique pas assez présent"
+"1174"	98	44	"H"	"Ingénieur"	10	10	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	3	3	3	2	3	4	3	4	3	"trop lent"
+"1175"	98	44	"H"	"Ingénieur"	11	11	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	3	3	3	3	2	3	2	3	4	"trop métallique"
+"1176"	98	44	"H"	"Ingénieur"	12	12	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	3	3	3	3	3	3	3	3	8	"assez simple mais bien"
+"1177"	99	23	"F"	"Etudiant"	1	1	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	0	0	1	0	1	1	1	1	1	5	1	5	1	"reflète son expert mais pas les autres valeurs"
+"1178"	99	23	"F"	"Etudiant"	2	2	0	1	0	0	1	0	0	1	0	0	0	0	1	0	0	0	0	0	0	3	3	3	2	2	3	2	3	4	"son différent, technologie"
+"1179"	99	23	"F"	"Etudiant"	3	3	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	1	1	0	2	3	2	2	1	4	1	5	3	"article de qualité mais image vieillote, pas nouvelle technologie"
+"1180"	99	23	"F"	"Etudiant"	4	4	0	0	0	0	0	1	0	0	0	0	0	1	0	1	0	0	1	1	0	1	4	1	1	1	5	1	5	0	"trop austère pour de la nouvelle technologie, pas innovant"
+"1181"	99	23	"F"	"Etudiant"	5	5	0	1	0	0	1	0	1	1	0	0	1	0	1	0	0	0	0	0	0	4	4	3	4	1	3	3	2	7	"dynamique, indépendance, innovation, pas assez classe"
+"1182"	99	23	"F"	"Etudiant"	6	6	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	3	3	3	3	1	3	2	3	7	"energique, basses donnent un coté classe, on entend bien la qualité du son"
+"1183"	99	23	"F"	"Etudiant"	7	7	0	0	1	0	0	1	0	0	0	0	0	1	0	0	0	0	1	1	0	1	1	1	1	1	5	1	5	1	"trop austère"
+"1184"	99	23	"F"	"Etudiant"	8	8	0	0	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	2	1	1	2	1	3	2	4	5	"son austère mais la brieveté rend l'ensemble dynamique, technologie"
+"1185"	99	23	"F"	"Etudiant"	9	9	1	0	0	0	0	0	1	0	1	0	1	0	1	0	0	0	0	0	0	5	3	4	3	2	3	3	3	6	"dynamique, indépendance, trop aigu, pas assez classe"
+"1186"	99	23	"F"	"Etudiant"	10	10	0	1	1	0	1	1	0	1	0	0	0	0	0	0	0	1	0	0	0	3	3	2	2	1	3	2	4	5	"trop lent, ne montre pas l'innovation"
+"1187"	99	23	"F"	"Etudiant"	11	11	0	0	1	0	0	0	0	0	0	0	0	1	0	1	0	0	0	1	0	1	1	1	1	1	5	2	4	1	"classe mais pas innovant"
+"1188"	99	23	"F"	"Etudiant"	12	12	0	1	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	1	4	5	2	4	3	2	2	2	0	"mauvais son, casse les oreilles, trop différent"
+"1189"	100	23	"H"	"Etudiant"	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	1	0	2	2	2	1	1	4	2	3	3	"traditionnel, peu innovant"
+"1190"	100	23	"H"	"Etudiant"	2	2	1	0	1	0	0	0	0	1	0	0	1	0	1	0	1	0	0	0	0	2	2	2	2	3	4	2	3	4	NA
+"1191"	100	23	"H"	"Etudiant"	3	3	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	1	0	2	3	2	2	2	3	2	3	5	NA
+"1192"	100	23	"H"	"Etudiant"	4	4	0	0	1	1	0	1	0	0	1	0	1	0	0	1	0	0	0	0	1	2	2	2	1	2	4	2	3	4	NA
+"1193"	100	23	"H"	"Etudiant"	5	5	0	0	1	1	0	1	0	0	1	0	1	0	0	1	0	0	0	0	0	2	2	2	3	3	4	2	3	4	NA
+"1194"	100	23	"H"	"Etudiant"	6	6	1	0	0	0	1	0	1	0	0	0	0	0	0	1	0	0	0	0	1	2	3	2	2	2	3	1	4	4	NA
+"1195"	100	23	"H"	"Etudiant"	7	7	0	1	0	0	0	0	0	0	0	1	0	1	0	1	0	0	0	0	0	3	3	3	3	2	3	3	3	7	NA
+"1196"	100	23	"H"	"Etudiant"	8	8	0	0	1	1	0	0	1	0	1	0	0	0	1	0	0	0	1	1	0	2	3	2	3	3	4	2	3	5	NA
+"1197"	100	23	"H"	"Etudiant"	9	9	1	0	0	0	0	1	0	1	0	0	0	0	0	1	1	1	0	0	0	2	3	2	2	2	4	2	3	4	NA
+"1198"	100	23	"H"	"Etudiant"	10	10	0	0	1	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	3	3	3	3	2	3	2	3	6	NA
+"1199"	100	23	"H"	"Etudiant"	11	11	0	0	1	1	0	1	0	0	0	1	0	0	0	1	0	0	0	0	0	3	3	3	3	3	3	3	3	8	NA
+"1200"	100	23	"H"	"Etudiant"	12	12	0	1	0	0	1	0	1	1	0	1	0	0	0	0	0	0	0	0	1	3	3	3	3	2	3	2	3	7	NA
+"1201"	101	23	"F"	"Etudiant"	1	1	0	0	0	0	1	0	1	0	0	0	0	0	0	1	0	0	0	0	0	2	3	3	3	1	4	1	3	3	"un peu trop strident"
+"1202"	101	23	"F"	"Etudiant"	2	2	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	1	0	3	2	2	2	2	4	3	2	2	"un peu mou pour de l'innovation"
+"1203"	101	23	"F"	"Etudiant"	3	3	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	2	1	1	2	4	2	3	3	"un peu mou"
+"1204"	101	23	"F"	"Etudiant"	4	4	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	3	4	3	3	2	3	2	3	6	"correct mais un peu aigu"
+"1205"	101	23	"F"	"Etudiant"	5	5	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	3	3	2	3	3	4	3	3	10	"agréable"
+"1206"	101	23	"F"	"Etudiant"	6	6	0	0	1	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	1	2	2	1	2	5	3	3	2	"trop traditionnel"
+"1207"	101	23	"F"	"Etudiant"	7	7	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	2	3	3	3	2	4	2	3	5	NA
+"1208"	101	23	"F"	"Etudiant"	8	8	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	2	4	3	3	1	4	1	3	4	"un peu trop strident"
+"1209"	101	23	"F"	"Etudiant"	9	9	0	1	0	0	1	0	0	0	0	0	1	0	1	0	0	0	0	0	0	4	3	2	2	2	3	2	4	5	NA
+"1210"	101	23	"F"	"Etudiant"	10	10	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	3	3	2	3	2	3	3	3	8	NA
+"1211"	101	23	"F"	"Etudiant"	11	11	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	4	3	2	3	2	3	2	3	5	NA
+"1212"	101	23	"F"	"Etudiant"	12	12	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	3	3	2	3	1	4	2	2	5	NA
+"1213"	102	20	"F"	"Etudiant"	1	1	1	0	0	1	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	4	3	4	3	2	3	3	2	3	NA
+"1214"	102	20	"F"	"Etudiant"	2	2	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	0	0	1	0	2	2	2	2	2	4	3	3	3	"trop impression de traditionnel, reflète pas l'innovation"
+"1215"	102	20	"F"	"Etudiant"	3	3	1	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	1	3	3	3	3	3	3	3	3	9	NA
+"1216"	102	20	"F"	"Etudiant"	4	4	0	0	1	0	0	0	1	0	0	0	0	0	1	0	0	0	1	0	0	4	2	2	2	2	3	3	3	4	"accordéon"
+"1217"	102	20	"F"	"Etudiant"	5	5	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	2	2	2	3	2	4	2	3	3	NA
+"1218"	102	20	"F"	"Etudiant"	6	6	1	0	0	0	0	1	0	0	1	0	0	0	0	0	1	0	0	0	1	3	2	2	3	3	3	3	4	6	NA
+"1219"	102	20	"F"	"Etudiant"	7	7	1	1	0	0	1	0	0	0	0	1	1	0	1	0	0	0	0	0	0	4	3	3	3	2	3	4	2	6	"pas assez classe"
+"1220"	102	20	"F"	"Etudiant"	8	8	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	1	1	1	1	2	4	2	3	2	"trop lent"
+"1221"	102	20	"F"	"Etudiant"	9	9	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	3	2	2	3	3	3	3	3	7	"pas assez original, pas assez innovant"
+"1222"	102	20	"F"	"Etudiant"	10	10	1	1	0	0	1	0	1	0	0	1	0	0	0	0	0	0	0	0	0	4	3	4	2	3	3	3	2	7	"pas assez traditionnel, reflète bien l'innovation"
+"1223"	102	20	"F"	"Etudiant"	11	11	0	0	0	0	0	0	0	0	0	1	0	1	0	0	1	0	0	1	1	3	2	3	3	3	4	3	4	6	"manque d'innovation"
+"1224"	102	20	"F"	"Etudiant"	12	12	1	0	0	0	0	1	0	1	0	1	0	0	0	1	1	0	0	0	1	3	3	3	1	3	3	3	3	6	NA
+"1225"	103	19	"H"	"Etudiant"	1	1	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	3	3	1	2	1	3	3	2	4	"ne reflète pas assez un son expert"
+"1226"	103	19	"H"	"Etudiant"	2	2	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	1	1	1	2	3	2	1	1	"trop peu energique"
+"1227"	103	19	"H"	"Etudiant"	3	3	1	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	3	3	1	1	3	3	3	3	6	"manque d'energie"
+"1228"	103	19	"H"	"Etudiant"	4	4	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	4	4	2	3	1	2	5	2	4	"trop populaire"
+"1229"	103	19	"H"	"Etudiant"	5	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	3	2	2	3	3	2	4	2	5	"manque de serieux"
+"1230"	103	19	"H"	"Etudiant"	6	6	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	3	3	3	3	3	3	3	3	9	"correspond bien"
+"1231"	103	19	"H"	"Etudiant"	7	7	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	5	3	4	1	3	2	3	4	"son agressif"
+"1232"	103	19	"H"	"Etudiant"	8	8	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	4	3	1	1	1	2	4	1	3	"peu serieux"
+"1233"	103	19	"H"	"Etudiant"	9	9	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	3	3	3	3	3	2	3	2	8	"bon ensemble, reflète bien les valeurs"
+"1234"	103	19	"H"	"Etudiant"	10	10	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	2	5	1	1	1	4	2	3	2	"son agressif"
+"1235"	103	19	"H"	"Etudiant"	11	11	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	4	4	2	4	2	3	3	2	5	"manque de professionnalisme"
+"1236"	103	19	"H"	"Etudiant"	12	12	1	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	3	2	2	1	3	3	3	3	6	"manque de vitesse, d'energie"
+"1237"	104	20	"H"	"Etudiant"	1	1	0	1	0	0	0	0	1	0	0	0	1	0	1	0	0	0	1	1	0	5	5	1	2	1	5	2	1	0	"accordéon ne représente pas du tout la technologie"
+"1238"	104	20	"H"	"Etudiant"	2	2	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	1	1	4	1	1	1	4	1	3	1	"impression de serieux"
+"1239"	104	20	"H"	"Etudiant"	3	3	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	5	5	2	4	1	1	3	2	2	"trop aigu"
+"1240"	104	20	"H"	"Etudiant"	4	4	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	1	2	4	2	2	2	"trop mou"
+"1241"	104	20	"H"	"Etudiant"	5	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	4	4	1	2	1	1	3	2	3	"trop traditionnel"
+"1242"	104	20	"H"	"Etudiant"	6	6	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	3	3	3	2	3	3	3	3	8	"bonne vitesse de la melodie et de la tonalite"
+"1243"	104	20	"H"	"Etudiant"	7	7	0	0	1	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	5	4	1	2	1	1	1	1	1	"beaucoup trop aigu"
+"1244"	104	20	"H"	"Etudiant"	8	8	0	1	0	0	1	0	1	0	1	0	1	0	1	0	0	1	1	1	0	4	4	1	2	1	1	5	1	2	"pas assez serieux"
+"1245"	104	20	"H"	"Etudiant"	9	9	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	4	4	3	3	3	3	3	3	6	"pas trop long, agréable à l'écoute"
+"1246"	104	20	"H"	"Etudiant"	10	10	0	0	0	0	0	0	0	0	0	0	0	1	0	1	1	1	0	0	0	1	2	1	1	1	4	2	5	2	"son trop mou"
+"1247"	104	20	"H"	"Etudiant"	11	11	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	1	0	5	4	3	3	2	2	3	2	4	"son trop aigu"
+"1248"	104	20	"H"	"Etudiant"	12	12	1	1	0	0	0	0	0	0	0	1	0	0	0	1	1	0	0	0	1	2	2	1	2	1	4	2	3	3	"trop grave"
+"1249"	105	23	"F"	"Etudiant"	1	1	0	0	1	0	0	0	1	0	1	0	1	0	0	1	0	1	1	1	0	3	3	3	3	3	3	3	3	6	"pas assez technologique"
+"1250"	105	23	"F"	"Etudiant"	2	2	0	0	1	0	0	0	1	0	0	0	0	0	0	1	1	0	0	0	1	2	1	1	1	2	5	1	5	0	"trop lent et trop mou"
+"1251"	105	23	"F"	"Etudiant"	3	3	0	1	0	0	1	0	1	0	1	0	1	0	1	0	0	0	1	1	0	3	3	3	3	3	3	3	3	7	NA
+"1252"	105	23	"F"	"Etudiant"	4	4	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	1	0	3	3	2	1	2	3	3	4	5	"trop mou"
+"1253"	105	23	"F"	"Etudiant"	5	5	1	1	0	0	1	1	1	1	1	1	1	1	0	0	1	1	1	1	1	3	3	3	3	3	3	3	3	10	"violon fait classe, technologie, familial, classe"
+"1254"	105	23	"F"	"Etudiant"	6	6	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	4	2	1	2	3	3	4	5	"trop lent, aspect technologique, mais trop froid"
+"1255"	105	23	"F"	"Etudiant"	7	7	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	3	3	3	3	3	3	3	3	8	"trop aigu"
+"1256"	105	23	"F"	"Etudiant"	8	8	0	0	1	1	0	0	1	0	1	0	0	1	0	1	0	0	0	0	1	3	3	3	3	3	3	3	4	7	NA
+"1257"	105	23	"F"	"Etudiant"	9	9	1	1	0	0	1	0	1	0	0	1	1	0	0	0	0	0	0	0	1	3	3	3	3	3	3	3	3	9	"moins pompeux, moins serieux"
+"1258"	105	23	"F"	"Etudiant"	10	10	0	0	1	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	1	2	1	1	1	2	5	2	5	0	NA
+"1259"	105	23	"F"	"Etudiant"	11	11	1	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	4	4	3	3	3	3	2	5	NA
+"1260"	105	23	"F"	"Etudiant"	12	12	1	0	1	1	0	1	1	0	1	1	0	0	0	1	0	0	0	0	1	3	2	2	2	3	3	3	3	4	"trop lent"
